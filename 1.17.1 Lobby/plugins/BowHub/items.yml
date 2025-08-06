@@ -1,0 +1,24 @@
+items:
+  bow:
+    material: BOW
+    data: 0
+    amount: 1
+    slot: 0
+    hide-attributes: true
+    custom-model-data: -1
+    displayname: "&aTeleporting Popper &7(Hold to shoot)"
+    lore:
+      - ""
+      - "&eTravel fast around in the world!"
+      - "&eShoot players to pop them."
+  arrow:
+    material: ARROW
+    data: 0
+    amount: 1
+    slot: 9
+    hide-Attributes: true
+    custom-model-data: -1
+    displayname: "&eSpecial Arrow"
+    lore:
+      - ""
+      - "&7A very special arrow."

@@ -1,0 +1,16 @@
+messages:
+  chat:
+    popper: "&aYou popped &7%player%&a!"
+    popped: "&aYou were popped by &7%player%&a!"
+    popped-yourself: "&cYou can't pop yourself!"
+    player-must-hold-bow: "&cYou can only pop players who are holding the bow!"
+    cooldown: "&cYou must wait 1 second before you can use the bow again!"
+    equipped: "&aYou equipped the &b%bow%&a!"
+    not-permission: "&cYou don't have permission to use this command."
+  title:
+    popper:
+      head: "&aYou popped"
+      sub: "&7%player%"
+    popped:
+      head: "&aYou were popped by"
+      sub: "&7%player%"

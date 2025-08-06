@@ -1,0 +1,25 @@
+id: '1'
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: b066fd3c-b0b2-4f64-b07c-09be4f837cbf
+world: world
+location:
+  x: 31.474414404160527
+  y: 77.0
+  z: -28.533184229879467
+  yaw: 43.291237
+  pitch: 0.63102114
+type: player
+properties:
+  skin_left_leg: 'true'
+  skin_jacket: 'true'
+  skin_cape: 'true'
+  skin_right_leg: 'true'
+  skin_left_sleeve: 'true'
+  skin_hat: 'true'
+  skin_right_sleeve: 'true'
+hologram:
+  lines: []
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;am9pbnEgc3Vydml2ZQ==;1000;ANY_CLICK;0

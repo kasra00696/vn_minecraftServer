@@ -1,0 +1,43 @@
+[04:21:41] [Craft Scheduler Thread - 773 - Vault/INFO]: [Vault] Checking for Updates ... 
+[04:21:41] [Craft Scheduler Thread - 773 - Vault/INFO]: [Vault] No new version available
+[05:54:35] [Server thread/INFO]: Stopping server
+[05:54:35] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.3.5
+[05:54:35] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.1
+[05:54:35] [Server thread/INFO]: [GSit] Disabling GSit v2.4.3
+[05:54:35] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[05:54:35] [Server thread/INFO]: [NexusAuctionHouse] Disabling NexusAuctionHouse v2.1.1
+[05:54:35] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[05:54:35] [Server thread/INFO]: [TAB] Disabled in 8ms
+[05:54:35] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[05:54:35] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:54:35] [Server thread/INFO]: [SynkLibs] Disabling SynkLibs v1.8.2
+[05:54:35] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:54:35] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:54:35] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[05:54:35] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:54:35] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:54:36] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:54:36] [Server thread/INFO]: Saving players
+[05:54:36] [Server thread/INFO]: Saving worlds
+[05:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 90 entity chunks, 0 poi chunks in world 'world' in 0.18s
+[05:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[05:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:54:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:54:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:54:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:54:36] [Server thread/INFO]: Flushing Chunk IO
+[05:54:36] [Server thread/INFO]: Closing Thread Pool
+[05:54:36] [Server thread/INFO]: Closing Server

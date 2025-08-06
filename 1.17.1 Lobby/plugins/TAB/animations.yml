@@ -1,0 +1,137 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&b&9v&benux.com'
+  - '&bv&9e&bnux.com'
+  - '&bve&9n&bux.com'
+  - '&bven&9u&bx.com'
+  - '&bvenu&9x.&bcom'
+  - '&bvenux&9.&bcom'
+  - '&bvenux.&9c&bom'
+  - '&bvenux.c&9o&bm'
+  - '&bvenux.co&9m'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+  - '&bvenux.com'
+play:
+  change-interval: 200
+  texts:
+  - '&bplay.&bvenux.com'
+  - '&bplay.&bvenux.com'
+  - '&bplay.&bvenux.com'
+  - '&bplay.&bvenux.com'
+  - '&bplay.&bvenux.com'
+  - '&b&9p&blay.&bvenux.com'
+  - '&bp&9l&bay.&bvenux.com'
+  - '&bpl&9a&by.&bvenux.com'
+  - '&bpla&9y&b.&bvenux.com'
+  - '&bplay&9.&bvenux.com'
+  - '&bplay.&9v&benux.com'
+  - '&bplay.v&9e&bnux.com'
+  - '&bplay.ve&9n&bux.com'
+  - '&bplay.ven&9u&bx.com'
+  - '&bplay.venu&9x.&bcom'
+  - '&bplay.venux&9.&bcom'
+  - '&bplay.venux.&9c&bom'
+  - '&bplay.venux.c&9o&bm'
+  - '&bplay.venux.co&9m'
+  - '&bplay.venux.com'
+  - '&bplay.venux.com'
+  - '&bplay.venux.com'
+  - '&bplay.venux.com'
+  - '&bplay.venux.com'
+  - '&bplay.venux.com'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.venux.com'
+  - '&a&nvote.venux.com'
+  - '&5vote.venux.com'
+  - '&5&nvote.venux.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

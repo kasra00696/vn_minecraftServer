@@ -1,0 +1,25 @@
+[05:54:30] [Server thread/INFO]: Stopping server
+[05:54:30] [Server thread/INFO]: [ZNPCsPlus] Disabling ZNPCsPlus v2.0.0
+[05:54:30] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.1
+[05:54:30] [Server thread/INFO]: [ajParkour] Disabling ajParkour v2.12.10
+[05:54:30] [Server thread/INFO]: [ajParkour] Removing all active players from parkour because the plugin is disabling.
+[05:54:30] [Server thread/INFO]: ajParkour v2.12.10 by ajgeiss0702 has been disabled!
+[05:54:30] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[05:54:30] [Server thread/INFO]: [TAB] Disabled in 13ms
+[05:54:30] [Server thread/INFO]: [ajQueue] Disabling ajQueue v2.7.0
+[05:54:30] [Server thread/INFO]: [GadgetsMenu] Disabling GadgetsMenu v4.19.0
+[05:54:30] [Server thread/INFO]: [GadgetsMenu] SQLite database connection has been closed.
+[05:54:30] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[05:54:30] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[05:54:30] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:54:30] [Server thread/INFO]: [BowHub] Disabling BowHub v6.0
+[05:54:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[05:54:31] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:54:31] [Server thread/INFO]: Saving players
+[05:54:31] [Server thread/INFO]: Saving worlds
+[05:54:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:54:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:54:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:54:31] [Server thread/INFO]: Flushing Chunk IO
+[05:54:31] [Server thread/INFO]: Closing Thread Pool
+[05:54:31] [Server thread/INFO]: Closing Server

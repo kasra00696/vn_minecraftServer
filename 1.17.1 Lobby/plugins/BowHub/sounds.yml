@@ -1,0 +1,11 @@
+# This configuration of sounds can be used for 1.13 and above.
+sounds:
+  bow:
+    teleport:
+      sound: ENTITY_CHICKEN_EGG
+      volume: 0.5
+      pitch: 1.0
+    pop:
+      sound: ENTITY_FIREWORK_ROCKET_LAUNCH
+      volume: 0.5
+      pitch: 1.0

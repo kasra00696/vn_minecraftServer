@@ -1,0 +1,8 @@
+[05:54:24] [Server thread/INFO]: Stopping server
+[05:54:24] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
+[05:54:25] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[05:54:25] [Server thread/INFO]: [JoinEffect] Disabling JoinEffect v4.2.5
+[05:54:25] [Server thread/INFO]: [JoinEffect] JoinEffect has been successfully disabled!
+[05:54:25] [Server thread/INFO]: Saving players
+[05:54:25] [Server thread/INFO]: Saving worlds
+[05:54:25] [Server thread/INFO]: Saving chunks for level 'world'/overworld

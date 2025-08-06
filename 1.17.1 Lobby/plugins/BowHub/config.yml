@@ -1,0 +1,38 @@
+#  ____                _    _       _      
+# |  _ \              | |  | |     | |     
+# | |_) | _____      _| |__| |_   _| |__   
+# |  _ < / _ \ \ /\ / /  __  | | | | '_ \  
+# | |_) | (_) \ V  V /| |  | | |_| | |_) | 
+# |____/ \___/ \_/\_/ |_|  |_|\__,_|_.__/ COPYRIGHT ©
+#
+
+enabled-worlds:
+  - hub
+  - world
+
+settings:
+  # This feature allows you to check for updates when the plugin is starting.
+  check-updates: false
+
+  # This feature allows you to enable or disable sending statistics. Please keep this enabled.
+  enable-metrics: true
+
+  bow:
+    give-on-join: true
+    cooldown:
+      enable: true
+      duration: 1
+    teleport:
+      enable: true
+      particle-effect: true
+    popping:
+      enable: true
+      power: 2.0
+      particle-effect: true
+      players-with-bow-only: true
+
+  arrow:
+    give-on-join: true
+    trail:
+      enable: true
+      particle-effect: FIREWORKS_SPARK
