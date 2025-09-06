@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756724242531
+  login: 1756724209205
+money: '0'
+last-account-name: aminaz91
+logoutlocation:
+  world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+  world-name: world
+  x: 14.837108142721322
+  y: 18.5
+  z: 36.48928756703145
+  yaw: -57.912384033203125
+  pitch: 27.355520248413086

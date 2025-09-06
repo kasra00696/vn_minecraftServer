@@ -1,0 +1,259 @@
+Diamond:
+    name: "&2&lDiamond shop (page %page%)"
+    economy: VAULT
+    size: 54
+    buttons:
+      goBack:
+        slot: 8   
+      previousPage:
+        slot: 0
+      nextPage:
+        slot: 2
+    fillItem:
+        material: light_blue_stained_glass_pane
+        name: ""
+    items:
+       1:
+        type: item      
+        item:
+          material: diamond_helmet      
+          quantity: 1
+          name: "&2&lDiamond"
+          enchantments:
+            - aquaaffinity:5
+            - fireprotect:8
+            - protection:8
+            - projectileprotection:8
+            - respiration:7
+            - thorns:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 13   
+       2:
+        type: item      
+        item:
+          material: diamond_chestplate
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - fireprotect:8
+            - protection:8
+            - projectileprotection:8
+            - thorns:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES            
+        buyPrice: -1
+        sellPrice: -1
+        slot: 22 
+       3:
+        type: item      
+        item:
+          material: diamond_leggings
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - fireprotect:8
+            - protection:8
+            - projectileprotection:8
+            - thorns:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 31 
+       4:
+        type: item      
+        item:
+          material: diamond_boots
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - depthstrider:9
+            - fireprotect:8
+            - frostwalker:6
+            - protection:8
+            - projectileprotection:8
+            - thorns:7
+            - unbreaking:7
+            - soulspeed:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 40 
+       5:
+        type: item      
+        item:
+          material: diamond_sword
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - baneofarthropods:9
+            - fireaspect:6
+            - knockback:6
+            - looting:7
+            - sharpness:9
+            - smite:9
+            - sweepingedge:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 12 
+       6:
+        type: item      
+        item:
+          material: diamond_shovel
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - efficiency:9
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 14 
+       7:
+        type: item      
+        item:
+          material: diamond_pickaxe
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - efficiency:9
+            - fortune:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 23 
+       8:
+        type: item      
+        item:
+          material: diamond_axe
+          quantity: 1
+          name: "&2&lDiamond"       
+          enchantments:
+            - efficiency:9
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 21 
+       9:
+        type: item      
+        item:
+          material: enchanted_golden_apple  
+          quantity: 64
+          name: "&2&lDiamond"      
+        buyPrice: -1
+        sellPrice: -1
+        slot: 29          
+       10:
+        type: item      
+        item:
+          material: golden_apple  
+          quantity: 64
+          name: "&2&lDiamond"      
+        buyPrice: -1                 
+        sellPrice: -1
+        slot: 33      
+       11:
+        type: item      
+        item:
+          material: bow
+          quantity: 1
+          name: "&2&lDiamond"       
+          enchantments:
+            - flame:1
+            - infinity:1     
+            - power:9
+            - punch:6
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 32 
+       12:
+        type: item      
+        item:
+          material: diamond_pickaxe
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - mending:1
+            - silktouch:1
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 24 
+       13:
+        type: item      
+        item:
+          material: crossbow
+          quantity: 1
+          name: "&2&lDiamond"       
+          enchantments:
+            - multishot:5
+            - piercing:8
+            - power:9
+            - quickcharge:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 30       
+       14:
+        type: item      
+        item:
+          material: shield
+          quantity: 1
+          name: "&2&lDiamond"       
+          enchantments:
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 20
+       15:
+        type: item      
+        item:
+          material: elytra
+          quantity: 1
+          name: "&2&lDiamond"       
+          enchantments:
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 19
+       16:
+        type: item      
+        item:
+          material: trident
+          quantity: 1
+          name: "&2&lDiamond"         
+          enchantments:
+            - impaling:9
+            - loyalty:7
+            - unbreaking:7
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 25

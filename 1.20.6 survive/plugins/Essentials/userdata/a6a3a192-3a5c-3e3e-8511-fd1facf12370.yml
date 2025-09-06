@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757136338471
+  login: 1757134121493
+money: '398.5'
+last-account-name: GTT
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 416.79601965841533
+  y: 84.0
+  z: 550.1303246535558
+  yaw: -113.721435546875
+  pitch: 27.55944061279297
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -1590.7934838206932
+  y: 69.0
+  z: -319.7124663426527
+  yaw: 122.4727783203125
+  pitch: 4.085542678833008

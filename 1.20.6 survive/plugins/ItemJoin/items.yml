@@ -1,0 +1,29 @@
+# --{ =-=-=-=-=-=-=-=-=-= ItemJoin's Custom Item Configurations, by RockinChaos =-=-=-=-=-=-=-=-=-= }--
+# See the tutorial page for a more in-depth explanation; https://github.com/RockinChaos/ItemJoin/wiki
+# Join the discord for easy plugin support; https://discord.gg/D5FnJ7C
+
+# Modifying the Version will cause this file to break and regenerate.
+items-Version: 8
+
+# General options that apply to the custom items' functionality.
+items-Delay: 2
+items-Overwrite: false
+items-Spamming: false
+items-RestrictCount: false
+
+# This is the section that the custom created items will be stored.
+# All created items should be saved under the 'items' section for each 'custom-item' subsection.
+items:
+  main-menu:
+    id: clock
+    slot: 8
+    name: '&aMain Menu'
+    commands-sound: BLOCK_NOTE_BLOCK_CHIME
+    interact-right:
+    - 'player: mainmenu'
+    interact-left:
+    - 'player: mainmenu'
+    commands-cooldown: 1
+    itemflags: death-keep, self-drops, placement, glowing, inventory-modify, cancel-events, cancel-equip, item-modifiable
+    triggers: join
+    enabled-worlds: ALL

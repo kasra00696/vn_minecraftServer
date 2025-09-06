@@ -1,0 +1,30 @@
+# Config
+
+Sound:
+  Sell: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  Error: "ENTITY_VILLAGER_NO"
+
+
+Log sell with sell wand in console: false
+
+# Should we destroy wand when is got 0 use?
+Destroy wand: true
+
+Hologram line:
+  - "&6Number of items in chest to sell: &e%amount%&6."
+  - "&6Total value: &e%price%."
+
+# After how many seconds hologram will be removed
+Hologram time: 5
+
+# Confirmation for sale with double click
+Confirmation:
+  enabled: false
+  # Particle color. RGB format (red, green, blue)
+  color: "0,255,0"
+  # How many seconds player have to confirm sell
+  time: 2
+
+system:
+  # What locale should we use?
+  locale: "en_US"

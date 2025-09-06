@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756715486477
+  login: 1756715346280
+money: '10000'
+last-account-name: Ghodratabad
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.564872653654527
+  y: 30.0
+  z: 53.61702550759955
+  yaw: 175.67193603515625
+  pitch: 2.8500335216522217
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 1021.5987721856053
+  y: 62.0
+  z: -254.72384683991146
+  yaw: -80.52786254882812
+  pitch: 62.70003128051758

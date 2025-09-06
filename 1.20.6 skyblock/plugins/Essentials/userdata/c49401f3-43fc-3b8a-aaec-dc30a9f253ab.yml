@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757064171008
+  login: 1757064143068
+money: '10000'
+last-account-name: AMiRGAMA
+lastlocation:
+  world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+  world-name: world
+  x: -111.5
+  y: 71.0
+  z: -127.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: 1199.508756377743
+  y: 100.0
+  z: 1199.0158468265206
+  yaw: 137.9451904296875
+  pitch: 19.530582427978516

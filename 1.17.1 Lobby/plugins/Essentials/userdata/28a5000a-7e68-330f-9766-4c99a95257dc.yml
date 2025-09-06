@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756632737064
+  login: 1756632718085
+money: '0'
+last-account-name: SirMrFarnam
+logoutlocation:
+  world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+  world-name: world
+  x: 9.168274027076482
+  y: 20.0
+  z: 50.23745319595798
+  yaw: -160.09039306640625
+  pitch: 8.632330894470215

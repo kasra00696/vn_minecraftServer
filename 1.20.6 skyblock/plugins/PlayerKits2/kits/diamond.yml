@@ -1,0 +1,203 @@
+cooldown: 561600
+permission_required: true
+display:
+  default:
+    id: DIAMOND_SWORD
+    name: '&c&lDiamond &cKit'
+    amount: 1
+    lore:
+    - '&7Cooldown: &c6.5 days'
+    - ''
+    - '&aLeft Click to claim!'
+    - '&bRight Click to preview!'
+    item_flags:
+    - HIDE_ATTRIBUTES
+  cooldown:
+    id: diamond_SWORD
+    name: '&c&l%kit_name% &cKit'
+    amount: 1
+    lore:
+    - '&cYou need to wait &7%time%'
+    - '&cto claim this kit again.'
+    item_flags:
+    - HIDE_ATTRIBUTES
+one_time: false
+auto_armor: false
+clear_inventory: false
+save_original_items: false
+allow_placeholders_on_original_items: false
+items:
+  '1':
+    id: DIAMOND_SWORD
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DAMAGE_ARTHROPODS;9
+    - FIRE_ASPECT;6
+    - KNOCKBACK;6
+    - LOOT_BONUS_MOBS;7
+    - DAMAGE_ALL;9
+    - DAMAGE_UNDEAD;9
+    - SWEEPING_EDGE;7
+    - DURABILITY;7
+    preview_slot: 0
+  '2':
+    id: DIAMOND_SHOVEL
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DIG_SPEED;9
+    - DURABILITY;7
+    preview_slot: 1
+  '3':
+    id: DIAMOND_PICKAXE
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - MENDING;1
+    - SILK_TOUCH;1
+    - DURABILITY;7
+    preview_slot: 2
+  '4':
+    id: DIAMOND_PICKAXE
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DIG_SPEED;9
+    - LOOT_BONUS_BLOCKS;7
+    - DURABILITY;7
+    preview_slot: 3
+  '5':
+    id: DIAMOND_AXE
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DIG_SPEED;9
+    - DURABILITY;7
+    preview_slot: 4
+  '6':
+    id: DIAMOND_HELMET
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - WATER_WORKER;5
+    - PROTECTION_FIRE;8
+    - PROTECTION_PROJECTILE;8
+    - PROTECTION_ENVIRONMENTAL;8
+    - OXYGEN;7
+    - THORNS;7
+    - DURABILITY;7
+    preview_slot: 5
+  '7':
+    id: DIAMOND_CHESTPLATE
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - PROTECTION_FIRE;8
+    - PROTECTION_PROJECTILE;8
+    - PROTECTION_ENVIRONMENTAL;8
+    - THORNS;7
+    - DURABILITY;7
+    preview_slot: 6
+  '8':
+    id: DIAMOND_LEGGINGS
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - PROTECTION_FIRE;8
+    - PROTECTION_PROJECTILE;8
+    - PROTECTION_ENVIRONMENTAL;8
+    - THORNS;7
+    - DURABILITY;7
+    preview_slot: 7
+  '9':
+    id: DIAMOND_BOOTS
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DEPTH_STRIDER;9
+    - PROTECTION_FIRE;8
+    - FROST_WALKER;6
+    - PROTECTION_PROJECTILE;8
+    - PROTECTION_ENVIRONMENTAL;8
+    - SOUL_SPEED;5
+    - THORNS;7
+    - DURABILITY;7
+    preview_slot: 8
+  '10':
+    id: ELYTRA
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DURABILITY;7
+    preview_slot: 9
+  '11':
+    id: SHIELD
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - DURABILITY;7
+    preview_slot: 10
+  '12':
+    id: TRIDENT
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - IMPALING;9
+    - LOYALTY;7
+    - DURABILITY;7
+    preview_slot: 11
+  '13':
+    id: CROSSBOW
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - MULTISHOT;5
+    - PIERCING;8
+    - ARROW_DAMAGE;9
+    - QUICK_CHARGE;5
+    - DURABILITY;7
+    preview_slot: 12
+  '14':
+    id: BOW
+    name: '&2&lDiamond'
+    amount: 1
+    enchants:
+    - ARROW_FIRE;1
+    - ARROW_INFINITE;1
+    - ARROW_DAMAGE;9
+    - ARROW_KNOCKBACK;6
+    - DURABILITY;7
+    preview_slot: 13
+  '15':
+    id: ENCHANTED_GOLDEN_APPLE
+    name: '&2&lDiamond'
+    amount: 64
+    preview_slot: 14
+  '16':
+    id: GOLDEN_APPLE
+    name: '&2&lDiamond'
+    amount: 64
+    preview_slot: 15
+actions:
+  claim:
+    '1':
+      action: 'console_command: bc &6%player% &ejust claimed a &aDIAMOND KIT&e!'
+      execute_before_items: false
+      count_as_item: false
+      display_item:
+        id: BOOK
+        name: '&4Announcement'
+        amount: 1
+        lore:
+        - '&7Claiming this kit will send an announcement'
+        - '&7to the whole server.'
+    '2':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

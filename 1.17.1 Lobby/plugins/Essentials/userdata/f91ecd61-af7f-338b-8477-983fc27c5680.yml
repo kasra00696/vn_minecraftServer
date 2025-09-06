@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757064365496
+  login: 1757064332511
+money: '0'
+last-account-name: mohamad_DOCI
+logoutlocation:
+  world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+  world-name: world
+  x: 15.143308356887523
+  y: 18.5
+  z: 36.069150994898635
+  yaw: 30.309173583984375
+  pitch: 3.778637170791626

@@ -1,0 +1,10 @@
+name: RestInPeace
+kits:
+  starter:
+    cooldown: 1756538011858
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756538017827
+    one_time: false
+    bought: false

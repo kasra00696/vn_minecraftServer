@@ -1,0 +1,14 @@
+name: ItzHajPrime
+kits:
+  starter:
+    cooldown: 1756736620373
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756736621390
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756736630637
+    one_time: false
+    bought: false

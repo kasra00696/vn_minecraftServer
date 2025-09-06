@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756723841511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757065627112
+  login: 1757065201558
+money: '0.0'
+last-account-name: Foroughi
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 186.90110612751633
+  y: 77.9375
+  z: 421.30000001192093
+  yaw: -33.38910675048828
+  pitch: 29.850027084350586
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 159.19246016789248
+  y: 69.0
+  z: 527.97698961655
+  yaw: 26.2152099609375
+  pitch: 7.199901103973389

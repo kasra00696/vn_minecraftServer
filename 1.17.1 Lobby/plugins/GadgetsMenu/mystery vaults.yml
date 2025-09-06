@@ -1,0 +1,8 @@
+Mystery-Vaults:
+  vault:
+    BlockFace: EAST
+    Location:
+      world: world
+      x: 8.0
+      y: 18.0
+      z: 39.0

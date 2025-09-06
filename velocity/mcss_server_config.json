@@ -1,0 +1,26 @@
+{
+  "guid": "e2a800ab-2c05-4fca-a8a8-8e7cc4c5a060",
+  "serverTypeGuid": "b023dbff-1a2e-4fee-aa8f-244ed3ab689e",
+  "name": "velocity",
+  "description": "",
+  "creationDate": "2025-08-10T01:15:26.4242536+03:30",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "None",
+  "startupMethode": "JavaStartupLine",
+  "allocatedMemory": 4096,
+  "allocatedMemorySuffix": "GB",
+  "startupLine": "java -Xms256M -Xmx[RAM]M -jar velocity-3.4.0-SNAPSHOT-521.jar",
+  "startupBatFilename": "",
+  "serverFileChecksum": "1d9dc624bef59a62f320bc22a134e44a7b9326538463e94726465297e6324751",
+  "serverFileVersion": " 3.4.0",
+  "javaPathOverride": "",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}

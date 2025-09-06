@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756716159517
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756719181924
+  login: 1756719097791
+money: '0.0'
+last-account-name: shadow_miner_
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 155.81942864778523
+  y: 91.0
+  z: 450.64900119254725
+  yaw: -96.42779541015625
+  pitch: 29.799457550048828
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 582.0057528896058
+  y: 8.0
+  z: 856.3000000119209
+  yaw: 132.4573211669922
+  pitch: 57.85204315185547

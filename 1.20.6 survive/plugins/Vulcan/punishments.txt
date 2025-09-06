@@ -1,0 +1,996 @@
+--------------[ Omrrah was punished for Timer (Type D) ]--------------
+
+Date & Time:
+ - Date: 08-31-2025
+ - Time: 17:31:42
+
+Location:
+ - World: wild
+ - X: 293.6277013658159
+ - Y: 84.02442408821369
+ - Z: 773.903095079668
+
+Information:
+ - UUID: 2473be2b-d210-3020-9518-18263c7920e9
+ - Keep Alive Ping: 5
+ - Transaction Ping: 17
+ - Server TPS: 20
+ - Sensitivity: 24
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 97.4 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 0
+ - Movement Violations: 10
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 946
+ - Since Riptide Ticks: 522
+ - Flying Delay: 1
+ - Since Velocity Ticks: 1948
+ - Since Firework Ticks: 522
+ - Ticks Existed: 1948
+ - Since Vehicle Ticks: 422
+ - Since Liquid Ticks: 422
+ - Queued Transactions: 0
+ - Joined: 73 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Jump (Type A) [VL: 10] (Invalid jump motion.)
+ - Speed (Type E) [VL: 1] (Invalid friction.)
+ - Timer (Type A) [VL: 1] (Increased game speed.)
+ - Timer (Type D) [VL: 35] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, SHORT_GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SHORT_GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ aryaxv666 was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 08-31-2025
+ - Time: 17:34:48
+
+Location:
+ - World: wild
+ - X: 21.698073946428273
+ - Y: -36.0
+ - Z: 456.331497922052
+
+Information:
+ - UUID: bd62633d-341b-3264-9549-6c2012f3f476
+ - Keep Alive Ping: 478
+ - Transaction Ping: 0
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 25.55 seconds ago
+
+Total Violations: 32
+ - Combat Violations: 0
+ - Movement Violations: 31
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 45
+ - Since Riptide Ticks: 652
+ - Flying Delay: 31
+ - Since Velocity Ticks: 511
+ - Since Firework Ticks: 652
+ - Ticks Existed: 511
+ - Since Vehicle Ticks: 552
+ - Since Liquid Ticks: 552
+ - Queued Transactions: 0
+ - Joined: 69 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type B) [VL: 20] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 79] (Invalid Y-Axis movement.)
+ - Jump (Type B) [VL: 3] (Invalid jump motion.)
+ - Motion (Type B) [VL: 8] (Repeated vertical motions.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, DEEPSLATE, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ aryaxv666 was punished for Motion (Type B) ]--------------
+
+Date & Time:
+ - Date: 08-31-2025
+ - Time: 17:36:17
+
+Location:
+ - World: wild
+ - X: 21.578010068411807
+ - Y: -36.0
+ - Z: 456.6979910872379
+
+Information:
+ - UUID: bd62633d-341b-3264-9549-6c2012f3f476
+ - Keep Alive Ping: 11
+ - Transaction Ping: 0
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 56.65 seconds ago
+
+Total Violations: 29
+ - Combat Violations: 0
+ - Movement Violations: 29
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 200
+ - Since Riptide Ticks: 1328
+ - Flying Delay: 33
+ - Since Velocity Ticks: 1133
+ - Since Firework Ticks: 1328
+ - Ticks Existed: 1133
+ - Since Vehicle Ticks: 1228
+ - Since Liquid Ticks: 1228
+ - Queued Transactions: 0
+ - Joined: 42 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type B) [VL: 10] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 88] (Invalid Y-Axis movement.)
+ - Jump (Type B) [VL: 4] (Invalid jump motion.)
+ - Motion (Type B) [VL: 15] (Repeated vertical motions.)
+
+Blocks Nearby: [AIR, DEEPSLATE, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, AIR, AIR, DEEPSLATE, DEEPSLATE, AIR, DEEPSLATE, DEEPSLATE, AIR, AIR, DEEPSLATE, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ atashadowkiller was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-01-2025
+ - Time: 13:56:55
+
+Location:
+ - World: wild
+ - X: -479.7183335706085
+ - Y: 83.0
+ - Z: 811.3459632593311
+
+Information:
+ - UUID: 37f51f15-e403-3c0a-a135-827f779de2ab
+ - Keep Alive Ping: 35
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 23.15 seconds ago
+
+Total Violations: 39
+ - Combat Violations: 0
+ - Movement Violations: 38
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 345
+ - Since Riptide Ticks: 549
+ - Flying Delay: 60
+ - Since Velocity Ticks: 463
+ - Since Firework Ticks: 549
+ - Ticks Existed: 463
+ - Since Vehicle Ticks: 449
+ - Since Liquid Ticks: 449
+ - Queued Transactions: 0
+ - Joined: 70 seconds ago
+ - Holding Item (Main Hand): ItemStack{IRON_SHOVEL x 1}
+ - Holding Item (Off Hand): ItemStack{SHIELD x 1}
+
+All Violations:
+ - Flight (Type B) [VL: 6] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 3] (Invalid Y-Axis movement.)
+ - Jump (Type B) [VL: 5] (Invalid jump motion.)
+ - Motion (Type A) [VL: 3] (Repeated vertical motions.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type B) [VL: 2] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 7] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 8] (Moving too quickly on the ground.)
+ - Speed (Type E) [VL: 3] (Invalid friction.)
+ - Strafe (Type A) [VL: 6] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, BAMBOO, AIR, AIR, BAMBOO, AIR, AIR, BAMBOO, AIR, AIR, BAMBOO, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ atashadowkiller was punished for Fast Break (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-01-2025
+ - Time: 14:03:13
+
+Location:
+ - World: wild
+ - X: 126.30000001192093
+ - Y: 37.0
+ - Z: 387.5364541241791
+
+Information:
+ - UUID: 37f51f15-e403-3c0a-a135-827f779de2ab
+ - Keep Alive Ping: 76
+ - Transaction Ping: 43
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 124.1 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 15
+
+Misc Information:
+ - Since Teleport Ticks: 2988
+ - Since Riptide Ticks: 3324
+ - Flying Delay: 58
+ - Since Velocity Ticks: 2482
+ - Since Firework Ticks: 3324
+ - Ticks Existed: 4371
+ - Since Vehicle Ticks: 3224
+ - Since Liquid Ticks: 231
+ - Queued Transactions: 0
+ - Joined: 370 seconds ago
+ - Holding Item (Main Hand): ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=160}}
+ - Holding Item (Off Hand): ItemStack{COOKED_BEEF x 34}
+
+All Violations:
+ - Fast Break (Type A) [VL: 15] (Breaking blocks too quickly.)
+
+Blocks Nearby: [STONE, STONE, ANDESITE, STONE, AIR, ANDESITE, STONE, AIR, ANDESITE, STONE, STONE, ANDESITE, STONE, STONE, STONE, STONE, AIR, ANDESITE, STONE, AIR, ANDESITE, STONE, AIR, STONE, STONE, STONE, STONE, STONE, STONE, STONE, STONE, AIR, STONE, STONE, AIR, STONE]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ shadowkiller was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-01-2025
+ - Time: 19:39:06
+
+Location:
+ - World: wild
+ - X: 163.23736725635692
+ - Y: 88.0
+ - Z: 442.3642698973397
+
+Information:
+ - UUID: 52143d71-7c70-3725-a7b0-9711f5831e0b
+ - Keep Alive Ping: 41
+ - Transaction Ping: 44
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 17.25 seconds ago
+
+Total Violations: 35
+ - Combat Violations: 0
+ - Movement Violations: 34
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 16148
+ - Since Riptide Ticks: 28748
+ - Flying Delay: 48
+ - Since Velocity Ticks: 345
+ - Since Firework Ticks: 28748
+ - Ticks Existed: 34656
+ - Since Vehicle Ticks: 28648
+ - Since Liquid Ticks: 136
+ - Queued Transactions: 0
+ - Joined: 2848 seconds ago
+ - Holding Item (Main Hand): ItemStack{DEEPSLATE_BRICKS x 3}
+ - Holding Item (Off Hand): ItemStack{COOKED_BEEF x 16}
+
+All Violations:
+ - Flight (Type B) [VL: 3] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 6] (Invalid Y-Axis movement.)
+ - Jump (Type C) [VL: 1] (Invalid jump motion.)
+ - Speed (Type A) [VL: 2] (Invalid friction.)
+ - Speed (Type B) [VL: 2] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 9] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 9] (Moving too quickly on the ground.)
+ - Speed (Type E) [VL: 4] (Invalid friction.)
+ - Strafe (Type A) [VL: 8] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, FERN, SHORT_GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, SHORT_GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, DIRT, AIR, SHORT_GRASS, GRASS_BLOCK, AIR, AIR, SHORT_GRASS, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ shadowkiller was punished for Bad Packets (Type 8) ]--------------
+
+Date & Time:
+ - Date: 09-02-2025
+ - Time: 12:09:38
+
+Location:
+ - World: wild
+ - X: 84.72134365605744
+ - Y: 73.0
+ - Z: 512.9990750803543
+
+Information:
+ - UUID: 52143d71-7c70-3725-a7b0-9711f5831e0b
+ - Keep Alive Ping: 103
+ - Transaction Ping: 46
+ - Server TPS: 20
+ - Sensitivity: 199
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 140.1 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 10
+
+Misc Information:
+ - Since Teleport Ticks: 3878
+ - Since Riptide Ticks: 7249
+ - Flying Delay: 54
+ - Since Velocity Ticks: 2802
+ - Since Firework Ticks: 7249
+ - Ticks Existed: 8685
+ - Since Vehicle Ticks: 7149
+ - Since Liquid Ticks: 563
+ - Queued Transactions: 0
+ - Joined: 762 seconds ago
+ - Holding Item (Main Hand): ItemStack{CLOCK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name={"text":"","extra":[{"text":"Main Menu","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}, enchants={minecraft:infinity=1}, ItemFlags=[HIDE_ENCHANTS], custom=H4sIAAAAAAAA/+NiYOBg4PUsSc31ys/MU/BLzE1l4MxNzMzTzU3NK2UAABbOK14fAAAA}}
+ - Holding Item (Off Hand): ItemStack{COOKED_BEEF x 59}
+
+All Violations:
+ - Bad Packets (Type 8) [VL: 10] (Invalid Block Dig packets.)
+
+Blocks Nearby: [JUNGLE_LEAVES, VINE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, VINE, AIR, OAK_LEAVES, VINE, AIR, AIR, VINE, AIR, AIR, VINE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ ma8an was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-02-2025
+ - Time: 13:48:14
+
+Location:
+ - World: wild
+ - X: 811.9182654658475
+ - Y: 75.0
+ - Z: 910.6421182969586
+
+Information:
+ - UUID: d4550168-00c0-3018-8ea7-67313fede1fb
+ - Keep Alive Ping: 15
+ - Transaction Ping: 51
+ - Server TPS: 20
+ - Sensitivity: 122
+ - Gamemode: SURVIVAL
+ - Client Brand: Feather Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 29.8 seconds ago
+
+Total Violations: 37
+ - Combat Violations: 0
+ - Movement Violations: 36
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 52
+ - Since Riptide Ticks: 758
+ - Flying Delay: 39
+ - Since Velocity Ticks: 596
+ - Since Firework Ticks: 758
+ - Ticks Existed: 596
+ - Since Vehicle Ticks: 658
+ - Since Liquid Ticks: 658
+ - Queued Transactions: 0
+ - Joined: 27 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type A) [VL: 4] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 5] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 9] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 4] (Invalid jump motion.)
+ - Jump (Type B) [VL: 5] (Invalid jump motion.)
+ - Motion (Type A) [VL: 3] (Repeated vertical motions.)
+ - Speed (Type B) [VL: 1] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 5] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 5] (Moving too quickly on the ground.)
+ - Speed (Type E) [VL: 2] (Invalid friction.)
+ - Strafe (Type A) [VL: 3] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+ - Timer (Type A) [VL: 13] (Increased game speed.)
+ - Timer (Type D) [VL: 21] (Increased game speed.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ itz_miror was punished for Strafe (Type A) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 15:36:23
+
+Location:
+ - World: wild
+ - X: -94.81027836337486
+ - Y: 82.37028268051537
+ - Z: -513.8698601053081
+
+Information:
+ - UUID: e11e2d53-1faf-3849-81a6-55e2bb020948
+ - Keep Alive Ping: 26
+ - Transaction Ping: 53
+ - Server TPS: 20
+ - Sensitivity: 50
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 20.6 seconds ago
+
+Total Violations: 24
+ - Combat Violations: 0
+ - Movement Violations: 23
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 38
+ - Since Riptide Ticks: 514
+ - Flying Delay: 40
+ - Since Velocity Ticks: 412
+ - Since Firework Ticks: 514
+ - Ticks Existed: 412
+ - Since Vehicle Ticks: 414
+ - Since Liquid Ticks: 414
+ - Queued Transactions: 0
+ - Joined: 32 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type B) [VL: 11] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 15] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 4] (Invalid friction.)
+ - Speed (Type E) [VL: 5] (Invalid friction.)
+ - Strafe (Type A) [VL: 8] (Moving incorrectly in the air.)
+ - Bad Packets (Type A) [VL: 1] (Spoofed abilities packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, DIRT, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ itz_miror was punished for Aim (Type I) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 15:37:20
+
+Location:
+ - World: wild
+ - X: -90.68148056954752
+ - Y: 76.24918707874468
+ - Z: -490.42712644432766
+
+Information:
+ - UUID: e11e2d53-1faf-3849-81a6-55e2bb020948
+ - Keep Alive Ping: 20
+ - Transaction Ping: 51
+ - Server TPS: 20
+ - Sensitivity: 50
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 0.7 seconds ago
+
+Total Violations: 27
+ - Combat Violations: 5
+ - Movement Violations: 22
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 311
+ - Since Riptide Ticks: 672
+ - Flying Delay: 39
+ - Since Velocity Ticks: 14
+ - Since Firework Ticks: 672
+ - Ticks Existed: 487
+ - Since Vehicle Ticks: 572
+ - Since Liquid Ticks: 572
+ - Queued Transactions: 0
+ - Joined: 25 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type I) [VL: 5] (Not constant rotations.)
+ - Flight (Type B) [VL: 11] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 8] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 9] (Invalid friction.)
+ - Speed (Type C) [VL: 2] (Moving too quickly in the air.)
+ - Speed (Type E) [VL: 10] (Invalid friction.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, OAK_LEAVES, AIR, OAK_LEAVES, OAK_LEAVES, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Texr was punished for Timer (Type D) ]--------------
+
+Date & Time:
+ - Date: 09-04-2025
+ - Time: 03:02:02
+
+Location:
+ - World: wild
+ - X: -165.9942090359939
+ - Y: 68.16610926093821
+ - Z: -195.6930596788428
+
+Information:
+ - UUID: c525bb55-7e2a-3cdd-b029-56f930004f5d
+ - Keep Alive Ping: 754
+ - Transaction Ping: 1234
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Optifine
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 16.0 seconds ago
+
+Total Violations: 0
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1237
+ - Since Riptide Ticks: 17338
+ - Flying Delay: 1
+ - Since Velocity Ticks: 320
+ - Since Firework Ticks: 17338
+ - Ticks Existed: 18911
+ - Since Vehicle Ticks: 17238
+ - Since Liquid Ticks: 11245
+ - Queued Transactions: 0
+ - Joined: 1444 seconds ago
+ - Holding Item (Main Hand): ItemStack{DIRT x 12}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Timer (Type D) [VL: 12] (Increased game speed.)
+
+Blocks Nearby: [DIRT, AIR, AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DIRT, AIR, AIR, DIRT, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Texr was punished for Invalid (Type C) ]--------------
+
+Date & Time:
+ - Date: 09-04-2025
+ - Time: 22:12:24
+
+Location:
+ - World: wild
+ - X: -193.14983441812208
+ - Y: 939.0545405203404
+ - Z: -146.5130311847845
+
+Information:
+ - UUID: c525bb55-7e2a-3cdd-b029-56f930004f5d
+ - Keep Alive Ping: 428
+ - Transaction Ping: 172
+ - Server TPS: 19.84
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Optifine
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 8.3 seconds ago
+
+Total Violations: 8
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 8
+
+Misc Information:
+ - Since Teleport Ticks: 12391
+ - Since Riptide Ticks: 16599
+ - Flying Delay: 26
+ - Since Velocity Ticks: 166
+ - Since Firework Ticks: 16599
+ - Ticks Existed: 18326
+ - Since Vehicle Ticks: 16499
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 1203 seconds ago
+ - Holding Item (Main Hand): ItemStack{ACACIA_FENCE x 23}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Invalid (Type C) [VL: 8] (Too large Y-Axis movement.)
+
+Blocks Nearby: [WATER, BRAIN_CORAL_WALL_FAN, TUBE_CORAL_BLOCK, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ _AMG_1391_ was punished for Timer (Type D) ]--------------
+
+Date & Time:
+ - Date: 09-05-2025
+ - Time: 12:50:01
+
+Location:
+ - World: wild
+ - X: 281.7934255595173
+ - Y: 59.638024075064926
+ - Z: 944.8571295091458
+
+Information:
+ - UUID: c994523b-94b5-3afe-bd92-00422c877f18
+ - Keep Alive Ping: 1005
+ - Transaction Ping: 157
+ - Server TPS: 20
+ - Sensitivity: 95
+ - Gamemode: SURVIVAL
+ - Client Brand: Feather Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 20.15 seconds ago
+
+Total Violations: 0
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2537
+ - Since Riptide Ticks: 9752
+ - Flying Delay: 0
+ - Since Velocity Ticks: 403
+ - Since Firework Ticks: 9752
+ - Ticks Existed: 10135
+ - Since Vehicle Ticks: 9652
+ - Since Liquid Ticks: 0
+ - Queued Transactions: 0
+ - Joined: 817 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{SHIELD x 1}
+
+All Violations:
+ - Timer (Type D) [VL: 12] (Increased game speed.)
+
+Blocks Nearby: [WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER, WATER]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ RichPlant was punished for Bad Packets (Type M) ]--------------
+
+Date & Time:
+ - Date: 09-05-2025
+ - Time: 15:29:50
+
+Location:
+ - World: wild
+ - X: -47.607331453493174
+ - Y: 73.0
+ - Z: 916.5359590202767
+
+Information:
+ - UUID: 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+ - Keep Alive Ping: 93
+ - Transaction Ping: 132
+ - Server TPS: 19.16
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 109.65 seconds ago
+
+Total Violations: 18
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 18
+
+Misc Information:
+ - Since Teleport Ticks: 11767
+ - Since Riptide Ticks: 119986
+ - Flying Delay: 47
+ - Since Velocity Ticks: 2193
+ - Since Firework Ticks: 119986
+ - Ticks Existed: 141052
+ - Since Vehicle Ticks: 76316
+ - Since Liquid Ticks: 16467
+ - Queued Transactions: 0
+ - Joined: 11047 seconds ago
+ - Holding Item (Main Hand): ItemStack{DARK_OAK_SLAB x 38}
+ - Holding Item (Off Hand): ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=123, blockMaterial=SHIELD}}
+
+All Violations:
+ - Bad Packets (Type M) [VL: 10] (Post BlockPlace packets.)
+ - Air Place (Type A) [VL: 7] (Invalid block placement.)
+ - Scaffold (Type B) [VL: 1] (Invalid interact.)
+
+Blocks Nearby: [DARK_OAK_SLAB, DARK_OAK_SLAB, DARK_OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_SLAB, DARK_OAK_SLAB, DARK_OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DARK_OAK_SLAB, DARK_OAK_SLAB, DARK_OAK_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ RichPlant was punished for Bad Packets (Type M) ]--------------
+
+Date & Time:
+ - Date: 09-05-2025
+ - Time: 15:41:57
+
+Location:
+ - World: wild
+ - X: -47.72601404370086
+ - Y: 68.0
+ - Z: 915.4799204567809
+
+Information:
+ - UUID: 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+ - Keep Alive Ping: 70
+ - Transaction Ping: 47
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 83.75 seconds ago
+
+Total Violations: 10
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 10
+
+Misc Information:
+ - Since Teleport Ticks: 4397
+ - Since Riptide Ticks: 8815
+ - Flying Delay: 64
+ - Since Velocity Ticks: 1675
+ - Since Firework Ticks: 8815
+ - Ticks Existed: 10444
+ - Since Vehicle Ticks: 8715
+ - Since Liquid Ticks: 4207
+ - Queued Transactions: 0
+ - Joined: 721 seconds ago
+ - Holding Item (Main Hand): ItemStack{WHITE_STAINED_GLASS_PANE x 2}
+ - Holding Item (Off Hand): ItemStack{SHIELD x 1, TILE_ENTITY_META:{meta-type=TILE_ENTITY, Damage=123, blockMaterial=SHIELD}}
+
+All Violations:
+ - Bad Packets (Type M) [VL: 10] (Post BlockPlace packets.)
+
+Blocks Nearby: [SPRUCE_SLAB, SPRUCE_SLAB, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, SPRUCE_SLAB, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_SLAB, SPRUCE_SLAB, SPRUCE_SLAB, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ RichPlant was punished for Scaffold (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-05-2025
+ - Time: 23:31:54
+
+Location:
+ - World: wild
+ - X: -52.61301528304691
+ - Y: 75.0
+ - Z: 915.3439201309737
+
+Information:
+ - UUID: 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+ - Keep Alive Ping: 118
+ - Transaction Ping: 123
+ - Server TPS: 19.99
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 19.5 seconds ago
+
+Total Violations: 19
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 19
+
+Misc Information:
+ - Since Teleport Ticks: 10096
+ - Since Riptide Ticks: 8707
+ - Flying Delay: 52
+ - Since Velocity Ticks: 390
+ - Since Firework Ticks: 8707
+ - Ticks Existed: 10666
+ - Since Vehicle Ticks: 8607
+ - Since Liquid Ticks: 8607
+ - Queued Transactions: 0
+ - Joined: 890 seconds ago
+ - Holding Item (Main Hand): ItemStack{SPRUCE_PLANKS x 52}
+ - Holding Item (Off Hand): ItemStack{LANTERN x 1}
+
+All Violations:
+ - Bad Packets (Type M) [VL: 7] (Post BlockPlace packets.)
+ - Scaffold (Type B) [VL: 6] (Invalid interact.)
+ - Scaffold (Type G) [VL: 6] (Bridging too quickly.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_PLANKS, SPRUCE_PLANKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ RichPlant was punished for Bad Packets (Type M) ]--------------
+
+Date & Time:
+ - Date: 09-05-2025
+ - Time: 23:37:09
+
+Location:
+ - World: wild
+ - X: -50.918931822651686
+ - Y: 79.5
+ - Z: 925.7779852306613
+
+Information:
+ - UUID: 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+ - Keep Alive Ping: 157
+ - Transaction Ping: 47
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 53.75 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 11
+
+Misc Information:
+ - Since Teleport Ticks: 4587
+ - Since Riptide Ticks: 4184
+ - Flying Delay: 57
+ - Since Velocity Ticks: 1075
+ - Since Firework Ticks: 4184
+ - Ticks Existed: 4588
+ - Since Vehicle Ticks: 4084
+ - Since Liquid Ticks: 4084
+ - Queued Transactions: 0
+ - Joined: 311 seconds ago
+ - Holding Item (Main Hand): ItemStack{SPRUCE_STAIRS x 17}
+ - Holding Item (Off Hand): ItemStack{LANTERN x 1}
+
+All Violations:
+ - Bad Packets (Type M) [VL: 10] (Post BlockPlace packets.)
+ - Air Place (Type A) [VL: 1] (Invalid block placement.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_PLANKS, SPRUCE_PLANKS, SPRUCE_PLANKS, AIR, AIR, SPRUCE_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WHITE_STAINED_GLASS_PANE, AIR, AIR, DARK_OAK_LOG, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ Khalvach was punished for Flight (Type B) ]--------------
+
+Date & Time:
+ - Date: 09-06-2025
+ - Time: 05:57:25
+
+Location:
+ - World: wild
+ - X: -1568.658807574313
+ - Y: 63.0
+ - Z: 1877.643814384285
+
+Information:
+ - UUID: 39a4d797-5a8c-38b3-91a1-29a69541dd50
+ - Keep Alive Ping: 295
+ - Transaction Ping: 241
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 25.0 seconds ago
+
+Total Violations: 15
+ - Combat Violations: 0
+ - Movement Violations: 15
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 10984
+ - Flying Delay: 2
+ - Since Velocity Ticks: 500
+ - Since Firework Ticks: 10984
+ - Ticks Existed: 15042
+ - Since Vehicle Ticks: 10884
+ - Since Liquid Ticks: 9613
+ - Queued Transactions: 0
+ - Joined: 1411 seconds ago
+ - Holding Item (Main Hand): ItemStack{BREAD x 13}
+ - Holding Item (Off Hand): ItemStack{SHIELD x 1}
+
+All Violations:
+ - Flight (Type B) [VL: 12] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 16] (Invalid Y-Axis movement.)
+ - Motion (Type A) [VL: 3] (Repeated vertical motions.)
+
+Blocks Nearby: [GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, SHORT_GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, AIR, AIR, SHORT_GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

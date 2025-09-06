@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756736499892
+  login: 1756736214899
+money: '1260.0'
+last-account-name: chera123
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -238.37247185931597
+  y: 31.0
+  z: 883.3343214065128
+  yaw: -91.3033447265625
+  pitch: 23.074817657470703
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 371.3058459779904
+  y: 82.0
+  z: 530.6890439968713
+  yaw: -107.73089599609375
+  pitch: 34.96900939941406

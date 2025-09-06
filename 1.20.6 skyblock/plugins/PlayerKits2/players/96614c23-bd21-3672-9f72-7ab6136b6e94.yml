@@ -1,0 +1,10 @@
+name: Mester_Arya
+kits:
+  claim:
+    cooldown: 1756557104166
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756557104616
+    one_time: false
+    bought: false

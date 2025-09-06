@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756901240617
+  login: 1756901215608
+money: '10000'
+last-account-name: itz_miror
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.579914935172058
+  y: 29.5
+  z: 53.80000001192093
+  yaw: 146.6582489013672
+  pitch: 24.9586181640625
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -90.69999998807907
+  y: 76.25220334025373
+  z: -490.5753295924083
+  yaw: 174.37130737304688
+  pitch: 32.7642936706543

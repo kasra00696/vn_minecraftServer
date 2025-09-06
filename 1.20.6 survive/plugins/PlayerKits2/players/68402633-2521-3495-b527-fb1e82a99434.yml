@@ -1,0 +1,10 @@
+name: MrTaha
+kits:
+  food:
+    cooldown: 1756494361632
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756494368485
+    one_time: false
+    bought: false

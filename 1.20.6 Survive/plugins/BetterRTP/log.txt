@@ -1,19 +1,76 @@
-2025-08-05 10:21:34 [INFO]: Loading Overrides...
-2025-08-05 10:21:34 [INFO]: Loading World Types...
-2025-08-05 10:21:34 [INFO]: - World Type for 'world' set to 'NORMAL'
-2025-08-05 10:21:34 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2025-08-05 10:21:34 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2025-08-05 10:21:34 [INFO]: Loading Defaults...
-2025-08-05 10:21:34 [INFO]: Loading Custom Worlds...
-2025-08-05 10:21:34 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2025-08-05 10:21:34 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2025-08-05 10:21:34 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2025-08-05 10:21:43 [INFO]: Database COOLDOWN:world configured and loaded!
-2025-08-05 10:21:43 [INFO]: Database PLAYERS:Players configured and loaded!
-2025-08-05 10:21:43 [INFO]: Database QUEUE:Queue configured and loaded!
-2025-08-05 10:21:43 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2025-08-05 10:21:43 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2025-08-05 10:21:43 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2025-08-05 10:21:44 [INFO]: Attempting to queue up some more safe locations...
-2025-08-05 10:21:44 [INFO]: Queueing paused, max queue limit reached!
-2025-08-06 05:54:35 [INFO]: Disabling BetterRTP v3.6.13
+2025-09-06 11:58:20 [INFO]: Loading Overrides...
+2025-09-06 11:58:20 [INFO]: Loading World Types...
+2025-09-06 11:58:20 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-09-06 11:58:20 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-09-06 11:58:20 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-09-06 11:58:20 [INFO]: Loading Defaults...
+2025-09-06 11:58:20 [INFO]: Loading Custom Worlds...
+2025-09-06 11:58:20 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-09-06 11:58:20 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-09-06 11:58:20 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-09-06 11:58:43 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-09-06 11:58:43 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-09-06 11:58:43 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-09-06 11:58:43 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-09-06 11:58:43 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-09-06 11:58:43 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-09-06 11:58:43 [INFO]: Database COOLDOWN:wild configured and loaded!
+2025-09-06 11:58:53 [INFO]: Attempting to queue up some more safe locations...
+2025-09-06 11:58:56 [INFO]: Queueing paused, max queue limit reached!
+2025-09-06 11:59:14 [INFO]: Seppro_24 executed: /rtp world wild
+2025-09-06 11:59:14 [WARNING]: Seems like the world `wild` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- wild: NETHER`
+2025-09-06 11:59:28 [INFO]: Seppro_24 executed: /rtp world wild
+2025-09-06 11:59:34 [INFO]: Seppro_24 executed: /rtp world wild
+2025-09-06 11:59:39 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=985.5,y=79.0,z=301.5,pitch=0.44541574,yaw=101.54407}
+2025-09-06 12:12:55 [INFO]: mahdimzl executed: /rtp world wild
+2025-09-06 12:12:55 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=-115.5,y=65.0,z=-68.5,pitch=-10.239987,yaw=-18.643429}
+2025-09-06 12:15:39 [INFO]: Seppro_24 executed: /rtp world wild
+2025-09-06 12:15:40 [INFO]: Seppro_24 executed: /rtp world wild
+2025-09-06 12:15:44 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=44.5,y=65.0,z=952.5,pitch=26.100971,yaw=-87.24017}
+2025-09-06 12:30:39 [INFO]: Seppro_24 executed: /rtp world wild
+2025-09-06 12:30:44 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=246.5,y=72.0,z=-847.5,pitch=47.208553,yaw=179.00146}
+2025-09-06 12:30:44 [INFO]: Attempting to queue up some more safe locations...
+2025-09-06 12:30:47 [INFO]: Queue position generated: id= rtp_wild, database_ID= 260, location= x: 851, y: 69, z: 516, world: wild
+2025-09-06 12:30:48 [INFO]: Queue position generated: id= rtp_wild, database_ID= 261, location= x: -709, y: 66, z: 434, world: wild
+2025-09-06 12:30:54 [INFO]: Queue position generated: id= rtp_wild, database_ID= 262, location= x: 892, y: 84, z: 608, world: wild
+2025-09-06 12:30:55 [INFO]: Queue position generated: id= rtp_wild, database_ID= 263, location= x: 498, y: 76, z: 363, world: wild
+2025-09-06 12:31:02 [INFO]: Queue position generated: id= rtp_wild, database_ID= 264, location= x: 22, y: 63, z: -279, world: wild
+2025-09-06 12:31:04 [INFO]: Queue position generated: id= rtp_wild, database_ID= 265, location= x: 536, y: 68, z: 449, world: wild
+2025-09-06 12:31:05 [INFO]: Queue position generated: id= rtp_wild, database_ID= 266, location= x: -387, y: 71, z: 999, world: wild
+2025-09-06 12:31:08 [INFO]: Queue position generated: id= rtp_wild, database_ID= 267, location= x: 423, y: 71, z: 961, world: wild
+2025-09-06 12:31:10 [INFO]: Queue position generated: id= rtp_wild, database_ID= 268, location= x: -605, y: 74, z: 439, world: wild
+2025-09-06 12:31:11 [INFO]: Queue position generated: id= rtp_wild, database_ID= 269, location= x: 173, y: 67, z: 846, world: wild
+2025-09-06 12:31:12 [INFO]: Queue position generated: id= rtp_wild, database_ID= 270, location= x: -669, y: 147, z: 409, world: wild
+2025-09-06 12:31:15 [INFO]: Queue position generated: id= rtp_wild, database_ID= 271, location= x: 949, y: 73, z: 454, world: wild
+2025-09-06 12:31:17 [INFO]: Queue position generated: id= rtp_wild, database_ID= 272, location= x: -357, y: 66, z: 225, world: wild
+2025-09-06 12:31:18 [INFO]: Queue position generated: id= rtp_wild, database_ID= 273, location= x: 851, y: 67, z: 707, world: wild
+2025-09-06 12:31:21 [INFO]: Queue position generated: id= rtp_wild, database_ID= 274, location= x: -603, y: 77, z: 391, world: wild
+2025-09-06 12:31:23 [INFO]: Queue position generated: id= rtp_wild, database_ID= 275, location= x: -551, y: 66, z: 570, world: wild
+2025-09-06 12:31:26 [INFO]: Queue position generated: id= rtp_wild, database_ID= 276, location= x: -940, y: 65, z: -415, world: wild
+2025-09-06 12:31:27 [INFO]: Queue position generated: id= rtp_wild, database_ID= 277, location= x: 194, y: 65, z: 818, world: wild
+2025-09-06 12:31:28 [INFO]: Queue position generated: id= rtp_wild, database_ID= 278, location= x: -575, y: 69, z: -206, world: wild
+2025-09-06 12:31:31 [INFO]: Queue position generated: id= rtp_wild, database_ID= 279, location= x: -34, y: 72, z: -248, world: wild
+2025-09-06 12:31:38 [INFO]: Queue position generated: id= rtp_wild, database_ID= 280, location= x: 132, y: 64, z: 802, world: wild
+2025-09-06 12:31:39 [INFO]: Queue position generated: id= rtp_wild, database_ID= 281, location= x: 753, y: 64, z: 978, world: wild
+2025-09-06 12:31:45 [INFO]: Max attempts to create a Queue reached for rtp_wild (amount: 23)
+2025-09-06 12:33:15 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:33:20 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=753.5,y=64.0,z=978.5,pitch=20.549995,yaw=68.27161}
+2025-09-06 12:41:09 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:41:10 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:41:11 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:41:12 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:41:48 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:41:49 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:42:59 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:43:01 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:43:02 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:43:03 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:43:10 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:43:28 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:44:26 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:44:29 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:44:30 [INFO]: kiyan998 executed: /rtp world wild
+2025-09-06 12:44:34 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=949.5,y=73.0,z=454.5,pitch=4.7999916,yaw=-163.0293}
+2025-09-06 13:04:26 [INFO]: kasraILOLI executed: /rtp world wild
+2025-09-06 13:04:27 [INFO]: -Removed a queue Location{world=CraftWorld{name=wild},x=-33.5,y=72.0,z=-247.5,pitch=1.1102359,yaw=-164.75406}
+2025-09-06 13:19:41 [INFO]: Disabling BetterRTP v3.6.13

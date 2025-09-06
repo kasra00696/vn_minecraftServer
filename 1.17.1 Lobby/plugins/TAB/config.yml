@@ -105,19 +105,21 @@ scoreboard:
         - "* &bWorld&7:||%world%"
         - "%animation:MyAnimation1%"
     scoreboard:
-      title: "<#E0B11E>Lobby</#FF0000>"
+      #title: "<#E0B11E>Lobby</#FF0000>"
+      title: "&b&lLobby"
       lines:
-        - "%animation:MyAnimation1%"
-        - "&6Player:"
-        - "* &eRank&7: &f%group%"
-        - "* &eName&7: &f%player%"
-        - "* &ePing&7: &f%ping%&8ms"
+        #- "%animation:MyAnimation1%"
+        - "&6&lPlayer:"
+        - "* &6Rank: &e%luckperms_prefix%"
+        - "* &6Name: &e%player%"
+        - "* &6Ping: &e%ping%&8ms"
         - ""
-        - "&6Gagets:"
-        - "* &eBox:&f %gadgetsmenu_mystery_boxes%"
-        - "* &eDust:&f %gadgetsmenu_mystery_dust%"
-        - "%animation:MyAnimation1%"
-        - "%animation:play%"
+        - "&d&lGagets:"
+        - "* &dBox: &e%gadgetsmenu_mystery_boxes%"
+        - "* &dDust: &e%gadgetsmenu_mystery_dust%"
+        #- "%animation:MyAnimation1%"
+        - ""
+        - "%animation:plays%"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:

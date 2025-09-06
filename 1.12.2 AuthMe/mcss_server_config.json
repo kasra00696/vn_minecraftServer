@@ -1,0 +1,26 @@
+{
+  "guid": "4d9585e5-e2f4-41c0-8f7d-0233f47f789d",
+  "serverTypeGuid": "f738fb40-223e-4010-bd07-af4caabdf3dd",
+  "name": "AuthMe",
+  "description": "",
+  "creationDate": "2025-08-10T01:13:33.5230816+03:30",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "None",
+  "startupMethode": "JavaStartupLine",
+  "allocatedMemory": 2048,
+  "allocatedMemorySuffix": "GB",
+  "startupLine": "java -Xms256M -Xmx[RAM]M -jar paper-1.12.2-1620.jar",
+  "startupBatFilename": "",
+  "serverFileChecksum": "3a2041807f492dcdc34ebb324a287414946e3e05ec3df6fd03f5b5f7d9afc210",
+  "serverFileVersion": "1.12.2",
+  "javaPathOverride": "C:\\Program Files\\Java\\jdk-11.0.8\\bin\\java.exe",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}

@@ -1,0 +1,18 @@
+name: Killo_oMaster
+kits:
+  food:
+    cooldown: 1757114232876
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756923369373
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1757114242417
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757286448141
+    one_time: false
+    bought: false

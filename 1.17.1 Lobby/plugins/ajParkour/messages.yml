@@ -8,10 +8,10 @@
 # 	
 # 	
 prefix: ''
-alreadyin: '&cYou are already in parkour!'
+alreadyin: '&cshoma dar hale parkour hastid!'
 start:
-  score: '&aStarted parkour! &7Try to beat your high-score of &r{SCORE}&7!'
-  first: '&aStarted parkour!'
+  score: '&aParkour Shoro shod! &7high-score shoma &r{SCORE}&7 hast!'
+  first: '&aParkour Shoro shod!'
   no-area-player: '&cNo arena or player could be found called ''{INPUT}''!'
   unknown-player: '&cCannot find that player!'
   unknown-area: '&cCannot find that area!'
@@ -49,7 +49,7 @@ top:
   header-area: '&9Top Scores for {AREA}:'
   format: '&a{#}. &6{NAME} &e{SCORE} jumps'
 fall:
-  normal: '&cYou fell! &7Your score was &r{SCORE}'
+  normal: '&cShoma bakhtid! &7Score shoma &r{SCORE} &7Hast!'
   force:
     base: '&cYour parkour game was ended because '
     reasons:

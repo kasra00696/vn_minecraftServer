@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756651850367
+  login: 1756651698917
+money: '10000'
+last-account-name: shagham
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.250487244918524
+  y: 30.0
+  z: 52.678838494536826
+  yaw: -148.8909912109375
+  pitch: 19.220470428466797
+logoutlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.257277951915622
+  y: 32.0
+  z: 81.07463876933771
+  yaw: 174.13185119628906
+  pitch: 3.9880268573760986

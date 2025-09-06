@@ -1,0 +1,18 @@
+name: shadowkiller
+kits:
+  food:
+    cooldown: 1756728442952
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757286445646
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756728550847
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756745638025
+    one_time: false
+    bought: false

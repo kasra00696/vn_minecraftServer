@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757064524393
+  login: 1757063760111
+money: '7668.0'
+last-account-name: amiro_046
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.663938098525835
+  y: 29.5
+  z: 54.29878724506478
+  yaw: 63.78678894042969
+  pitch: 28.803768157958984
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -909.5491687573932
+  y: 33.0
+  z: -372.55730550640806
+  yaw: 1.89501953125
+  pitch: 40.736534118652344

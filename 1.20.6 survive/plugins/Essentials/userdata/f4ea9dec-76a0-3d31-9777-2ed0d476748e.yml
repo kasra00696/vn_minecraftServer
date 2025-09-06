@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757108927364
+  login: 1757108828013
+money: '12622.0'
+last-account-name: coolhossein
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -1935.300000011921
+  y: -23.0
+  z: -973.6999999880791
+  yaw: 142.98541259765625
+  pitch: 21.2999210357666
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -1043.1275863096243
+  y: 70.0
+  z: 1777.7745454574133
+  yaw: 110.97021484375
+  pitch: 57.30003356933594

@@ -1,0 +1,26 @@
+id: parkour
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: 24ee6ca6-77df-499e-a9f4-62ac485f755c
+world: world
+location:
+  x: 0.5
+  y: 18.0
+  z: -2.5
+  yaw: -89.84805
+  pitch: 5.119179
+type: player
+properties:
+  skin_left_leg: 'true'
+  skin_hat: 'true'
+  skin_right_sleeve: 'true'
+  skin_right_leg: 'true'
+  skin_cape: 'true'
+  skin_jacket: 'true'
+  skin_left_sleeve: 'true'
+hologram:
+  lines:
+  - '&5&lParkour'
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;YWpwYXJrb3VyIHN0YXJ0;1000;ANY_CLICK;0

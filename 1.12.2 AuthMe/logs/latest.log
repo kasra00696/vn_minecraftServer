@@ -1,8 +1,147 @@
-[05:54:24] [Server thread/INFO]: Stopping server
-[05:54:24] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
-[05:54:25] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
-[05:54:25] [Server thread/INFO]: [JoinEffect] Disabling JoinEffect v4.2.5
-[05:54:25] [Server thread/INFO]: [JoinEffect] JoinEffect has been successfully disabled!
-[05:54:25] [Server thread/INFO]: Saving players
-[05:54:25] [Server thread/INFO]: Saving worlds
-[05:54:25] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[00:01:38] [User Authenticator #62/INFO]: UUID of player Mehdi_ping is f208c629-549d-3cea-a2e4-71b6062c59f6
+[00:01:38] [Server thread/INFO]: Mehdi_ping[/127.0.0.1:64248] logged in with entity id 106 at ([world]9.5, -1.0, -3.5)
+[00:03:31] [Server thread/INFO]: [AuthMe] Mehdi_ping registered 127.0.0.1
+[00:03:31] [Craft Scheduler Thread - 454/INFO]: [AuthMe] Mehdi_ping logged in 127.0.0.1
+[00:03:32] [Server thread/INFO]: Mehdi_ping lost connection: Disconnected
+[00:15:45] [User Authenticator #63/INFO]: UUID of player aermin456 is c4712864-0ba0-3873-9f48-a5f6dfe8d8c4
+[00:15:45] [Server thread/INFO]: aermin456[/127.0.0.1:49989] logged in with entity id 107 at ([world]0.47894325284065886, 1.0, 0.4452647388947468)
+[00:16:06] [Craft Scheduler Thread - 459/INFO]: [AuthMe] aermin456 logged in 127.0.0.1
+[00:16:07] [Server thread/INFO]: aermin456 lost connection: Disconnected
+[00:16:14] [User Authenticator #63/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[00:16:14] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:50063] logged in with entity id 108 at ([world]0.47894325284065886, 1.0, 0.4452647388947468)
+[00:16:27] [Craft Scheduler Thread - 462/INFO]: [AuthMe] Killo_oMaster logged in 127.0.0.1
+[00:16:28] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[00:16:54] [User Authenticator #63/INFO]: UUID of player RichPlant is 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+[00:16:54] [Server thread/INFO]: RichPlant[/127.0.0.1:50158] logged in with entity id 109 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[00:16:59] [Craft Scheduler Thread - 464/INFO]: [AuthMe] RichPlant logged in 127.0.0.1
+[00:17:00] [Server thread/INFO]: RichPlant lost connection: Disconnected
+[00:34:47] [User Authenticator #64/INFO]: UUID of player iran1234 is ec089d27-be1e-36db-9eb1-b36678ee3b32
+[00:34:47] [Server thread/INFO]: iran1234[/127.0.0.1:52919] logged in with entity id 110 at ([world]3.5, -1.0, -1.5)
+[00:35:05] [Server thread/INFO]: [AuthMe] iran1234 registered 127.0.0.1
+[00:35:05] [Craft Scheduler Thread - 471/INFO]: [AuthMe] iran1234 logged in 127.0.0.1
+[00:35:06] [Server thread/INFO]: iran1234 lost connection: Disconnected
+[00:36:18] [User Authenticator #65/INFO]: UUID of player aermin456 is c4712864-0ba0-3873-9f48-a5f6dfe8d8c4
+[00:36:18] [Server thread/INFO]: aermin456[/127.0.0.1:53149] logged in with entity id 111 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[00:36:35] [Craft Scheduler Thread - 475/INFO]: [AuthMe] aermin456 logged in 127.0.0.1
+[00:36:36] [Server thread/INFO]: aermin456 lost connection: Disconnected
+[01:04:56] [User Authenticator #66/INFO]: UUID of player RichPlant is 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+[01:04:56] [Server thread/INFO]: RichPlant[/127.0.0.1:57486] logged in with entity id 112 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[01:05:04] [Craft Scheduler Thread - 483/INFO]: [AuthMe] RichPlant logged in 127.0.0.1
+[01:05:05] [Server thread/INFO]: RichPlant lost connection: Disconnected
+[01:05:26] [User Authenticator #66/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[01:05:26] [Server thread/INFO]: kasraILOLI[/127.0.0.1:57566] logged in with entity id 113 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[01:05:31] [Craft Scheduler Thread - 486/INFO]: [AuthMe] kasraILOLI logged in 127.0.0.1
+[01:05:31] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[01:31:29] [User Authenticator #67/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[01:31:29] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:61491] logged in with entity id 114 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[01:31:36] [Craft Scheduler Thread - 495/INFO]: [AuthMe] Killo_oMaster logged in 127.0.0.1
+[01:31:36] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[02:16:31] [User Authenticator #68/INFO]: UUID of player coolhossein is f4ea9dec-76a0-3d31-9777-2ed0d476748e
+[02:16:31] [Server thread/INFO]: coolhossein[/127.0.0.1:51921] logged in with entity id 115 at ([world]0.47894325284065886, 1.0, 0.4452647388947468)
+[02:16:39] [Craft Scheduler Thread - 506/INFO]: [AuthMe] coolhossein logged in 127.0.0.1
+[02:16:40] [Server thread/INFO]: coolhossein lost connection: Disconnected
+[02:37:57] [User Authenticator #69/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[02:37:57] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:55118] logged in with entity id 116 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[02:38:13] [Craft Scheduler Thread - 514/INFO]: [AuthMe] Killo_oMaster logged in 127.0.0.1
+[02:38:14] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[02:41:35] [User Authenticator #70/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[02:41:35] [Server thread/INFO]: kasraILOLI[/127.0.0.1:55671] logged in with entity id 117 at ([world]0.4965098143260135, 1.0, 0.30000001192092896)
+[02:41:41] [Craft Scheduler Thread - 517/INFO]: [AuthMe] kasraILOLI logged in 127.0.0.1
+[02:41:42] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[04:27:28] [User Authenticator #71/INFO]: UUID of player MmdScor is 176d8f96-b927-3299-913c-8e35526f1ff9
+[04:27:28] [Server thread/INFO]: MmdScor[/127.0.0.1:55144] logged in with entity id 118 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[04:27:37] [Craft Scheduler Thread - 541/INFO]: [AuthMe] MmdScor logged in 127.0.0.1
+[04:27:38] [Server thread/INFO]: MmdScor lost connection: Disconnected
+[06:05:37] [User Authenticator #72/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:05:37] [Server thread/INFO]: Khalvach[/127.0.0.1:53317] logged in with entity id 119 at ([world]9.5, -1.0, 6.5)
+[06:06:03] [Server thread/INFO]: [AuthMe] Khalvach registered 127.0.0.1
+[06:06:03] [Craft Scheduler Thread - 565/INFO]: [AuthMe] Khalvach logged in 127.0.0.1
+[06:06:04] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[06:26:21] [User Authenticator #73/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:26:21] [Server thread/INFO]: Khalvach[/127.0.0.1:56380] logged in with entity id 120 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[06:26:34] [Craft Scheduler Thread - 572/INFO]: [AuthMe] Khalvach logged in 127.0.0.1
+[06:26:35] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[06:33:03] [User Authenticator #74/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:33:03] [Server thread/INFO]: Khalvach[/127.0.0.1:57367] logged in with entity id 121 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[06:33:12] [Craft Scheduler Thread - 576/INFO]: [AuthMe] Khalvach logged in 127.0.0.1
+[06:33:12] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[08:58:59] [User Authenticator #75/INFO]: UUID of player sjsj is 829d2862-7ca9-3d6c-8139-1e94154a4787
+[08:58:59] [Server thread/INFO]: sjsj[/127.0.0.1:62650] logged in with entity id 122 at ([world]0.5104960206503324, 1.0, 0.30000001192092896)
+[08:59:25] [Craft Scheduler Thread - 609/INFO]: [AuthMe] sjsj logged in 127.0.0.1
+[08:59:25] [Server thread/INFO]: sjsj lost connection: Disconnected
+[09:18:06] [User Authenticator #76/INFO]: UUID of player GTT is a6a3a192-3a5c-3e3e-8511-fd1facf12370
+[09:18:06] [Server thread/INFO]: GTT[/127.0.0.1:65474] logged in with entity id 123 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[09:18:16] [Server thread/INFO]: GTT lost connection: Kicked for spamming
+[09:18:16] [Server thread/WARN]: handleDisconnection() called twice
+[09:18:20] [User Authenticator #76/INFO]: UUID of player GTT is a6a3a192-3a5c-3e3e-8511-fd1facf12370
+[09:18:20] [Server thread/INFO]: GTT[/127.0.0.1:65506] logged in with entity id 124 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[09:18:27] [Server thread/INFO]: GTT lost connection: Kicked for spamming
+[09:18:27] [Server thread/WARN]: handleDisconnection() called twice
+[09:18:33] [User Authenticator #76/INFO]: UUID of player GTT is a6a3a192-3a5c-3e3e-8511-fd1facf12370
+[09:18:33] [Server thread/INFO]: GTT[/127.0.0.1:49156] logged in with entity id 125 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[09:18:36] [Craft Scheduler Thread - 617/INFO]: [AuthMe] GTT logged in 127.0.0.1
+[09:18:36] [Server thread/INFO]: GTT lost connection: Disconnected
+[09:53:56] [User Authenticator #77/INFO]: UUID of player sjsj is 829d2862-7ca9-3d6c-8139-1e94154a4787
+[09:53:56] [Server thread/INFO]: sjsj[/127.0.0.1:54434] logged in with entity id 126 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[09:54:16] [Craft Scheduler Thread - 626/INFO]: [AuthMe] sjsj logged in 127.0.0.1
+[09:54:16] [Server thread/INFO]: sjsj lost connection: Disconnected
+[10:05:42] [User Authenticator #78/INFO]: UUID of player sjsj is 829d2862-7ca9-3d6c-8139-1e94154a4787
+[10:05:42] [Server thread/INFO]: sjsj[/127.0.0.1:56178] logged in with entity id 127 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[10:05:52] [Craft Scheduler Thread - 632/INFO]: [AuthMe] sjsj logged in 127.0.0.1
+[10:05:53] [Server thread/INFO]: sjsj lost connection: Disconnected
+[12:35:51] [User Authenticator #79/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[12:35:51] [Server thread/INFO]: kasraILOLI[/127.0.0.1:62075] logged in with entity id 128 at ([world]0.5004190503944974, 1.0, 0.30000001192092896)
+[12:35:55] [Craft Scheduler Thread - 665/INFO]: [AuthMe] kasraILOLI logged in 127.0.0.1
+[12:35:56] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[12:40:18] [User Authenticator #80/INFO]: UUID of player mahdimzl is 079a87d0-1e16-33a9-a3d9-9c130fd0ea23
+[12:40:18] [Server thread/INFO]: mahdimzl[/127.0.0.1:62757] logged in with entity id 129 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[12:40:34] [Craft Scheduler Thread - 669/INFO]: [AuthMe] mahdimzl logged in 127.0.0.1
+[12:40:35] [Server thread/INFO]: mahdimzl lost connection: Disconnected
+[12:58:26] [User Authenticator #81/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[12:58:26] [Server thread/INFO]: Seppro_24[/127.0.0.1:49335] logged in with entity id 130 at ([world]4.5, -1.0, -9.5)
+[12:58:39] [Server thread/INFO]: [AuthMe] Seppro_24 registered 127.0.0.1
+[12:58:39] [Craft Scheduler Thread - 676/INFO]: [AuthMe] Seppro_24 logged in 127.0.0.1
+[12:58:39] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:20:03] [User Authenticator #82/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:20:03] [Server thread/INFO]: Seppro_24[/127.0.0.1:52716] logged in with entity id 131 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[13:20:03] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:20:09] [User Authenticator #82/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:20:09] [Server thread/INFO]: Seppro_24[/127.0.0.1:52733] logged in with entity id 132 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[13:20:15] [Craft Scheduler Thread - 686/INFO]: [AuthMe] Seppro_24 logged in 127.0.0.1
+[13:20:16] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:25:53] [User Authenticator #83/INFO]: UUID of player kiyan998 is adeb4d5a-74c4-31cf-9beb-e21ba1c1f900
+[13:25:53] [Server thread/INFO]: kiyan998[/127.0.0.1:53628] logged in with entity id 133 at ([world]0.47894325284065886, 1.0, 0.4452647388947468)
+[13:26:14] [Craft Scheduler Thread - 690/INFO]: [AuthMe] kiyan998 used the wrong password
+[13:27:54] [Server thread/INFO]: kiyan998 lost connection: Zamane shoma barie login kardan be etmam resid!
+[13:27:54] [Server thread/WARN]: handleDisconnection() called twice
+[13:30:18] [User Authenticator #84/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:30:18] [Server thread/INFO]: Seppro_24[/127.0.0.1:54309] logged in with entity id 134 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[13:30:24] [Craft Scheduler Thread - 694/INFO]: [AuthMe] Seppro_24 logged in 127.0.0.1
+[13:30:25] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:32:23] [User Authenticator #85/INFO]: UUID of player kiyan998 is adeb4d5a-74c4-31cf-9beb-e21ba1c1f900
+[13:32:23] [Server thread/INFO]: kiyan998[/127.0.0.1:54618] logged in with entity id 135 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[13:32:39] [Craft Scheduler Thread - 698/INFO]: [AuthMe] kiyan998 used the wrong password
+[13:32:51] [Craft Scheduler Thread - 699/INFO]: [AuthMe] kiyan998 logged in 127.0.0.1
+[13:32:52] [Server thread/INFO]: kiyan998 lost connection: Disconnected
+[13:44:13] [User Authenticator #86/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:44:13] [Server thread/INFO]: Seppro_24[/127.0.0.1:56428] logged in with entity id 136 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[13:44:24] [Craft Scheduler Thread - 704/INFO]: [AuthMe] Seppro_24 logged in 127.0.0.1
+[13:44:25] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:49:33] [User Authenticator #87/INFO]: UUID of player hdhhshdhdh is 1fd9fc01-80e4-3dac-8975-26b6afe181a6
+[13:49:33] [Server thread/INFO]: hdhhshdhdh[/127.0.0.1:57235] logged in with entity id 137 at ([world]0.5086490199999929, 1.0, 0.5015974406334529)
+[13:49:50] [Server thread/INFO]: hdhhshdhdh lost connection: Disconnected
+[14:19:41] [Server thread/INFO]: Stopping the server
+[14:19:41] [Server thread/INFO]: Stopping server
+[14:19:41] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
+[14:19:41] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[14:19:41] [Server thread/INFO]: [HubThat] Disabling HubThat v10.1.184
+[14:19:41] [Server thread/INFO]: [HubThat] Plugin HubThat Successfully Unloaded!
+[14:19:41] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[14:19:41] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:19:41] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:19:41] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:19:41] [Server thread/INFO]: [JoinEffect] Disabling JoinEffect v4.2.5
+[14:19:41] [Server thread/INFO]: [JoinEffect] JoinEffect has been successfully disabled!
+[14:19:41] [Server thread/INFO]: Saving players
+[14:19:41] [Server thread/INFO]: Saving worlds
+[14:19:41] [Server thread/INFO]: Saving chunks for level 'world'/overworld

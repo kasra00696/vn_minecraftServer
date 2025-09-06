@@ -111,7 +111,7 @@ StrengthTime: 999
 # INVISIBILITY EFFECT #
 # Permission: joineffect.invisible
 InvisibilityEnabled: true
-InvisibilityLevel: 1
+InvisibilityLevel: 3
 InvisibilityTime: 99999999
 
 

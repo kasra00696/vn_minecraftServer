@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "mahdimzl",
+      "uniqueId": "079a87d0-1e16-33a9-a3d9-9c130fd0ea23"
+    },
+    "time": 1756728162540,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "plugins\\spark\\profile-2025-09-01_15.32.42.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "kasraILOLI",
+      "uniqueId": "7c07f034-b1d8-3876-9ec2-259f2b850ea0"
+    },
+    "time": 1756727916456,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "file",
+      "value": "plugins\\spark\\heapsummary-2025-09-01_15.28.36.sparkheap"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "mahdimzl",
+      "uniqueId": "079a87d0-1e16-33a9-a3d9-9c130fd0ea23"
+    },
+    "time": 1756727895666,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sQKgA0xrSt"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "kasraILOLI",
+      "uniqueId": "7c07f034-b1d8-3876-9ec2-259f2b850ea0"
+    },
+    "time": 1756727034980,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "file",
+      "value": "plugins\\spark\\heapsummary-2025-09-01_15.13.54.sparkheap"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+name: Foroughi
+kits:
+  starter:
+    cooldown: 1757068780576
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1757068781964
+    one_time: false
+    bought: false

@@ -1,0 +1,17 @@
+spawns:
+  default:
+    world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+    world-name: world
+    x: -99.37929291464863
+    y: 46.0
+    z: 51.565245751489684
+    yaw: -88.71786499023438
+    pitch: 12.940985679626465
+  kasrailoli:
+    world: 2f990815-0a0b-4ae9-90c1-8c968e58bf6b
+    world-name: world
+    x: 92.38659330981386
+    y: 64.0
+    z: -109.96689520449146
+    yaw: 8.001440048217773
+    pitch: 44.400115966796875

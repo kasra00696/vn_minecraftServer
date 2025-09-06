@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757113332584
+  login: 1757112631542
+money: '2413.0'
+last-account-name: Killo_oMaster
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 167.99868585290383
+  y: 104.61650136792812
+  z: 459.4025486981076
+  yaw: 175.088134765625
+  pitch: 54.29985427856445
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 157.95029548184405
+  y: 90.63011313786527
+  z: 441.23750001192093
+  yaw: 152.08026123046875
+  pitch: 28.199844360351562

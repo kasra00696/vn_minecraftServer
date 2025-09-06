@@ -1,0 +1,26 @@
+{
+  "guid": "022b5021-fc8d-4c62-b065-87d67b04ea02",
+  "serverTypeGuid": "984ed3d3-636d-4535-82b2-7c1048782c64",
+  "name": "survive",
+  "description": "",
+  "creationDate": "2025-08-22T19:32:01.0147743+03:30",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "None",
+  "startupMethode": "JavaStartupLine",
+  "allocatedMemory": 10240,
+  "allocatedMemorySuffix": "GB",
+  "startupLine": "java -Xms256M -Xmx[RAM]M -jar [SERVERTYPE.NAME].jar",
+  "startupBatFilename": "",
+  "serverFileChecksum": "7d5410a978360a46faa76a288b1eab353135d8db16e40329a154402ec1b12d91",
+  "serverFileVersion": "1.20.6",
+  "javaPathOverride": "",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}

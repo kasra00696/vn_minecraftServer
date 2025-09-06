@@ -1,0 +1,18 @@
+name: dr_dount
+kits:
+  copper:
+    cooldown: 1757560777281
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1757002787934
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1757002788634
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1757002789835
+    one_time: false
+    bought: false

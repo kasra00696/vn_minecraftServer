@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757068144236
+  login: 1757067526164
+money: '10000'
+last-account-name: Theomidioi
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: -111.5
+  y: 71.0
+  z: -127.47452000080376
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 1.7049297929071594
+  y: 31.495200877005917
+  z: 81.76085922168049
+  yaw: -99.5782470703125
+  pitch: 18.000015258789062

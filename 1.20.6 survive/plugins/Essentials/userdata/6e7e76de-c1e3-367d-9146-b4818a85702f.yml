@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756899552529
+  login: 1756899491640
+money: '10000'
+last-account-name: nightrich612222
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.656825913349733
+  y: 30.0
+  z: 52.70317900715795
+  yaw: 113.361083984375
+  pitch: -3.8167459964752197
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -355.0859219154006
+  y: 66.67647087614428
+  z: 707.0501346699864
+  yaw: 166.7908935546875
+  pitch: 16.103837966918945

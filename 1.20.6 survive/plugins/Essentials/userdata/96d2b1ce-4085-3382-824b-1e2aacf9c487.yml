@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756908983130
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756909349570
+  login: 1756906621861
+money: '2663.0'
+last-account-name: alirezaomega3
+lastlocation:
+  world: a6155cd7-75bb-4afe-9791-1bf3f91d322e
+  world-name: world_nether
+  x: 362.30000001192093
+  y: 45.0
+  z: 29.30000001192093
+  yaw: -30.828826904296875
+  pitch: 48.299964904785156
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -174.88956623298742
+  y: 66.0
+  z: -213.3232495183889
+  yaw: 156.0360107421875
+  pitch: 57.90006637573242

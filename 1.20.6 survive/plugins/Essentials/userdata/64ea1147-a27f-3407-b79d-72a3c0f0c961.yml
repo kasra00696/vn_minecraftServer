@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757072618421
+  login: 1757064288594
+money: '4442.0'
+last-account-name: Hog_Matin
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -713.5681119095207
+  y: 116.0
+  z: -260.63443580667365
+  yaw: 165.194091796875
+  pitch: 58.2747802734375
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -714.3769837641453
+  y: 116.0
+  z: -260.52314168606864
+  yaw: 144.03347778320312
+  pitch: 22.885417938232422

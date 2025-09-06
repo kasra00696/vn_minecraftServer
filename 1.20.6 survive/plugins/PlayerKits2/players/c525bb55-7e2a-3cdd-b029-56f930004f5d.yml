@@ -1,0 +1,18 @@
+name: Texr
+kits:
+  starter:
+    cooldown: 1756671666931
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756945472305
+    one_time: false
+    bought: false
+  gold:
+    cooldown: 1756151174522
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757398648865
+    one_time: false
+    bought: false

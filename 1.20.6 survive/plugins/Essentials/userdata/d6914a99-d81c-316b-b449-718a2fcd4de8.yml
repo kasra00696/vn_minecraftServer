@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1757012157277
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757017040772
+  login: 1757016197751
+money: '676.5'
+last-account-name: sportamir
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.574719283521219
+  y: 29.0
+  z: 63.1726331496613
+  yaw: -85.4039306640625
+  pitch: 0.1972610354423523
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 258.2505480503634
+  y: 54.0
+  z: 344.16131544557334
+  yaw: -85.25775146484375
+  pitch: 24.468700408935547

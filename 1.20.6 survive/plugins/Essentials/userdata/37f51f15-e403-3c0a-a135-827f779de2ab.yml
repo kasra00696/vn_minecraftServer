@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756724613254
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756797215603
+  login: 1756797205587
+money: '3550.0'
+last-account-name: atashadowkiller
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -599.7054099240569
+  y: 73.76636799395752
+  z: 436.799911642107
+  yaw: -19.1552734375
+  pitch: 45.788421630859375
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 183.1164129026476
+  y: 91.0
+  z: 435.48518460608136
+  yaw: -77.47473907470703
+  pitch: -1.545621633529663

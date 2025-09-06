@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756919040312
+  login: 1756918916997
+money: '60315.0'
+last-account-name: Texr
+logoutlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: 1211.699999988079
+  y: 102.0
+  z: -610.6999999880791
+  yaw: -70.4051513671875
+  pitch: 37.980438232421875
+lastlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: -2.6403927239741773
+  y: 100.40739540236494
+  z: 603.5532360019387
+  yaw: 156.80630493164062
+  pitch: 14.768210411071777

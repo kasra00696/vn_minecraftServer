@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756214763735
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757096809541
+  login: 1757096297366
+money: '0'
+last-account-name: mahdimzl
+lastlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: -597.2297114506076
+  y: 110.0
+  z: -14.536031454070866
+  yaw: -57.44970703125
+  pitch: 32.060909271240234
+logoutlocation:
+  world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+  world-name: world
+  x: -15.445685287220561
+  y: 84.0
+  z: 230.30000001192093
+  yaw: 172.580078125
+  pitch: 30.885683059692383

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756897016785
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756897037178
+  login: 1756896532185
+money: '10000'
+last-account-name: aboli1313
+lastlocation:
+  world: 34dd6574-7f08-4ffe-a61a-11eb70044c25
+  world-name: world_the_end
+  x: 3580.489693326822
+  y: 57.0
+  z: -516.814698588037
+  yaw: 26.0242919921875
+  pitch: 23.70416831970215
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -538.2925152967615
+  y: 62.666117064470406
+  z: 732.1749375058342
+  yaw: -100.92857360839844
+  pitch: -16.200021743774414

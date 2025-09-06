@@ -1,0 +1,18 @@
+name: SirMrOrdak_11
+kits:
+  food:
+    cooldown: 1756636872641
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756636873907
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756636875390
+    one_time: false
+    bought: false
+  media:
+    cooldown: 1757194878004
+    one_time: false
+    bought: false

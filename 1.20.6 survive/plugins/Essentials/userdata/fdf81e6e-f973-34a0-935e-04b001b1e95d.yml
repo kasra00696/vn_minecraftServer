@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756630826033
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756631032817
+  login: 1756630882612
+money: '10000'
+last-account-name: _Spooder_Killer_
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 0.2340641340237149
+  y: 30.0
+  z: 56.30322572211027
+  yaw: 160.37167358398438
+  pitch: -2.099968910217285
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 1140.9717519557091
+  y: 72.0
+  z: 465.7010837618652
+  yaw: 95.06643676757812
+  pitch: 8.93100643157959

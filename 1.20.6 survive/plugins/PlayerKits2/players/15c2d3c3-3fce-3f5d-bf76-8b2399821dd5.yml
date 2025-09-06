@@ -1,0 +1,18 @@
+name: Seppro_24
+kits:
+  food:
+    cooldown: 1757151310334
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1757151311877
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1757151313018
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757709319277
+    one_time: false
+    bought: false

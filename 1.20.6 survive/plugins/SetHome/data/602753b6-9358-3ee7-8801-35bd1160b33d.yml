@@ -1,0 +1,27 @@
+homes:
+- 'Ridan. '
+- <home_name>
+- 'Alan kit starterM NADAram. '
+Ridan:
+  ' ':
+    world: wild
+    x: -693.0338714568798
+    y: 64.0
+    z: -272.94698753262503
+    yaw: -23.828186
+    pitch: 53.250042
+<home_name>:
+  world: wild
+  x: 172.76547735041234
+  y: 88.0
+  z: 422.8011651375597
+  yaw: 177.7312
+  pitch: 32.998882
+Alan kit starterM NADAram:
+  ' ':
+    world: wild
+    x: 169.2127675305029
+    y: 88.0
+    z: 421.94767773978634
+    yaw: 34.181183
+    pitch: 9.598884

@@ -1,0 +1,10 @@
+name: coolhossein
+kits:
+  starter:
+    cooldown: 1756546085762
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756546086925
+    one_time: false
+    bought: false

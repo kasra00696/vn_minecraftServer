@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757130995514
+  login: 1757116662996
+money: '0'
+last-account-name: MmdScor
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -254.73084863189735
+  y: 79.0
+  z: 1270.769817434765
+  yaw: 88.27401733398438
+  pitch: 26.936250686645508
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -1560.7044711944193
+  y: 64.0
+  z: 1873.3739829351944
+  yaw: -71.4017333984375
+  pitch: 10.502555847167969

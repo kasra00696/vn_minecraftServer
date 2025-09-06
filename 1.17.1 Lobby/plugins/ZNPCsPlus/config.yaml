@@ -26,7 +26,7 @@ tab-display-name: ZNPC[{id}]
 # The amount of time to wait before removing the npc from the player list (aka tab) in ticks
 # If you're on 1.19.2 or above changing this value will have almost no effect since npcs are hidden in tab
 # WARNING: Setting this value too low may cause issues with player npcs spawning
-tab-hide-delay: 60
+tab-hide-delay: 5
 # Should the plugin check for available updates and notify admins about them?
 check-for-updates: true
 # Set this to true if you don't want to be warned in the console when a skin fails to resolve

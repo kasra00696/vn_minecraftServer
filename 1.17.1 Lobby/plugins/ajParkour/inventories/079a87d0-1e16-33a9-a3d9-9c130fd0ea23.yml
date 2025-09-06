@@ -22,9 +22,7 @@ inventory:
       enchants:
         ARROW_INFINITE: 1
       Unbreakable: true
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2730
-    type: EMERALD
+  - null
   - null
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
@@ -38,7 +36,21 @@ inventory:
       - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Right-click
         to open the server selector!"}],"text":""}'
       internal: H4sIAAAAAAAA/+NiYOBg4MrIL0lKLPIsSc1l4C9OLSpLLYovTs1JTS7JL2IAAD+emnsiAAAA
-  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: CAULDRON
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Diving
+        Board Gadget"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      internal: H4sIAAAAAAAA/+NiYOBi4HZPTElPLSn2Tc0r5WDgdM4vzk0tyUwuZmApKSpN5WDgcE4sSU3PL6pkYIOoZGAAAA+4FSg4AAAA
   - ==: org.bukkit.inventory.ItemStack
     v: 2730
     type: ENDER_CHEST
@@ -48,7 +60,7 @@ inventory:
       display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"GadgetsMenu"}],"text":""}'
       lore:
       - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Mystery
-        Dust: "},{"italic":false,"color":"aqua","text":"0"}],"text":""}'
+        Dust: "},{"italic":false,"color":"aqua","text":"2"}],"text":""}'
       - '{"text":""}'
       - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Enjoy
         fun cosmetic features!"}],"text":""}'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756549276627
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756829788977
+  login: 1756829786482
+money: '0'
+last-account-name: kasra007
+lastlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: 0.5
+  y: 100.0
+  z: 0.5
+  yaw: 2.2500061988830566
+  pitch: 68.85000610351562
+logoutlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: 2.699999988079071
+  y: 99.0
+  z: 601.3000000119209
+  yaw: -176.0515899658203
+  pitch: 14.249907493591309

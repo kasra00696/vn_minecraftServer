@@ -1,12 +1,561 @@
-[00:25:51] [SkinsRestorer - Task Executor #40/INFO] [skinsrestorer]: A new version of SkinsRestorer (15.7.8) is available: https://modrinth.com/plugin/skinsrestorer/version/15.7.8
-[01:08:52] [Netty NIO Worker #5/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.234:63726: read timed out
-[03:14:51] [SkinsRestorer - Task Executor #47/INFO] [skinsrestorer]: A new version of SkinsRestorer (15.7.8) is available: https://modrinth.com/plugin/skinsrestorer/version/15.7.8
-[03:33:36] [Netty NIO Worker #4/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.234:63726: read timed out
-[04:40:33] [Netty NIO Worker #6/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.234:63726: read timed out
-[05:54:50] [Thread-1/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
-[05:54:50] [Thread-1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
-[05:54:50] [ajQueue - Task Executor #45/INFO] [me.xneox.epicguard.libs.com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
-[05:54:50] [ajQueue - Task Executor #45/INFO] [me.xneox.epicguard.libs.com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
-[05:54:50] [ajQueue - Task Executor #45/INFO] [luckperms]: Starting shutdown process...
-[05:54:50] [ajQueue - Task Executor #45/INFO] [luckperms]: Closing storage...
-[05:54:50] [ajQueue - Task Executor #45/INFO] [luckperms]: Goodbye!
+[00:00:54] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Mehdi_ping (/2.147.248.109:44746) has disconnected: An internal error occurred in your connection.
+[00:00:54] [Netty NIO Worker #16/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mehdi_ping (/2.147.248.109:44746): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@3536d889
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:00:54] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mehdi_ping -> lobby has disconnected
+[00:02:40] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] hosseinansari (/217.218.63.206:61305) has disconnected: An internal error occurred in your connection.
+[00:02:40] [Netty NIO Worker #12/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] hosseinansari (/217.218.63.206:61305): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@81f8fb5
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:02:40] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] hosseinansari -> survive has disconnected
+[00:02:40] [Netty NIO Worker #9/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Killo_oMaster (/151.234.200.113:11143) has disconnected: An internal error occurred in your connection.
+[00:02:40] [Netty NIO Worker #9/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Killo_oMaster (/151.234.200.113:11143): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@685c7b52
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:02:40] [Netty NIO Worker #9/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has disconnected
+[00:02:40] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kasraILOLI (/2.190.136.73:52278) has disconnected: An internal error occurred in your connection.
+[00:02:40] [Netty NIO Worker #4/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] kasraILOLI (/2.190.136.73:52278): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@7b66617d
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:02:40] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[00:02:44] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] aermin456 (/2.178.197.214:49521) has disconnected: An internal error occurred in your connection.
+[00:02:44] [Netty NIO Worker #12/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] aermin456 (/2.178.197.214:49521): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@11848c0e
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:02:44] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] aermin456 -> lobby has disconnected
+[00:02:51] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] RichPlant (/5.219.78.242:49196) has disconnected: An internal error occurred in your connection.
+[00:02:51] [Netty NIO Worker #1/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] RichPlant (/5.219.78.242:49196): read timed out
+[00:02:51] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> survive has disconnected
+[00:04:56] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] RichPlant (/5.219.78.242:59646) has connected
+[00:04:56] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> AuthMe has connected
+[00:05:04] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> lobby has connected
+[00:05:05] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> AuthMe has disconnected
+[00:05:08] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> survive has connected
+[00:05:08] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> lobby has disconnected
+[00:05:26] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] kasraILOLI (/2.190.136.73:54803) has connected
+[00:05:26] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> AuthMe has connected
+[00:05:31] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[00:05:31] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> AuthMe has disconnected
+[00:05:34] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[00:05:34] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[00:16:05] [Netty NIO Worker #2/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:63706: read timed out
+[00:23:53] [AdvancedServerList-UpdateThread/INFO] [AdvancedServerList]: [-] Looking for an update...
+[00:23:54] [ForkJoinPool.commonPool-worker-3/INFO] [AdvancedServerList]: [✓] You are running the latest version!
+[00:27:15] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[00:27:15] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[00:27:25] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[00:27:25] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[00:29:55] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[00:29:55] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[00:31:29] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Killo_oMaster (/151.234.200.113:21533) has connected
+[00:31:29] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> AuthMe has connected
+[00:31:36] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> lobby has connected
+[00:31:36] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> AuthMe has disconnected
+[00:31:48] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has connected
+[00:31:49] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> lobby has disconnected
+[00:33:33] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Killo_oMaster (/151.234.200.113:21533) has disconnected
+[00:33:33] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has disconnected
+[00:33:42] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] mahdimzl (/46.41.204.247:25373) has disconnected: An internal error occurred in your connection.
+[00:33:42] [Netty NIO Worker #12/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] mahdimzl (/46.41.204.247:25373): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@12d08615
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:33:42] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> survive has disconnected
+[00:37:42] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] RichPlant (/5.219.78.242:59646) has disconnected
+[00:37:42] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] RichPlant -> survive has disconnected
+[00:39:51] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[00:39:52] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[00:40:38] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:12309) has connected
+[00:40:38] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:12309) has disconnected
+[00:40:42] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] kasraILOLI (/2.190.136.73:54803) has disconnected
+[00:40:42] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[01:16:31] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] coolhossein (/93.119.220.69:59327) has connected
+[01:16:31] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] coolhossein -> AuthMe has connected
+[01:16:39] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] coolhossein -> lobby has connected
+[01:16:40] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] coolhossein -> AuthMe has disconnected
+[01:16:51] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] coolhossein -> survive has connected
+[01:17:07] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] coolhossein -> lobby has disconnected
+[01:18:47] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] coolhossein (/93.119.220.69:59327) has disconnected
+[01:18:47] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] coolhossein -> survive has disconnected
+[01:30:16] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:21031) has connected
+[01:30:16] [Netty NIO Worker #16/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:21031) has disconnected
+[01:37:57] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Killo_oMaster (/151.234.200.113:2298) has connected
+[01:37:57] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> AuthMe has connected
+[01:38:13] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> lobby has connected
+[01:38:14] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> AuthMe has disconnected
+[01:38:31] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has connected
+[01:38:31] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> lobby has disconnected
+[01:41:35] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] kasraILOLI (/2.190.136.73:59689) has connected
+[01:41:35] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> AuthMe has connected
+[01:41:42] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[01:41:42] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> AuthMe has disconnected
+[01:41:50] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[01:41:50] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[02:14:13] [Netty NIO Worker #16/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:62078: read timed out
+[02:15:40] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Killo_oMaster (/151.234.200.113:2298): kicked from server survive: Server closed
+[02:15:40] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has disconnected
+[02:15:40] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> lobby has connected
+[02:15:40] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kasraILOLI (/2.190.136.73:59689): kicked from server survive: Server closed
+[02:15:40] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[02:15:40] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[02:19:56] [Netty NIO Worker #15/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:65372: read timed out
+[02:20:13] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[02:20:16] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[02:20:28] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has connected
+[02:20:30] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> lobby has disconnected
+[02:32:04] [Netty NIO Worker #19/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:65372: read timed out
+[02:32:12] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Killo_oMaster (/151.234.200.113:2298) has disconnected
+[02:32:12] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Killo_oMaster -> survive has disconnected
+[02:44:46] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kasraILOLI (/2.190.136.73:59689) has disconnected: An internal error occurred in your connection.
+[02:44:46] [Netty NIO Worker #5/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] kasraILOLI (/2.190.136.73:59689): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@5542bb23
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:44:46] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[02:46:13] [Netty NIO Worker #2/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:20707) has connected
+[02:46:13] [Netty NIO Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:20707) has disconnected
+[03:26:26] [Netty NIO Worker #4/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:61711: read timed out
+[03:27:28] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] MmdScor (/5.160.62.174:62330) has connected
+[03:27:28] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] MmdScor -> AuthMe has connected
+[03:27:38] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] MmdScor -> lobby has connected
+[03:27:38] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] MmdScor -> AuthMe has disconnected
+[03:27:41] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] MmdScor -> survive has connected
+[03:27:42] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] MmdScor -> lobby has disconnected
+[03:32:04] [Netty NIO Worker #9/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:8413) has connected
+[03:32:04] [Netty NIO Worker #9/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:8413) has disconnected
+[04:18:44] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:29267) has connected
+[04:18:44] [Netty NIO Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:29267) has disconnected
+[04:33:33] [Netty NIO Worker #6/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:65404: read timed out
+[05:04:41] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:17035) has connected
+[05:04:41] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:17035) has disconnected
+[05:05:36] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Khalvach (/104.28.194.220:29399) has connected
+[05:05:37] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> AuthMe has connected
+[05:06:04] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has connected
+[05:06:04] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> AuthMe has disconnected
+[05:06:17] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> survive has connected
+[05:06:17] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has disconnected
+[05:15:21] [Netty NIO Worker #11/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:64921: read timed out
+[05:15:35] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Khalvach (/104.28.194.220:29399) has disconnected
+[05:15:35] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> survive has disconnected
+[05:26:21] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Khalvach (/104.28.194.220:39006) has connected
+[05:26:21] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> AuthMe has connected
+[05:26:35] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has connected
+[05:26:35] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> AuthMe has disconnected
+[05:30:48] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Khalvach (/104.28.194.220:39006) has disconnected
+[05:30:48] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has disconnected
+[05:33:03] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Khalvach (/104.28.194.220:29565) has connected
+[05:33:03] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> AuthMe has connected
+[05:33:12] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has connected
+[05:33:12] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> AuthMe has disconnected
+[05:33:53] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> survive has connected
+[05:33:54] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has disconnected
+[05:45:40] [Netty NIO Worker #3/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:64921: read timed out
+[05:51:51] [Netty NIO Worker #13/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:9921) has connected
+[05:51:51] [Netty NIO Worker #13/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:9921) has disconnected
+[05:57:25] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Khalvach (/104.28.194.220:29565): kicked from server survive: Cheat o Lag? -s
+[05:57:25] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> survive has disconnected
+[05:57:25] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has connected
+[05:57:41] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> survive has connected
+[05:57:41] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> lobby has disconnected
+[06:17:54] [Netty NIO Worker #11/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:63790: read timed out
+[06:38:25] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:28743) has connected
+[06:38:25] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:28743) has disconnected
+[07:22:26] [Netty NIO Worker #14/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:65476: read timed out
+[07:26:35] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] MmdScor (/5.160.62.174:62330) has disconnected
+[07:26:35] [Netty NIO Worker #18/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] MmdScor -> survive has disconnected
+[07:26:38] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Khalvach (/104.28.194.220:29565) has disconnected
+[07:26:38] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Khalvach -> survive has disconnected
+[07:26:56] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:23141) has connected
+[07:26:56] [Netty NIO Worker #6/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:23141) has disconnected
+[07:58:59] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] sjsj (/5.239.173.176:49194) has connected
+[07:58:59] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> AuthMe has connected
+[07:59:25] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> lobby has connected
+[07:59:25] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> AuthMe has disconnected
+[07:59:30] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> survive has connected
+[07:59:30] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> lobby has disconnected
+[08:12:32] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:9553) has connected
+[08:12:32] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:9553) has disconnected
+[08:18:06] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] GTT (/2.176.190.22:58157) has connected
+[08:18:06] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> AuthMe has connected
+[08:18:16] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GTT (/2.176.190.22:58157): kicked from server AuthMe: Kicked for spamming
+[08:18:16] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> AuthMe has disconnected
+[08:18:16] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GTT (/2.176.190.22:58157) has disconnected: Kicked for spamming
+[08:18:20] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] GTT (/2.176.190.22:58162) has connected
+[08:18:20] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> AuthMe has connected
+[08:18:21] [Netty NIO Worker #8/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:61892: read timed out
+[08:18:27] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GTT (/2.176.190.22:58162): kicked from server AuthMe: Kicked for spamming
+[08:18:27] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> AuthMe has disconnected
+[08:18:27] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] GTT (/2.176.190.22:58162) has disconnected: Kicked for spamming
+[08:18:33] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] GTT (/2.176.190.22:58166) has connected
+[08:18:33] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> AuthMe has connected
+[08:18:36] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> lobby has connected
+[08:18:36] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> AuthMe has disconnected
+[08:18:40] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> survive has connected
+[08:18:41] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> lobby has disconnected
+[08:39:11] [Netty NIO Worker #0/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:61892: read timed out
+[08:52:34] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] sjsj (/5.239.173.176:49194) has disconnected: An internal error occurred in your connection.
+[08:52:34] [Netty NIO Worker #5/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] sjsj (/5.239.173.176:49194): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@b4af738
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[08:52:34] [Netty NIO Worker #5/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> survive has disconnected
+[08:53:56] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] sjsj (/5.239.173.176:54012) has connected
+[08:53:56] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> AuthMe has connected
+[08:54:16] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> lobby has connected
+[08:54:16] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> AuthMe has disconnected
+[08:54:22] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> survive has connected
+[08:54:22] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> lobby has disconnected
+[08:55:38] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] GTT (/2.176.190.22:58166) has disconnected
+[08:55:38] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] GTT -> survive has disconnected
+[08:59:14] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:13111) has connected
+[08:59:14] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:13111) has disconnected
+[09:04:09] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] sjsj (/5.239.173.176:54012) has disconnected
+[09:04:09] [Netty NIO Worker #11/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> survive has disconnected
+[09:05:42] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] sjsj (/5.239.173.176:59162) has connected
+[09:05:42] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> AuthMe has connected
+[09:05:53] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> lobby has connected
+[09:05:53] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> AuthMe has disconnected
+[09:05:56] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> survive has connected
+[09:05:56] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> lobby has disconnected
+[09:06:37] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] sjsj (/5.239.173.176:59162) has disconnected
+[09:06:37] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] sjsj -> survive has disconnected
+[09:45:42] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Player (/204.76.203.35:8371) has connected
+[09:45:42] [Netty NIO Worker #8/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Player (/204.76.203.35:8371) has disconnected
+[10:03:28] [Netty NIO Worker #1/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:62707: read timed out
+[10:05:55] [Netty NIO Worker #17/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] hdhhshdhdh (/5.239.173.176:41000) has connected
+[10:05:55] [Netty NIO Worker #17/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] hdhhshdhdh -> AuthMe has connected
+[10:05:55] [Netty NIO Worker #17/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] hdhhshdhdh -> AuthMe has disconnected
+[10:05:55] [Netty NIO Worker #17/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] hdhhshdhdh (/5.239.173.176:41000): disconnected while connecting to AuthMe: 
+[10:05:55] [Netty NIO Worker #17/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] hdhhshdhdh (/5.239.173.176:41000) has disconnected: Outdated client! Please use 1.12.2
+[10:15:02] [Netty NIO Worker #17/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:62707: read timed out
+[11:35:50] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] kasraILOLI (/2.190.136.73:57964) has connected
+[11:35:51] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> AuthMe has connected
+[11:35:56] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[11:35:56] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> AuthMe has disconnected
+[11:36:00] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[11:36:00] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[11:36:36] [Netty NIO Worker #6/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:64667: read timed out
+[11:40:18] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] mahdimzl (/46.41.249.97:57713) has connected
+[11:40:18] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> AuthMe has connected
+[11:40:35] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> lobby has connected
+[11:40:35] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> AuthMe has disconnected
+[11:41:39] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> survive has connected
+[11:41:39] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> lobby has disconnected
+[11:54:42] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kasraILOLI (/2.190.136.73:57964): kicked from server survive: Server closed
+[11:54:42] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[11:54:42] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[11:54:42] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] mahdimzl (/46.41.249.97:57713): kicked from server survive: Server closed
+[11:54:42] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> survive has disconnected
+[11:54:42] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> lobby has connected
+[11:58:26] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Seppro_24 (/5.124.243.145:6113) has connected
+[11:58:26] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has connected
+[11:58:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[11:58:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has disconnected
+[11:58:53] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[11:58:57] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[11:59:08] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> survive has connected
+[11:59:09] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> lobby has disconnected
+[11:59:13] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[11:59:14] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[11:59:58] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[11:59:58] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:01] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.124.243.145:6113): kicked from server survive: 
+[12:00:01] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:00:01] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:00:01] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:01] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[12:00:15] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[12:00:15] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:18] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:18] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[12:00:24] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:00:24] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:00:38] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[12:00:38] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:43] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:43] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:44] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:44] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:48] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:49] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:54] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:54] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:00:59] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:00:59] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:01:03] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:01:04] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:01:08] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:01:09] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:01:13] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:01:14] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:01:18] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:01:19] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:01:24] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:01:24] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[12:02:58] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has connected
+[12:02:58] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[12:03:02] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has connected
+[12:03:02] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> lobby has disconnected
+[12:14:03] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.124.243.145:6113): kicked from server survive: An internal server connection error occurred.
+[12:14:03] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:14:03] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:14:28] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:14:29] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:15:02] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.124.243.145:6113): kicked from server survive: Internal Exception: io.netty.handler.timeout.ReadTimeoutException
+[12:15:02] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:15:02] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:15:38] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:15:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:16:27] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.124.243.145:6113): kicked from server survive: An internal server connection error occurred.
+[12:16:27] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:16:27] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:16:38] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:16:38] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:16:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:16:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:16:44] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:16:44] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:17:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.124.243.145:6113) has disconnected: An internal error occurred in your connection.
+[12:17:39] [Netty NIO Worker #4/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Seppro_24 (/5.124.243.145:6113): read timed out
+[12:17:39] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:20:03] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Seppro_24 (/5.124.243.145:6115) has connected
+[12:20:03] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has connected
+[12:20:03] [Netty NIO Worker #10/WARN] [viaversion]: ERROR IN Protocol1_17_1To1_18 IN REMAP OF LIGHT_UPDATE (0x25)
+[12:20:03] [Netty NIO Worker #10/WARN] [viaversion]: ERROR IN Protocol1_13_2To1_14 IN REMAP OF LEVEL_CHUNK (0x22)
+[12:20:03] [Netty NIO Worker #10/WARN] [viaversion]: ERROR IN Protocol1_12_2To1_13 IN REMAP OF LEVEL_CHUNK (0x20)
+[12:20:03] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Seppro_24 (/5.124.243.145:6115) has disconnected
+[12:20:03] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has disconnected
+[12:20:09] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Seppro_24 (/5.124.243.145:6116) has connected
+[12:20:09] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has connected
+[12:20:16] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:20:16] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has disconnected
+[12:20:27] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:20:27] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:23:53] [AdvancedServerList-UpdateThread/INFO] [AdvancedServerList]: [-] Looking for an update...
+[12:23:54] [ForkJoinPool.commonPool-worker-4/INFO] [AdvancedServerList]: [✓] You are running the latest version!
+[12:25:53] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] kiyan998 (/89.40.242.212:38800) has connected
+[12:25:53] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> AuthMe has connected
+[12:26:48] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.124.243.145:6116) has disconnected: An internal error occurred in your connection.
+[12:26:48] [Netty NIO Worker #3/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Seppro_24 (/5.124.243.145:6116): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@46ba32b1
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[12:26:48] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:27:47] [Netty NIO Worker #3/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /185.212.149.204:45546: read timed out
+[12:27:54] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kiyan998 (/89.40.242.212:38800): kicked from server AuthMe: §4Zamane shoma barie login kardan be etmam resid!
+[12:27:54] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> AuthMe has disconnected
+[12:27:54] [Netty NIO Worker #12/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kiyan998 (/89.40.242.212:38800) has disconnected: §4Zamane shoma barie login kardan be etmam resid!
+[12:28:00] [Netty NIO Worker #15/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:65027: read timed out
+[12:30:18] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Seppro_24 (/5.123.202.18:36477) has connected
+[12:30:18] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has connected
+[12:30:25] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:30:25] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has disconnected
+[12:30:38] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has connected
+[12:30:39] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:31:15] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Seppro_24 (/5.123.202.18:36477) has disconnected: Your connection to survive encountered a problem.
+[12:31:15] [Netty NIO Worker #7/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive: read timed out
+[12:31:15] [Netty NIO Worker #7/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> survive has disconnected
+[12:32:23] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] kiyan998 (/89.40.242.212:53820) has connected
+[12:32:23] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> AuthMe has connected
+[12:32:52] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> lobby has connected
+[12:32:52] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> AuthMe has disconnected
+[12:33:06] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> survive has connected
+[12:33:06] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> lobby has disconnected
+[12:44:13] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] Seppro_24 (/5.124.186.77:21696) has connected
+[12:44:13] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has connected
+[12:44:24] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has connected
+[12:44:25] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> AuthMe has disconnected
+[12:45:41] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Seppro_24 (/5.124.186.77:21696) has disconnected
+[12:45:41] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Seppro_24 -> lobby has disconnected
+[12:49:33] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] hdhhshdhdh (/5.239.173.209:40322) has connected
+[12:49:33] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] hdhhshdhdh -> AuthMe has connected
+[12:49:49] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] hdhhshdhdh (/5.239.173.209:40322) has disconnected
+[12:49:49] [Netty NIO Worker #10/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] hdhhshdhdh -> AuthMe has disconnected
+[13:10:37] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] kasraILOLI (/2.190.136.73:57964) has disconnected: An internal error occurred in your connection.
+[13:10:37] [Netty NIO Worker #4/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] kasraILOLI (/2.190.136.73:57964): exception encountered in com.velocitypowered.proxy.connection.client.ClientPlaySessionHandler@6686ecda
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:255) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:152) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:383) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:577) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:552) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:493) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:470) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:204) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:175) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1073) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[velocity-3.4.0-SNAPSHOT-521.jar:3.4.0-SNAPSHOT (git-81deb1ff-b521)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:10:37] [Netty NIO Worker #4/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kasraILOLI -> survive has disconnected
+[13:16:39] [Netty NIO Worker #7/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /176.65.148.103:64563: read timed out
+[13:16:57] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] kiyan998 (/89.40.242.212:53820) has disconnected
+[13:16:57] [Netty NIO Worker #19/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] kiyan998 -> survive has disconnected
+[13:19:41] [Thread-2/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[13:19:41] [Thread-2/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
+[13:19:41] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] mahdimzl (/46.41.249.97:57713) has disconnected: Proxy shutting down.
+[13:19:41] [Netty NIO Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] mahdimzl -> survive has disconnected
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [AdvancedServerList]: [-] Saving playercache.json file...
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [AdvancedServerList]: [✓] Successfully saved playercache.json file.
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [AdvancedServerList]: [-] Disabling Update Checker...
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [AdvancedServerList]: [✓] AdvancedServerList disabled!
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [me.xneox.epicguard.libs.com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [me.xneox.epicguard.libs.com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [fallbackservervelocity]: [!] FallbackServer is disabling..
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [luckperms]: Starting shutdown process...
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [luckperms]: Closing storage...
+[13:19:41] [AdvancedServerList - Task Executor #0/INFO] [luckperms]: Goodbye!

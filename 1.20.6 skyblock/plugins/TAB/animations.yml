@@ -1,0 +1,146 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&b-&3--------------'
+    - '&3-&b-&3-------------'
+    - '&3--&b-&3------------'
+    - '&3---&b-&3-----------'
+    - '&3----&b-&3----------'
+    - '&3-----&b-&3---------'
+    - '&3------&b-&3--------'
+    - '&3-------&b-&3-------'
+    - '&3--------&b-&3------'
+    - '&3---------&b-&3-----'
+    - '&3----------&b-&3----'
+    - '&3-----------&b-&3---'
+    - '&3------------&b-&3--'
+    - '&3-------------&b-&3-'
+    - '&3--------------&b-'
+    - '&3-------------&b-&3-'
+    - '&3------------&b-&3--'
+    - '&3-----------&b-&3---'
+    - '&3----------&b-&3----'
+    - '&3---------&b-&3-----'
+    - '&3--------&b-&3------'
+    - '&3-------&b-&3-------'
+    - '&3------&b-&3--------'
+    - '&3-----&b-&3---------'
+    - '&3----&b-&3----------'
+    - '&3---&b-&3-----------'
+    - '&3--&b-&3------------'
+    - '&3-&b-&3-------------'
+    - '&b-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3&bv&3enuxserver.com'
+  - '&3v&be&3nuxserver.com'
+  - '&3ve&bn&3uxserver.com'
+  - '&3ven&bu&3xserver.com'
+  - '&3venu&bx&3server.com'
+  - '&3venux&bs&3erver.com'
+  - '&3venuxs&be&3rver.com'
+  - '&3venuxse&br&3ver.com'
+  - '&3venuxser&bv&3er.com'
+  - '&3venuxserv&be&3r.com'
+  - '&3venuxserve&br&3.com'
+  - '&3venuxserver&b.c&3om'
+  - '&3venuxserver.c&bo&3m'
+  - '&3venuxserver.co&bm'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+  - '&3venuxserver.com'
+
+play:
+  change-interval: 200
+  texts:
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3p&bl&3ay.venuxserver.com'
+  - '&3pl&ba&3y.venuxserver.com'
+  - '&3pla&by&3.venuxserver.com'
+  - '&3play&b.&3venuxserver.com'
+  - '&3play.&bv&3enuxserver.com'
+  - '&3play.v&be&3nuxserver.com'
+  - '&3play.ve&bn&3uxserver.com'
+  - '&3play.ven&bu&3xserver.com'
+  - '&3play.venu&bx&3server.com'
+  - '&3play.venux&bs&3erver.com'
+  - '&3play.venuxs&be&3rver.com'
+  - '&3play.venuxse&br&3ver.com'
+  - '&3play.venuxser&bv&3er.com'
+  - '&3play.venuxserv&be&3r.com'
+  - '&3play.venuxserve&br&3.com'
+  - '&3play.venuxserver&b.c&3om'
+  - '&3play.venuxserver.c&bo&3m'
+  - '&3play.venuxserver.co&bm'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+  - '&3play.venuxserver.com'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.venux.com'
+  - '&a&nvote.venux.com'
+  - '&5vote.venux.com'
+  - '&5&nvote.venux.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

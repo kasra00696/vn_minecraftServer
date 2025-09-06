@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757074294528
+  login: 1757073329857
+money: '1900.0'
+last-account-name: SheykhDream
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.44442691383333
+  y: 30.0
+  z: 53.44106311735499
+  yaw: 179.15647888183594
+  pitch: 6.876392364501953
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 619.8789249975351
+  y: 63.0
+  z: -1487.5033207127049
+  yaw: 95.2916259765625
+  pitch: 5.592614650726318

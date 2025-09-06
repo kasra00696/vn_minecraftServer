@@ -38,7 +38,7 @@ scoreboard-teams:
   invisible-nametags: false
   # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Sorting-players-in-tablist
   sorting-types:
-    - "GROUPS:owner,admin,mod,helper,builder,vip,default"
+    - "GROUPS:owner,moderator,supervisor,supporter,helper,trial,diamond,gold,iron,copper,player,default"
     - "PLACEHOLDER_A_TO_Z:%player%"
   case-sensitive-sorting: true
   can-see-friendly-invisibles: false
@@ -90,21 +90,26 @@ scoreboard:
   delay-on-join-milliseconds: 0
   scoreboards:
     scoreboard-1.20.3+:
-      title: "<#E0B11E>Survive</#FF0000>"
+      #title: "<#E0B11E>Survive</#FF0000>"
+      title: "&2&lSurvive"
       display-condition: "%player-version-id%>=765;%bedrock%=false" # Only display it to players using 1.20.3+ AND NOT bedrock edition
       lines:
-        - "%animation:MyAnimation1%"
-        - "&6Player:"
-        - "* &eRank&7: &f%group%"
-        - "* &eName&7: &f%player%"
-        - "* &ePing&7: &f%ping%&8ms"
         - ""
-        - "&6Game:"
-        - "* &eMoney&7:"
-        - "* &eCliamOwner&7:"
-        - "* &eCliamBlock&7:"
-        - "%animation:MyAnimation1%"
-        - "%animation:play%"
+        - "&b&lPlayer:"
+        - "* &bRank: &e%luckperms_prefix%"
+        - "* &bName: &e%player%"
+        - "* &bPing: &e%ping%&8ms"
+        - "* &bMoney: &e%vault_eco_balance_formatted%"
+        - "&6&lClaim:"
+        - "* &6ClaimOwner: &e%changeoutput_equals_input:{griefprevention_currentclaim_ownername}_matcher:Unclaimed_ifmatch:unclaim_else:{griefprevention_currentclaim_ownername}%"
+        - "* &6ClaimBlock: &e%griefprevention_remainingclaims_formatted%"
+        #- "%animation:MyAnimation1%"
+        - "&c&lGang:"
+        - "* &cGang Name: &e%gangsplus_gang_name%"
+        - "* &cGang Rank: &e%gangsplus_gang_rank%"
+        - "* &cGang Bank: &e%gangsplus_gang_bank%"
+        - ""
+        - "%animation:plays%"
     scoreboard:
       title: "<#E0B11E>Lobby</#FF0000>"
       lines:

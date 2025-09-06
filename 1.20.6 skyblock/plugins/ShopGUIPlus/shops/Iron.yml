@@ -1,0 +1,168 @@
+Iron:
+    name: "&d&lIron shop (page %page%)"
+    economy: VAULT
+    size: 54
+    buttons:
+      goBack:
+        slot: 8   
+      previousPage:
+        slot: 0
+      nextPage:
+        slot: 2
+    fillItem:
+        material: light_blue_stained_glass_pane
+        name: ""
+    items:
+       1:
+        type: item      
+        item:
+          material: diamond_helmet      
+          quantity: 1
+          name: "&d&lIron"
+          enchantments:
+            - protection:4
+            - thorns:3
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 13   
+       2:
+        type: item      
+        item:
+          material: diamond_chestplate
+          quantity: 1
+          name: "&d&lIron"         
+          enchantments:
+            - protection:4
+            - thorns:3
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES            
+        buyPrice: -1
+        sellPrice: -1
+        slot: 22 
+       3:
+        type: item      
+        item:
+          material: diamond_leggings
+          quantity: 1
+          name: "&d&lIron"         
+          enchantments:
+            - protection:4
+            - thorns:3
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 31 
+       4:
+        type: item      
+        item:
+          material: diamond_boots
+          quantity: 1
+          name: "&d&lIron"         
+          enchantments:
+            - protection:4
+            - thorns:3
+            - unbreaking:3        
+            - soulspeed:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 40 
+       5:
+        type: item      
+        item:
+          material: diamond_sword
+          quantity: 1
+          name: "&d&lIron"         
+          enchantments:
+            - sharpness:5
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 12 
+       6:
+        type: item      
+        item:
+          material: diamond_shovel
+          quantity: 1
+          name: "&d&lIron"         
+          enchantments:
+            - efficiency:5
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 14 
+       7:
+        type: item      
+        item:
+          material: diamond_pickaxe
+          quantity: 1
+          name: "&d&lIron"         
+          enchantments:
+            - efficiency:5
+            - fortune:5
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 23 
+       8:
+        type: item      
+        item:
+          material: diamond_axe
+          quantity: 1
+          name: "&d&lIron"       
+          enchantments:
+            - efficiency:5
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 21 
+       9:
+        type: item      
+        item:
+          material: enchanted_golden_apple  
+          quantity: 32
+          name: "&d&lIron"      
+        buyPrice: -1
+        sellPrice: -1
+        slot: 29          
+       10:
+        type: item      
+        item:
+          material: golden_apple  
+          quantity: 32
+          name: "&d&lIron"      
+        buyPrice: -1                 
+        sellPrice: -1
+        slot: 33      
+       11:
+        type: item      
+        item:
+          material: bow
+          quantity: 1
+          name: "&d&lIron"       
+          enchantments:
+            - flame:1
+            - infinity:1     
+            - power:5    
+            - punch:2   
+            - unbreaking:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 32 

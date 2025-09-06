@@ -1,0 +1,48 @@
+# |------------------------------------------------------------------------
+# |                       CommandPanels Example File
+# |                            By RockyHawk v3.1
+# | https://www.spigotmc.org/resources/command-panels-custom-guis.67788/
+# |------------------------------------------------------------------------
+panels:
+  warpmenu:
+    perm: default
+    rows: 4
+    title: '&5Warp Menu'
+    commands:
+    - warpmenu
+    - warps
+    - warp
+    empty: AIR
+    item:
+      '10':
+        material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmMzZjExNGVmYmQ5MDgyODRjN2FhZGQ4MTk5Mzc2OTA1NzM2MWRkNzU2YmY1ZTc4ODNiOGUwYjFjZWE0NDZlNyJ9fX0=
+        stack: 1
+        name: '&3Spawn'
+        commands:
+        - warp spawn
+        - cpc
+      '13':
+        material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdkZjBlN2ZmZTZiZTUzMzZmZjEzNzNjMzEzYTFmNWMxOWFkODQ1Y2RiODkwMjE1YzgzYmZhYjlmOGQ5ODliOSJ9fX0=
+        stack: 1
+        name: '&bPVP'
+        commands:
+        - warp pvp
+        - cpc
+      '16':
+        material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI1YjI3Y2U2MmNhODg3NDM4NDBhOTVkMWMzOTg2OGY0M2NhNjA2OTZhODRmNTY0ZmJkN2RkYTI1OWJlMDBmZSJ9fX0=
+        stack: 1
+        name: '&9Island Warps'
+        commands:
+        - island warps
+      '30':
+        material: ARROW
+        stack: 1
+        name: '&7Back'
+        commands:
+        - cp mainmenu
+      '31':
+        material: BARRIER
+        stack: 1
+        name: '&cClose Menu'
+        commands:
+        - cpc

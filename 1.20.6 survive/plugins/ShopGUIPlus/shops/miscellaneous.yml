@@ -1,0 +1,913 @@
+miscellaneous:
+  name: "&3&lMiscellaneous (page %page%)"
+  size: 54
+  fillItem:
+    material: light_blue_stained_glass_pane
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 48
+    nextPage:
+      slot: 50
+  items:
+    1:
+      type: item
+      item:
+        material: INK_SAC
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 10
+    2:
+      type: item
+      item:
+        material: RED_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 11
+    3:
+      type: item
+      item:
+        material: GREEN_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 12
+    4:
+      type: item
+      item:
+        material: COCOA_BEANS
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 13
+    5:
+      type: item
+      item:
+        material: LAPIS_LAZULI
+        quantity: 1
+      buyPrice: 20
+      sellPrice: -1
+      slot: 14
+    6:
+      type: item
+      item:
+        material: PURPLE_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 15
+    7:
+      type: item
+      item:
+        material: CYAN_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 16
+    8:
+      type: item
+      item:
+        material: LIGHT_GRAY_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 19
+    9:
+      type: item
+      item:
+        material: GRAY_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 20
+    10:
+      type: item
+      item:
+        material: PINK_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 21
+    11:
+      type: item
+      item:
+        material: LIME_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 22
+    12:
+      type: item
+      item:
+        material: YELLOW_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 23
+    13:
+      type: item
+      item:
+        material: LIGHT_BLUE_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 24
+    14:
+      type: item
+      item:
+        material: MAGENTA_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 25
+    15:
+      type: item
+      item:
+        material: ORANGE_DYE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 28
+    16:
+      type: item
+      item:
+        material: BONE_MEAL
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 29
+    17:
+      type: item
+      item:
+        material: BUCKET
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 30
+    18:
+      type: item
+      item:
+        material: WATER_BUCKET
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 31
+    19:
+      type: item
+      item:
+        material: LAVA_BUCKET
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 32
+    20:
+      type: item
+      item:
+        material: MILK_BUCKET
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 33
+    21:
+      type: item
+      item:
+        material: CAULDRON
+        quantity: 1
+      buyPrice: 300
+      sellPrice: 30
+      slot: 34
+    22:
+      type: item
+      item:
+        material: BREWING_STAND
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 37  
+    23:
+      type: item
+      item:
+        material: NAME_TAG
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 38
+    24:
+      type: item
+      item:
+        material: LEAD
+        quantity: 1
+      buyPrice: 20
+      sellPrice: -1
+      slot: 39
+    25:
+      type: item
+      item:
+        material: SADDLE
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 40
+    26:
+      type: item      
+      item:
+        material: shulker_box   
+        quantity: 1
+      buyPrice: 10000
+      sellPrice: -1
+      slot: 41
+    27:
+      type: item      
+      item:
+        material: tube_coral    
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 42
+    28:
+      type: item      
+      item:
+        material: tube_coral_fan    
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 43
+    29:
+      type: item      
+      item:
+        material: brain_coral    
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 10
+      page: 2
+    30:
+      type: item      
+      item:
+        material: brain_coral_fan    
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 11
+      page: 2
+    31:
+      type: item      
+      item:
+        material: bubble_coral  
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 12
+      page: 2
+    32:
+      type: item      
+      item:
+        material: bubble_coral_fan     
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 13
+      page: 2
+    33:
+      type: item      
+      item:
+        material: fire_coral    
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 14
+      page: 2
+    34:
+      type: item      
+      item:
+        material: fire_coral_fan    
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 15
+      page: 2
+    35:
+      type: item      
+      item:
+        material: horn_coral     
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 16
+      page: 2
+    36:
+      type: item      
+      item:
+        material: horn_coral_fan      
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 19
+      page: 2
+    37:
+      type: item      
+      item:
+        material: Campfire  
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 20
+      page: 2
+    38:
+      type: item
+      item:
+         material: villager_spawn_egg
+         quantity: 1
+      buyPrice: 100000
+      sellPrice: -1
+      slot: 21
+      page: 2
+    39:
+      type: item
+      item:
+        material: hopper
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 22
+      page: 2
+    40:
+      type: item
+      item:
+        material: comparator  
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 23
+      page: 2
+    41:
+      type: item
+      item:
+        material: repeater  
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 24
+      page: 2
+    42:
+      type: item
+      item:
+        material: end_rod
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 25
+      page: 2
+    43:
+      type: item
+      item:
+        material: lectern
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 28
+      page: 2
+    44:
+      type: item
+      item:
+        material: fletching_table
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 29
+      page: 2  
+    45:
+      type: item
+      item:
+        material: cartography_table
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 30   
+      page: 2 
+    46:
+      type: item
+      item:
+        material: smithing_table
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 31   
+      page: 2     
+    47:
+      type: item
+      item:
+        material: wither_skeleton_skull
+        quantity: 1
+      buyPrice: 10000
+      sellPrice: -1
+      slot: 28
+      page: 3   
+    48:
+      type: item
+      item:
+        material: lantern
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 33
+      page: 2    
+    49:
+      type: item
+      item:
+        material: ender_chest
+        quantity: 1
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 34
+      page: 2           
+    50:
+      type: item
+      item:
+        material: diamond_horse_armor
+        quantity: 1
+      buyPrice: 10000
+      sellPrice: -1
+      slot: 37
+      page: 2
+    51:
+      type: item
+      item:
+        material: golden_horse_armor
+        quantity: 1
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 38
+      page: 2
+    52:
+      type: item
+      item:
+        material: iron_horse_armor
+        quantity: 1
+      buyPrice: 2500
+      sellPrice: -1
+      slot: 39
+      page: 2
+    53:
+      type: item
+      item:
+        material: beacon
+        quantity: 1
+      buyPrice: 2500
+      sellPrice: -1
+      slot: 40
+      page: 2
+    54:
+      type: item
+      item:
+        material: chest
+        quantity: 1
+      buyPrice: 30
+      sellPrice: -1
+      slot: 41
+      page: 2
+    55:
+      type: item
+      item:
+        material: furnace
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 42
+      page: 2
+    56:
+      type: item
+      item:
+        material: crafting_table
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 43
+      page: 2
+    57:
+      type: item
+      item:
+        material: jukebox
+        quantity: 1
+      buyPrice: 300
+      sellPrice: -1
+      slot: 10
+      page: 3
+    58:
+      type: item
+      item:
+        material: note_block
+        quantity: 1
+      buyPrice: 250
+      sellPrice: -1
+      slot: 11
+      page: 3
+    59:
+      type: item
+      item:
+        material: flower_pot
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 12
+      page: 3
+    60:
+      type: item
+      item:
+        material: ladder
+        quantity: 1
+      buyPrice: 30
+      sellPrice: -1
+      slot: 13
+      page: 3
+    61:
+      type: item
+      item:
+        material: anvil
+        quantity: 1
+      buyPrice: 4000
+      sellPrice: -1
+      slot: 14
+      page: 3
+    62:
+      type: item
+      item:
+        material: enchanting_table
+        quantity: 1
+      buyPrice: 3000
+      sellPrice: -1
+      slot: 15
+      page: 3
+    63:
+      type: item
+      item:
+        material: bookshelf
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 16
+      page: 3
+    65:
+      type: item
+      item:
+        material: nether_brick_fence
+        quantity: 1
+      buyPrice: 15
+      sellPrice: -1
+      slot: 20
+      page: 3
+    66:
+      type: item
+      item:
+        material: iron_door
+        quantity: 1
+      buyPrice: 600
+      sellPrice: -1
+      slot: 21
+      page: 3
+    67:
+      type: item
+      item:
+        material: red_bed
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 22
+      page: 3
+    68:
+      type: item
+      item:
+        material: item_frame
+        quantity: 1
+      buyPrice: 10
+      sellPrice: -1
+      slot: 23
+      page: 3
+    69:
+      type: item
+      item:
+        material: painting
+        quantity: 1
+      buyPrice: 55
+      sellPrice: -1
+      slot: 24
+      page: 3
+    70:
+      type: item
+      item:
+        material: cobweb
+        quantity: 1
+      buyPrice: 60
+      sellPrice: -1
+      slot: 25
+      page: 3
+    71:
+      type: item
+      item:
+        material: iron_bars
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 32
+      page: 2
+    72:
+      type: item
+      item:
+        material: skeleton_skull
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 29
+      page: 3
+    73:
+      type: item
+      item:
+        material: zombie_head
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 30
+      page: 3
+    74:
+      type: item
+      item:
+        material: creeper_head
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 31
+      page: 3
+    75:
+      type: item
+      item:
+        material: firework_star
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 32
+      page: 3
+    76:
+      type: item
+      item:
+        material: redstone_torch
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 33
+      page: 3
+    77:
+      type: item
+      item:
+        material: redstone_lamp
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 34
+      page: 3
+    78:
+      type: item
+      item:
+        material: daylight_detector
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 37
+      page: 3
+    79:
+      type: item
+      item:
+        material: piston
+        quantity: 1
+      buyPrice: 150
+      sellPrice: -1
+      slot: 38
+      page: 3
+    80:
+      type: item
+      item:
+        material: sticky_piston
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 39
+      page: 3
+    81:
+      type: item
+      item:
+        material: dispenser
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 40
+      page: 3
+    82:
+      type: item
+      item:
+        material: dropper
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 41
+      page: 3
+    83:
+      type: item
+      item:
+        material: rail
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 42
+      page: 3
+    84:
+      type: item
+      item:
+        material: detector_rail
+        quantity: 1
+      buyPrice: 75
+      sellPrice: -1
+      slot: 43
+      page: 3
+    85:
+      type: item
+      item:
+        material: powered_rail
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 10
+      page: 4
+    86:
+      type: item
+      item:
+        material: activator_rail
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 11
+      page: 4
+    87:
+      type: item
+      item:
+        material: OBSERVER
+        quantity: 1
+      buyPrice: 200
+      sellPrice: -1
+      slot: 12
+      page: 4
+    88:
+      type: item
+      item:
+        material: LIGHT_WEIGHTED_PRESSURE_PLATE
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 13
+      page: 4
+    89:
+      type: item
+      item:
+        material: HEAVY_WEIGHTED_PRESSURE_PLATE
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 14
+      page: 4
+    90:
+      type: item
+      item:
+        material: LEVER
+        quantity: 1
+      buyPrice: 25
+      sellPrice: -1
+      slot: 15
+      page: 4
+    91:
+      type: item
+      item:
+        material: TRIPWIRE_HOOK
+        quantity: 1
+      buyPrice: 50
+      sellPrice: -1
+      slot: 16
+      page: 4
+    92:
+      type: item
+      item:
+        material: STONE_BUTTON
+        quantity: 1
+      buyPrice: 20
+      sellPrice: -1
+      slot: 19
+      page: 4
+    93:
+      type: item
+      item:
+        material: HEART_OF_THE_SEA
+        quantity: 1
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 20
+      page: 4
+    94:
+      type: item
+      item:
+        material: NAUTILUS_SHELL
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 21
+      page: 4
+    95:
+      type: item
+      item:
+        material: FIREWORK_ROCKET
+        quantity: 1
+      buyPrice: 100
+      sellPrice: -1
+      slot: 22
+      page: 4
+    96:
+      type: item
+      item:
+        material: CONDUIT
+        quantity: 1
+      buyPrice: 12000
+      sellPrice: -1
+      slot: 23
+      page: 4
+    97:
+      type: item
+      item:
+        material: scaffolding
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 24
+      page: 4
+    98:
+      type: item
+      item:
+        material: barrel
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 25
+      page: 4
+    99:
+      type: item
+      item:
+        material: loom
+        quantity: 1
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 28
+      page: 4
+    100:
+      type: item
+      item:
+        material: smoker
+        quantity: 1
+      buyPrice: 1500
+      sellPrice: -1
+      slot: 29
+      page: 4
+    101:
+      type: item
+      item:
+        material: blast_furnace
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 30
+      page: 4
+    102:
+      type: item
+      item:
+        material: grindstone
+        quantity: 1
+      buyPrice: 4000
+      sellPrice: -1
+      slot: 31
+      page: 4
+    103:
+      type: item
+      item:
+        material: bell
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 19
+      page: 3
+    104:
+      type: item
+      item:
+        material: stonecutter
+        quantity: 1
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 32
+      page: 4

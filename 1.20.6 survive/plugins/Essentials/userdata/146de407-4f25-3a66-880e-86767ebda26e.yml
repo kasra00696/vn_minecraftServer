@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756739059825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756739152694
+  login: 1756738919562
+money: '60.0'
+last-account-name: SEPEHRAM11
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -503.81177387103025
+  y: 66.0
+  z: 1443.3397492506076
+  yaw: -84.41964721679688
+  pitch: -1.972373366355896
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 150.69999998807907
+  y: 94.0
+  z: 416.23750001192093
+  yaw: -140.76385498046875
+  pitch: 41.910423278808594

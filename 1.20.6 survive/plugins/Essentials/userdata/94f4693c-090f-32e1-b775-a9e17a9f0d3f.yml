@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756720360980
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756720377125
+  login: 1756720214401
+money: '4.0'
+last-account-name: RestInPeace
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 402.30000001192093
+  y: 87.0
+  z: 506.0164580889649
+  yaw: 80.1270751953125
+  pitch: 5.004306316375732
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -371.6298493152815
+  y: 60.428321849743234
+  z: 379.3831133391127
+  yaw: -120.50814819335938
+  pitch: -9.891855239868164

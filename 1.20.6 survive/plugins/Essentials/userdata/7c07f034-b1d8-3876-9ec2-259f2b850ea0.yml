@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1757150778185
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757151637549
+  login: 1757147583228
+money: '573001.0'
+last-account-name: kasraILOLI
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 7.979752768922794
+  y: 30.0
+  z: 53.70807242891205
+  yaw: -165.80404663085938
+  pitch: 0.9602358937263489
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -67.5
+  y: 98.0
+  z: -284.5
+  yaw: -6.905084133148193
+  pitch: -26.707786560058594
+homes:
+  kas:
+    world: 1d7c5450-3f86-4183-addb-e016859aaf84
+    world-name: world
+    x: -55.76300863474427
+    y: 107.0
+    z: 750.1866338048139
+    yaw: -140.008056640625
+    pitch: 57.30002975463867
+  as:
+    world: 1d7c5450-3f86-4183-addb-e016859aaf84
+    world-name: world
+    x: -918.4135975499236
+    y: 81.0
+    z: -78.30000001192093
+    yaw: 95.90349578857422
+    pitch: 50.84975051879883

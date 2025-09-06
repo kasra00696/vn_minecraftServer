@@ -1,0 +1,27 @@
+id: '2'
+is-processed: true
+allow-commands: true
+enabled: true
+uuid: 7ec178aa-d51a-4a7b-b10e-0e1f9f608759
+world: world
+location:
+  x: 2.5094919910830455
+  y: 18.5
+  z: 36.37070329928287
+  yaw: 189.7707
+  pitch: -9.564376
+type: player
+properties:
+  skin_left_leg: 'true'
+  skin_hat: 'true'
+  skin_right_sleeve: 'true'
+  skin_right_leg: 'true'
+  skin_cape: 'true'
+  skin_jacket: 'true'
+  skin_left_sleeve: 'true'
+hologram:
+  lines:
+  - '&a&lSkyBlock'
+  - '&c&lbezodi'
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;am9pbnEgc2t5YmxvY2s=;1000;ANY_CLICK;0

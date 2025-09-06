@@ -1,0 +1,10 @@
+name: Entezari
+kits:
+  copper:
+    cooldown: 1757629621310
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1757071752032
+    one_time: false
+    bought: false

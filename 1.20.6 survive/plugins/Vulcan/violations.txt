@@ -1,0 +1,634 @@
+[08-31-2025] [17:30:38] Omrrah failed Timer (Type D) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=95 delay=1
+[08-31-2025] [17:30:39] Omrrah failed Jump (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.164773281826065 ticks=1 difference=0.25522670506091316
+[08-31-2025] [17:30:39] Omrrah failed Jump (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0030162615090425504 ticks=1 difference=0.4169837253779356
+[08-31-2025] [17:30:39] Omrrah failed Timer (Type D) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=98 delay=2
+[08-31-2025] [17:30:46] Omrrah failed Timer (Type D) [VL: 12] [Ping: 2] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=107 delay=0
+[08-31-2025] [17:30:50] Omrrah failed Timer (Type D) [VL: 14] [Ping: 2] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=94 delay=1
+[08-31-2025] [17:30:57] Omrrah failed Timer (Type D) [VL: 16] [Ping: 2] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=97 delay=1
+[08-31-2025] [17:30:58] Omrrah failed Timer (Type D) [VL: 18] [Ping: 2] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=97 delay=2
+[08-31-2025] [17:31:01] Omrrah failed Timer (Type D) [VL: 20] [Ping: 4] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=109 delay=1
+[08-31-2025] [17:31:04] Omrrah failed Timer (Type D) [VL: 22] [Ping: 4] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=100 delay=0
+[08-31-2025] [17:31:05] Omrrah failed Timer (Type D) [VL: 24] [Ping: 4] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=106 delay=0
+[08-31-2025] [17:31:09] Omrrah failed Timer (Type D) [VL: 26] [Ping: 4] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=97 delay=2
+[08-31-2025] [17:31:10] Omrrah failed Timer (Type D) [VL: 28] [Ping: 4] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=110 delay=1
+[08-31-2025] [17:31:29] Omrrah failed Timer (Type D) [VL: 30] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=76 delay=0
+[08-31-2025] [17:31:39] Omrrah failed Jump (Type A) [VL: 3] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.33319999363422426 ticks=1 difference=0.0867999932527539
+[08-31-2025] [17:31:39] Omrrah failed Jump (Type A) [VL: 4] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.1647732818260721 ticks=1 difference=0.25522670506090606
+[08-31-2025] [17:31:40] Omrrah failed Jump (Type A) [VL: 5] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.24813599859093927 ticks=1 difference=0.17186398829603888
+[08-31-2025] [17:31:40] Omrrah failed Timer (Type D) [VL: 32] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=108 delay=0
+[08-31-2025] [17:31:40] Omrrah failed Jump (Type A) [VL: 6] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.08307781780646906 ticks=1 difference=0.3369221690805091
+[08-31-2025] [17:31:41] Omrrah failed Jump (Type A) [VL: 7] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.1647732818260721 ticks=1 difference=0.25522670506090606
+[08-31-2025] [17:31:41] Omrrah failed Jump (Type A) [VL: 8] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.003016261509046103 ticks=1 difference=0.41698372537793205
+[08-31-2025] [17:31:41] Omrrah failed Timer (Type D) [VL: 34] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=107 delay=2
+[08-31-2025] [17:31:41] Omrrah failed Jump (Type A) [VL: 9] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.1647732818260721 ticks=1 difference=0.25522670506090606
+[08-31-2025] [17:31:42] Omrrah failed Jump (Type A) [VL: 10] [Ping: 5] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.003016261509046103 ticks=1 difference=0.41698372537793205
+[08-31-2025] [17:34:37] aryaxv666 failed Flight *(Type F)* [VL: 2] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=3.3462703824114044 ldY=-0.6517088341626192 pre=-0.7170746714356052 diff=4.0633450538470095 tol=1.0E-8 tick=20 tp=363
+[08-31-2025] [17:34:37] aryaxv666 failed Jump (Type B) [VL: 1] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=3.3462703824114044 limit=0.42 tp=363 vY=0.0
+[08-31-2025] [17:34:37] aryaxv666 failed Flight *(Type F)* [VL: 4] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=25 tp=368
+[08-31-2025] [17:34:38] aryaxv666 failed Flight *(Type F)* [VL: 6] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=33 tp=376
+[08-31-2025] [17:34:38] aryaxv666 failed Flight *(Type F)* [VL: 8] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=41 tp=384
+[08-31-2025] [17:34:38] aryaxv666 failed Flight *(Type F)* [VL: 10] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=46 tp=389
+[08-31-2025] [17:34:38] aryaxv666 failed Flight *(Type F)* [VL: 12] [Ping: 615] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=53 tp=396
+[08-31-2025] [17:34:39] aryaxv666 failed Flight *(Type F)* [VL: 14] [Ping: 478] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=61 tp=404
+[08-31-2025] [17:34:39] aryaxv666 failed Flight (Type B) [VL: 2] [Ping: 478] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] deltaY=0.2336320060424768 difference=0.46415937495543774 ticks=64 delay=38 tp=407 vel=307
+[08-31-2025] [17:34:39] aryaxv666 failed Flight *(Type F)* [VL: 16] [Ping: 478] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=68 tp=411
+[08-31-2025] [17:34:39] aryaxv666 failed Flight *(Type F)* [VL: 18] [Ping: 478] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=73 tp=416
+[08-31-2025] [17:34:39] aryaxv666 failed Flight *(Type F)* [VL: 20] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=80 tp=423
+[08-31-2025] [17:34:39] aryaxv666 failed Flight (Type B) [VL: 4] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.2336320060424768 difference=0.46415937495543774 ticks=84 delay=51 tp=427 vel=327
+[08-31-2025] [17:34:40] aryaxv666 failed Flight *(Type F)* [VL: 22] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.22895937037780356 tol=1.0E-8 tick=85 tp=428
+[08-31-2025] [17:34:42] aryaxv666 failed Flight *(Type F)* [VL: 24] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=2.1095525467400336 ldY=-0.5169479491049742 pre=-0.5850090015087532 diff=2.694561548248787 tol=1.0E-8 tick=95 tp=438
+[08-31-2025] [17:34:42] aryaxv666 failed Jump (Type B) [VL: 2] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=2.1095525467400336 limit=0.42 tp=438 vY=0.0
+[08-31-2025] [17:34:42] aryaxv666 failed Flight *(Type F)* [VL: 26] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=3.3462703824114044 ldY=-0.6517088341626192 pre=-0.7170746714356052 diff=4.0633450538470095 tol=1.0E-8 tick=105 tp=448
+[08-31-2025] [17:34:42] aryaxv666 failed Jump (Type B) [VL: 3] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=3.3462703824114044 limit=0.42 tp=448 vY=0.0
+[08-31-2025] [17:34:42] aryaxv666 failed Flight (Type B) [VL: 6] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.7684762024129839 difference=1.1451067006516356 ticks=110 delay=5 tp=453 vel=353
+[08-31-2025] [17:34:42] aryaxv666 failed Flight *(Type F)* [VL: 28] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.7684762024129839 ldY=-0.30431682745754074 pre=-0.3766304982386517 diff=1.1451067006516356 tol=1.0E-8 tick=110 tp=453
+[08-31-2025] [17:34:42] aryaxv666 failed Flight *(Type F)* [VL: 30] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=113 tp=456
+[08-31-2025] [17:34:42] aryaxv666 failed Flight *(Type F)* [VL: 32] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=119 tp=5
+[08-31-2025] [17:34:42] aryaxv666 failed Flight *(Type F)* [VL: 34] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=124 tp=10
+[08-31-2025] [17:34:42] aryaxv666 failed Motion (Type B) [VL: 1] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:43] aryaxv666 failed Flight *(Type F)* [VL: 36] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=127 tp=13
+[08-31-2025] [17:34:43] aryaxv666 failed Flight *(Type F)* [VL: 38] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=130 tp=16
+[08-31-2025] [17:34:43] aryaxv666 failed Motion (Type B) [VL: 2] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:43] aryaxv666 failed Flight *(Type F)* [VL: 40] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=133 tp=19
+[08-31-2025] [17:34:43] aryaxv666 failed Flight *(Type F)* [VL: 42] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=137 tp=23
+[08-31-2025] [17:34:43] aryaxv666 failed Flight *(Type F)* [VL: 44] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=140 tp=26
+[08-31-2025] [17:34:43] aryaxv666 failed Motion (Type B) [VL: 3] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:43] aryaxv666 failed Flight *(Type F)* [VL: 46] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=143 tp=29
+[08-31-2025] [17:34:44] aryaxv666 failed Motion (Type B) [VL: 4] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:44] aryaxv666 failed Flight *(Type F)* [VL: 48] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=153 tp=39
+[08-31-2025] [17:34:44] aryaxv666 failed Flight *(Type F)* [VL: 50] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=156 tp=42
+[08-31-2025] [17:34:44] aryaxv666 failed Motion (Type B) [VL: 5] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:44] aryaxv666 failed Flight *(Type F)* [VL: 52] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=163 tp=49
+[08-31-2025] [17:34:44] aryaxv666 failed Flight *(Type F)* [VL: 54] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=170 tp=56
+[08-31-2025] [17:34:45] aryaxv666 failed Flight *(Type F)* [VL: 56] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=177 tp=63
+[08-31-2025] [17:34:45] aryaxv666 failed Flight *(Type F)* [VL: 58] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=185 tp=71
+[08-31-2025] [17:34:45] aryaxv666 failed Flight *(Type F)* [VL: 60] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=190 tp=76
+[08-31-2025] [17:34:45] aryaxv666 failed Flight *(Type F)* [VL: 62] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=197 tp=83
+[08-31-2025] [17:34:46] aryaxv666 failed Flight *(Type F)* [VL: 64] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=202 tp=88
+[08-31-2025] [17:34:46] aryaxv666 failed Flight (Type B) [VL: 8] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=203 delay=3 tp=89 vel=446
+[08-31-2025] [17:34:46] aryaxv666 failed Flight *(Type F)* [VL: 66] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=214 tp=100
+[08-31-2025] [17:34:46] aryaxv666 failed Flight (Type B) [VL: 10] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=215 delay=21 tp=101 vel=458
+[08-31-2025] [17:34:46] aryaxv666 failed Motion (Type B) [VL: 6] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:46] aryaxv666 failed Flight *(Type F)* [VL: 68] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=226 tp=3
+[08-31-2025] [17:34:47] aryaxv666 failed Flight (Type B) [VL: 12] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=230 delay=18 tp=7 vel=473
+[08-31-2025] [17:34:47] aryaxv666 failed Flight *(Type F)* [VL: 70] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=235 tp=12
+[08-31-2025] [17:34:47] aryaxv666 failed Motion (Type B) [VL: 7] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:47] aryaxv666 failed Flight (Type B) [VL: 14] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=242 delay=3 tp=19 vel=485
+[08-31-2025] [17:34:47] aryaxv666 failed Flight *(Type F)* [VL: 72] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=246 tp=23
+[08-31-2025] [17:34:47] aryaxv666 failed Flight (Type B) [VL: 16] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=250 delay=32 tp=27 vel=493
+[08-31-2025] [17:34:47] aryaxv666 failed Flight *(Type F)* [VL: 74] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=253 tp=30
+[08-31-2025] [17:34:48] aryaxv666 failed Flight (Type B) [VL: 18] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=259 delay=34 tp=36 vel=502
+[08-31-2025] [17:34:48] aryaxv666 failed Flight *(Type F)* [VL: 76] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=259 tp=36
+[08-31-2025] [17:34:48] aryaxv666 failed Flight *(Type F)* [VL: 78] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=266 tp=43
+[08-31-2025] [17:34:48] aryaxv666 failed Motion (Type B) [VL: 8] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:34:48] aryaxv666 failed Flight (Type B) [VL: 20] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=268 delay=31 tp=45 vel=511
+[08-31-2025] [17:34:48] aryaxv666 failed Improbable (Type B) [VL: 1] [Ping: 478] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] movementViolations=31
+[08-31-2025] [17:35:42] aryaxv666 failed Jump (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=1.5926045976350593 limit=0.42 tp=20 vY=0.0
+[08-31-2025] [17:35:43] aryaxv666 failed Jump (Type B) [VL: 2] [Ping: 0] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] deltaY=1.5926045976350593 limit=0.42 tp=33 vY=0.0
+[08-31-2025] [17:35:47] aryaxv666 failed Jump (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=59.36407671136253 limit=0.42 tp=55 vY=0.0
+[08-31-2025] [17:36:05] aryaxv666 failed Flight *(Type F)* [VL: 2] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=784 tp=16
+[08-31-2025] [17:36:05] aryaxv666 failed Flight *(Type F)* [VL: 4] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=791 tp=23
+[08-31-2025] [17:36:05] aryaxv666 failed Motion (Type B) [VL: 1] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:06] aryaxv666 failed Flight *(Type F)* [VL: 6] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=801 tp=2
+[08-31-2025] [17:36:06] aryaxv666 failed Flight *(Type F)* [VL: 8] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=804 tp=5
+[08-31-2025] [17:36:06] aryaxv666 failed Flight *(Type F)* [VL: 10] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.7684762024129839 pre=0.6747066914963656 diff=0.753106693022244 tol=1.0E-8 tick=811 tp=6
+[08-31-2025] [17:36:06] aryaxv666 failed Flight (Type B) [VL: 2] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=813 delay=23 tp=8 vel=813
+[08-31-2025] [17:36:06] aryaxv666 failed Flight *(Type F)* [VL: 12] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=816 tp=11
+[08-31-2025] [17:36:07] aryaxv666 failed Flight (Type B) [VL: 4] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=822 delay=2 tp=17 vel=822
+[08-31-2025] [17:36:07] aryaxv666 failed Flight *(Type F)* [VL: 14] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.0 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=825 tp=2
+[08-31-2025] [17:36:07] aryaxv666 failed Flight *(Type F)* [VL: 16] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=830 tp=7
+[08-31-2025] [17:36:07] aryaxv666 failed Flight (Type B) [VL: 6] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0784000015258789 ticks=832 delay=37 tp=9 vel=832
+[08-31-2025] [17:36:07] aryaxv666 failed Flight *(Type F)* [VL: 18] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=836 tp=13
+[08-31-2025] [17:36:07] aryaxv666 failed Motion (Type B) [VL: 2] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:07] aryaxv666 failed Flight *(Type F)* [VL: 20] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=840 tp=17
+[08-31-2025] [17:36:07] aryaxv666 failed Flight *(Type F)* [VL: 22] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=843 tp=20
+[08-31-2025] [17:36:07] aryaxv666 failed Motion (Type B) [VL: 3] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:08] aryaxv666 failed Flight *(Type F)* [VL: 24] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=1.5926045976350593 ldY=-0.44749789698342113 pre=-0.5169479491049765 diff=2.109552546740036 tol=1.0E-8 tick=855 tp=32
+[08-31-2025] [17:36:08] aryaxv666 failed Jump (Type B) [VL: 4] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] deltaY=1.5926045976350593 limit=0.42 tp=32 vY=0.0
+[08-31-2025] [17:36:08] aryaxv666 failed Flight *(Type F)* [VL: 26] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=861 tp=38
+[08-31-2025] [17:36:08] aryaxv666 failed Flight *(Type F)* [VL: 28] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=871 tp=48
+[08-31-2025] [17:36:09] aryaxv666 failed Flight *(Type F)* [VL: 30] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] dY=-0.07840000152587834 ldY=0.07840000152587834 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=874 tp=51
+[08-31-2025] [17:36:09] aryaxv666 failed Flight (Type B) [VL: 8] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=876 delay=26 tp=53 vel=876
+[08-31-2025] [17:36:09] aryaxv666 failed Flight *(Type F)* [VL: 32] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=879 tp=56
+[08-31-2025] [17:36:09] aryaxv666 failed Motion (Type B) [VL: 4] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:09] aryaxv666 failed Flight *(Type F)* [VL: 34] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=887 tp=64
+[08-31-2025] [17:36:09] aryaxv666 failed Flight (Type B) [VL: 10] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] deltaY=0.0 difference=0.0015679985351567795 ticks=888 delay=2 tp=65 vel=888
+[08-31-2025] [17:36:09] aryaxv666 failed Flight *(Type F)* [VL: 36] [Ping: 11] [TPS: 19.86] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=894 tp=71
+[08-31-2025] [17:36:09] aryaxv666 failed Motion (Type B) [VL: 5] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:10] aryaxv666 failed Flight *(Type F)* [VL: 38] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=906 tp=83
+[08-31-2025] [17:36:10] aryaxv666 failed Flight *(Type F)* [VL: 40] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=915 tp=92
+[08-31-2025] [17:36:10] aryaxv666 failed Motion (Type B) [VL: 6] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:10] aryaxv666 failed Flight *(Type F)* [VL: 42] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=924 tp=101
+[08-31-2025] [17:36:10] aryaxv666 failed Motion (Type B) [VL: 7] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:11] aryaxv666 failed Flight *(Type F)* [VL: 44] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=938 tp=5
+[08-31-2025] [17:36:11] aryaxv666 failed Flight *(Type F)* [VL: 46] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=944 tp=11
+[08-31-2025] [17:36:11] aryaxv666 failed Flight *(Type F)* [VL: 48] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=951 tp=18
+[08-31-2025] [17:36:11] aryaxv666 failed Flight *(Type F)* [VL: 50] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=960 tp=27
+[08-31-2025] [17:36:12] aryaxv666 failed Motion (Type B) [VL: 8] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:12] aryaxv666 failed Flight *(Type F)* [VL: 52] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=969 tp=36
+[08-31-2025] [17:36:12] aryaxv666 failed Flight *(Type F)* [VL: 54] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.4641593749554431 ldY=-0.23052736891296632 pre=-0.3043168274575465 diff=0.7684762024129896 tol=1.0E-8 tick=983 tp=50
+[08-31-2025] [17:36:12] aryaxv666 failed Flight *(Type F)* [VL: 56] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=988 tp=55
+[08-31-2025] [17:36:13] aryaxv666 failed Flight *(Type F)* [VL: 58] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=996 tp=63
+[08-31-2025] [17:36:13] aryaxv666 failed Motion (Type B) [VL: 9] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:13] aryaxv666 failed Flight *(Type F)* [VL: 60] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1005 tp=72
+[08-31-2025] [17:36:13] aryaxv666 failed Flight *(Type F)* [VL: 62] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.4641593749554431 pre=0.37647619478359284 diff=0.37647619478359284 tol=1.0E-8 tick=1014 tp=81
+[08-31-2025] [17:36:14] aryaxv666 failed Flight *(Type F)* [VL: 64] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1022 tp=89
+[08-31-2025] [17:36:14] aryaxv666 failed Motion (Type B) [VL: 10] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:14] aryaxv666 failed Flight *(Type F)* [VL: 66] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1034 tp=101
+[08-31-2025] [17:36:14] aryaxv666 failed Flight *(Type F)* [VL: 68] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1043 tp=110
+[08-31-2025] [17:36:14] aryaxv666 failed Motion (Type B) [VL: 11] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:15] aryaxv666 failed Flight *(Type F)* [VL: 70] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=1053 tp=120
+[08-31-2025] [17:36:15] aryaxv666 failed Flight *(Type F)* [VL: 72] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1059 tp=126
+[08-31-2025] [17:36:15] aryaxv666 failed Flight *(Type F)* [VL: 74] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.2336320060424768 pre=0.15055936885192522 diff=0.15055936885192522 tol=1.0E-8 tick=1070 tp=137
+[08-31-2025] [17:36:16] aryaxv666 failed Flight *(Type F)* [VL: 77] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.2336320060424768 ldY=-0.15523200451659847 pre=-0.23052736891296094 diff=0.46415937495543774 tol=1.0E-8 tick=1079 tp=146
+[08-31-2025] [17:36:16] aryaxv666 failed Flight *(Type F)* [VL: 78] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1085 tp=152
+[08-31-2025] [17:36:16] aryaxv666 failed Motion (Type B) [VL: 12] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:16] aryaxv666 failed Flight *(Type F)* [VL: 80] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1094 tp=161
+[08-31-2025] [17:36:16] aryaxv666 failed Flight *(Type F)* [VL: 82] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1103 tp=170
+[08-31-2025] [17:36:16] aryaxv666 failed Motion (Type B) [VL: 13] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:17] aryaxv666 failed Flight *(Type F)* [VL: 84] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1115 tp=182
+[08-31-2025] [17:36:17] aryaxv666 failed Motion (Type B) [VL: 14] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:36:17] aryaxv666 failed Flight *(Type F)* [VL: 86] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1124 tp=191
+[08-31-2025] [17:36:17] aryaxv666 failed Flight *(Type F)* [VL: 88] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.07840000152587834 ldY=-0.07840000152587834 pre=-0.15523200451660105 diff=0.23363200604247938 tol=1.0E-8 tick=1133 tp=200
+[08-31-2025] [17:36:17] aryaxv666 failed Motion (Type B) [VL: 15] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=0.07840000152587834
+[08-31-2025] [17:37:21] aryaxv666 failed Jump (Type B) [VL: 1] [Ping: 12] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=2.1095525467400336 limit=0.42 tp=78 vY=0.0
+[08-31-2025] [17:38:28] aryaxv666 failed Jump (Type B) [VL: 2] [Ping: 26] [TPS: 19.51] [Version: 1.20.5] [Client: Vanilla] deltaY=1.5926045976350593 limit=0.42 tp=8 vY=0.0
+[08-31-2025] [17:57:26] aryaxv666 failed Jesus (Type B) [VL: 2] [Ping: 32] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaY=-0.014760000269411933 deltaXZ=0.11038061716434207
+[09-01-2025] [12:05:16] kasra007 failed Fast Break (Type A) [VL: 1] [Ping: 80] [TPS: 20] [Version: 1.20.5] [Client: Optifine] block=COBBLESTONE_STAIRS diff=-165.0 tool=IRON_PICKAXE
+[09-01-2025] [13:56:54] atashadowkiller failed Jump (Type B) [VL: 1] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=328 vY=0.0
+[09-01-2025] [13:56:54] atashadowkiller failed Jump (Type B) [VL: 2] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=330 vY=0.0
+[09-01-2025] [13:56:54] atashadowkiller failed Motion (Type A) [VL: 1] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0
+[09-01-2025] [13:56:54] atashadowkiller failed Jump (Type B) [VL: 3] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=332 vY=0.0
+[09-01-2025] [13:56:54] atashadowkiller failed Motion (Type A) [VL: 2] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0
+[09-01-2025] [13:56:54] atashadowkiller failed Jump (Type B) [VL: 4] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=334 vY=0.0
+[09-01-2025] [13:56:54] atashadowkiller failed Flight (Type B) [VL: 2] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 difference=0.09839998245239256 ticks=13 delay=46 tp=336 vel=454
+[09-01-2025] [13:56:54] atashadowkiller failed Jump (Type B) [VL: 5] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=336 vY=0.0
+[09-01-2025] [13:56:54] atashadowkiller failed Motion (Type A) [VL: 3] [Ping: 35] [TPS: 19.93] [Version: 1.20.5] [Client: Fabric] deltaY=1.0
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type C) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000432093682 max=0.4625000054016709 diff=0.5175000378076973 ticks=15 deltaY=0.0
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000432093682 max=0.3975000044330954 diff=0.5825000387762728 ticks=41 deltaY=0.0 tp=338
+[09-01-2025] [13:56:55] atashadowkiller failed Flight (Type B) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=17 delay=45 tp=340 vel=458
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 3] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000333559592 max=0.3975000044330954 diff=0.5825000289228638 ticks=43 deltaY=0.0 tp=340
+[09-01-2025] [13:56:55] atashadowkiller failed Strafe (Type A) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.7020165830532223 deltaXZ=0.9800000333559592
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000136426196 max=0.3975000044330954 diff=0.5825000092095242 ticks=44 deltaY=0.0 tp=341
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type C) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000212891902 max=0.4625000054016709 diff=0.5175000158875193 ticks=19 deltaY=0.0
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 5] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000212891902 max=0.3975000044330954 diff=0.5825000168560948 ticks=45 deltaY=0.0 tp=342
+[09-01-2025] [13:56:55] atashadowkiller failed Speed *(Type E)* [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.9800000212891902 diff=0.06219998449908648 min=1.0E-4
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000195024312 max=0.3975000044330954 diff=0.5825000150693358 ticks=46 deltaY=0.0 tp=343
+[09-01-2025] [13:56:55] atashadowkiller failed Strafe (Type A) [VL: 4] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.07045605776221682 deltaXZ=0.9800000195024312
+[09-01-2025] [13:56:55] atashadowkiller failed Flight *(Type F)* [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=21 tp=344
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type B) [VL: 2] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000091186786 max=0.6965000044330955 diff=0.2835000046855831 ticks=0 deltaY=0.0
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type C) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000091186786 max=0.4625000054016709 diff=0.5175000037170077 ticks=21 deltaY=0.0
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 7] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000091186786 max=0.3975000044330954 diff=0.5825000046855832 ticks=47 deltaY=0.0 tp=344
+[09-01-2025] [13:56:55] atashadowkiller failed Speed *(Type E)* [VL: 3] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.9800000091186786 diff=0.06219996699614616 min=1.0E-4
+[09-01-2025] [13:56:55] atashadowkiller failed Flight (Type B) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=22 delay=60 tp=345 vel=463
+[09-01-2025] [13:56:55] atashadowkiller failed Speed (Type D) [VL: 8] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000348417687 max=0.3975000044330954 diff=0.5825000304086733 ticks=48 deltaY=0.0 tp=345
+[09-01-2025] [13:56:55] atashadowkiller failed Strafe (Type A) [VL: 6] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.07043623262827331 deltaXZ=0.9800000348417687
+[09-01-2025] [13:56:55] atashadowkiller failed Improbable (Type B) [VL: 1] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Fabric] movementViolations=35
+[09-01-2025] [14:00:53] atashadowkiller failed Fast Break (Type A) [VL: 1] [Ping: 52] [TPS: 19.96] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-141.0 tool=IRON_PICKAXE
+[09-01-2025] [14:00:54] atashadowkiller failed Fast Break (Type A) [VL: 2] [Ping: 52] [TPS: 19.96] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-172.0 tool=IRON_PICKAXE
+[09-01-2025] [14:00:57] atashadowkiller failed Fast Break (Type A) [VL: 3] [Ping: 52] [TPS: 19.91] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-135.0 tool=IRON_PICKAXE
+[09-01-2025] [14:00:58] atashadowkiller failed Fast Break (Type A) [VL: 4] [Ping: 52] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-255.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:06] atashadowkiller failed Fast Break (Type A) [VL: 5] [Ping: 65] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-185.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:10] atashadowkiller failed Fast Break (Type A) [VL: 6] [Ping: 65] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=ANDESITE diff=-132.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:11] atashadowkiller failed Fast Break (Type A) [VL: 7] [Ping: 65] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-139.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:15] atashadowkiller failed Fast Break (Type A) [VL: 8] [Ping: 65] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-306.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:21] atashadowkiller failed Fast Break (Type A) [VL: 9] [Ping: 57] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-188.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:23] atashadowkiller failed Fast Break (Type A) [VL: 10] [Ping: 57] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=COPPER_ORE diff=-253.0 tool=IRON_PICKAXE
+[09-01-2025] [14:01:24] atashadowkiller failed Fast Break (Type A) [VL: 11] [Ping: 57] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-138.0 tool=IRON_PICKAXE
+[09-01-2025] [14:03:09] atashadowkiller failed Fast Break (Type A) [VL: 12] [Ping: 76] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-194.0 tool=IRON_PICKAXE
+[09-01-2025] [14:03:12] atashadowkiller failed Fast Break (Type A) [VL: 13] [Ping: 76] [TPS: 19.79] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-355.0 tool=IRON_PICKAXE
+[09-01-2025] [14:03:12] atashadowkiller failed Fast Break (Type A) [VL: 14] [Ping: 76] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-140.0 tool=IRON_PICKAXE
+[09-01-2025] [14:03:13] atashadowkiller failed Fast Break (Type A) [VL: 15] [Ping: 76] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-189.0 tool=IRON_PICKAXE
+[09-01-2025] [14:03:25] atashadowkiller failed Fast Break (Type A) [VL: 1] [Ping: 0] [TPS: 19.95] [Version: 1.20.5] [Client: Fabric] block=STONE diff=-323.0 tool=IRON_PICKAXE
+[09-01-2025] [14:25:04] atashadowkiller failed Aim (Type H) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.20.5] [Client: Fabric] final=-14.482757421435032 deltaPitch=2.1736793518066406
+[09-01-2025] [14:25:04] atashadowkiller failed Aim (Type K) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=2.034546 deltaPitch=6.2020564
+[09-01-2025] [14:28:05] atashadowkiller failed Reach (Type A) [VL: 1] [Ping: 42] [TPS: 20] [Version: 1.20.5] [Client: Fabric] distance=4.245961368567668
+[09-01-2025] [14:28:07] atashadowkiller failed Aim (Type K) [VL: 2] [Ping: 42] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=5.55307 deltaPitch=1.1894855
+[09-01-2025] [14:28:24] atashadowkiller failed Aim (Type K) [VL: 3] [Ping: 96] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.6143799 deltaPitch=4.300804
+[09-01-2025] [14:29:11] atashadowkiller failed Aim (Type K) [VL: 4] [Ping: 82] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=16.236816 deltaPitch=2.6758814
+[09-01-2025] [14:29:13] atashadowkiller failed Reach (Type A) [VL: 2] [Ping: 82] [TPS: 19.96] [Version: 1.20.5] [Client: Fabric] distance=3.615929453576929
+[09-01-2025] [14:36:22] Killo_oMaster failed Flight *(Type F)* [VL: 2] [Ping: 36] [TPS: 20] [Version: 1.20.5] [Client: Optifine] dY=-0.07840000152587834 ldY=0.0 pre=0.0 diff=0.07840000152587834 tol=1.0E-8 tick=1 tp=2
+[09-01-2025] [14:36:22] Killo_oMaster failed Flight *(Type F)* [VL: 4] [Ping: 36] [TPS: 20] [Version: 1.20.5] [Client: Optifine] dY=-0.07840000152587834 ldY=0.0 pre=0.0 diff=0.07840000152587834 tol=0.01000001 tick=10 tp=1
+[09-01-2025] [14:43:36] shadowkiller failed Jesus (Type A) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] 
+[09-01-2025] [14:43:37] shadowkiller failed Jesus (Type B) [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 deltaXZ=0.2805526558777458
+[09-01-2025] [14:43:38] shadowkiller failed Jesus (Type A) [VL: 4] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] 
+[09-01-2025] [14:43:39] shadowkiller failed Jesus (Type A) [VL: 6] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] 
+[09-01-2025] [14:43:40] shadowkiller failed Jesus (Type A) [VL: 8] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] 
+[09-01-2025] [14:43:40] shadowkiller failed Speed *(Type E)* [VL: 2] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.5849408989149418 diff=0.26994739179192256 min=1.0E-4
+[09-01-2025] [14:43:41] shadowkiller failed Jesus (Type A) [VL: 10] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] 
+[09-01-2025] [14:43:41] shadowkiller failed Jesus (Type A) [VL: 12] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] 
+[09-01-2025] [14:43:41] shadowkiller failed Jesus (Type B) [VL: 4] [Ping: 37] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 deltaXZ=0.2639036187548132
+[09-01-2025] [14:43:42] shadowkiller failed Speed *(Type E)* [VL: 3] [Ping: 37] [TPS: 19.8] [Version: 1.20.5] [Client: Fabric] dXZ=0.2856539321146351 diff=0.07347115422008438 min=1.0E-4
+[09-01-2025] [14:43:43] shadowkiller failed Speed *(Type E)* [VL: 4] [Ping: 37] [TPS: 19.8] [Version: 1.20.5] [Client: Fabric] dXZ=0.29559157692129423 diff=0.07752162517696568 min=1.0E-4
+[09-01-2025] [17:44:10] shadowkiller failed Timer (Type A) [VL: 4] [Ping: 3692] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=141.9647927314026% delay=2
+[09-01-2025] [19:03:47] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 144] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=15.359985 deltaPitch=1.8432026
+[09-01-2025] [19:03:50] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 144] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=9.830322 deltaPitch=5.5296
+[09-01-2025] [19:06:05] shadowkiller failed Aim (Type I) [VL: 1] [Ping: 46] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] rotation=24 deltaPitch=2.4576035 deltaYaw=2.4580078
+[09-01-2025] [19:06:06] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 46] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.61450195 deltaPitch=0.61439896
+[09-01-2025] [19:06:08] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 46] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] deltaYaw=14.1311035 deltaPitch=0.61439896
+[09-01-2025] [19:06:20] shadowkiller failed Aim (Type Y) [VL: 1] [Ping: 51] [TPS: 20] [Version: 1.20.5] [Client: Fabric] diff=183.60135 dist=2.8835884147607094
+[09-01-2025] [19:06:21] shadowkiller failed Aim (Type K) [VL: 3] [Ping: 51] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=13.969719 deltaPitch=2.1384459
+[09-01-2025] [19:13:19] shadowkiller failed Aim (Type I) [VL: 1] [Ping: 43] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=16 deltaPitch=14.376041 deltaYaw=5.504883
+[09-01-2025] [19:18:23] shadowkiller failed Fast Place (Type A) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] amount=21
+[09-01-2025] [19:18:24] shadowkiller failed Scaffold (Type M) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] [1] face=WEST direction=WEST distance=4.251897734964322
+[09-01-2025] [19:18:24] shadowkiller failed Scaffold (Type M) [VL: 2] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] [1] face=WEST direction=WEST distance=4.3715072711179985
+[09-01-2025] [19:18:25] shadowkiller failed Fast Place (Type A) [VL: 2] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] amount=19
+[09-01-2025] [19:18:26] shadowkiller failed Timer (Type A) [VL: 4] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=112.51125112511251% delay=16
+[09-01-2025] [19:26:22] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.6142578 deltaPitch=0.6143999
+[09-01-2025] [19:26:23] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.6142578 deltaPitch=1.8431997
+[09-01-2025] [19:27:24] shadowkiller failed Aim (Type K) [VL: 3] [Ping: 40] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=4.9155273 deltaPitch=4.3008
+[09-01-2025] [19:28:20] shadowkiller failed Timer (Type A) [VL: 4] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=125.5650426921145% delay=39
+[09-01-2025] [19:28:22] shadowkiller failed Timer (Type A) [VL: 6] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=116.44154634373545% delay=53
+[09-01-2025] [19:28:32] shadowkiller failed Fast Place (Type A) [VL: 1] [Ping: 45] [TPS: 20] [Version: 1.20.5] [Client: Fabric] amount=23
+[09-01-2025] [19:28:33] shadowkiller failed Timer (Type A) [VL: 8] [Ping: 45] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=136.23978201634876% delay=38
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type C) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000158926979 max=0.36250000540176086 diff=0.6175000104909371 ticks=5 deltaY=0.0
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000158926979 max=0.29750000443318536 diff=0.6825000114595126 ticks=11 deltaY=0.0 tp=16132
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 3] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000149171828 max=0.2975000044331777 diff=0.6825000104840051 ticks=12 deltaY=0.0 tp=16133
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type C) [VL: 4] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000149171828 max=0.3625000054017462 diff=0.6175000095154366 ticks=7 deltaY=0.0
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 4] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000149171828 max=0.2975000044331707 diff=0.6825000104840121 ticks=13 deltaY=0.0 tp=16134
+[09-01-2025] [19:39:06] shadowkiller failed Strafe (Type A) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.06819997564102317 deltaXZ=0.9800000149171828
+[09-01-2025] [19:39:06] shadowkiller failed Flight *(Type F)* [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=8 tp=16135
+[09-01-2025] [19:39:06] shadowkiller failed Jump (Type C) [VL: 1] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 ticks=8 difference=0.23052736891296632
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 5] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9799999958173818 max=0.2975000044331643 diff=0.6824999913842176 ticks=14 deltaY=0.0 tp=16135
+[09-01-2025] [19:39:06] shadowkiller failed Speed *(Type E)* [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.9799999958173818 diff=0.062199957867425604 min=1.0E-4
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type C) [VL: 6] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000485474019 max=0.362500005401734 diff=0.6175000431456679 ticks=9 deltaY=0.0
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 6] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000485474019 max=0.2975000044331585 diff=0.6825000441142434 ticks=15 deltaY=0.0 tp=16136
+[09-01-2025] [19:39:06] shadowkiller failed Strafe (Type A) [VL: 4] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.0687593480081488 deltaXZ=0.9800000485474019
+[09-01-2025] [19:39:06] shadowkiller failed Flight *(Type F)* [VL: 4] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=11 tp=16138
+[09-01-2025] [19:39:06] shadowkiller failed Strafe (Type A) [VL: 6] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.3231911371542699 deltaXZ=0.2895996245481456
+[09-01-2025] [19:39:06] shadowkiller failed Speed *(Type E)* [VL: 3] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.31960358288051793 diff=0.030067918272856375 min=1.0E-4
+[09-01-2025] [19:39:06] shadowkiller failed Flight (Type B) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=13 delay=53 tp=16140 vel=337
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type B) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000428915357 max=0.6205000044331397 diff=0.35950003845839607 ticks=0 deltaY=0.0
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 7] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000428915357 max=0.2975000044331396 diff=0.6825000384583961 ticks=19 deltaY=0.0 tp=16140
+[09-01-2025] [19:39:06] shadowkiller failed Flight *(Type F)* [VL: 6] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=20 tp=16147
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type C) [VL: 8] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000399265965 max=0.36250000540169464 diff=0.6175000345249018 ticks=20 deltaY=0.0
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 8] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000399265965 max=0.29750000443311914 diff=0.6825000354934774 ticks=20 deltaY=0.0 tp=16147
+[09-01-2025] [19:39:06] shadowkiller failed Speed *(Type E)* [VL: 4] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.9800000399265965 diff=0.06219997651997833 min=1.0E-4
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type A) [VL: 2] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.0621999319509301 ticks=21 deltaXZ=0.9799999939856567
+[09-01-2025] [19:39:06] shadowkiller failed Speed (Type D) [VL: 9] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9799999939856567 max=0.29750000443311714 diff=0.6824999895525397 ticks=21 deltaY=0.0 tp=16148
+[09-01-2025] [19:39:06] shadowkiller failed Strafe (Type A) [VL: 8] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.06876934568388486 deltaXZ=0.9799999939856567
+[09-01-2025] [19:39:06] shadowkiller failed Improbable (Type B) [VL: 1] [Ping: 41] [TPS: 20] [Version: 1.20.5] [Client: Fabric] movementViolations=31
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type B) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=82 vY=0.0
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type A) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 ticks=5 difference=0.9169221821935309
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type A) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 ticks=6 difference=1.0784000015258783
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=84 vY=0.0
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type A) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 ticks=7 difference=1.1552320045165985
+[09-01-2025] [19:39:19] shadowkiller failed Flight *(Type F)* [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=1.0 ldY=1.0 pre=0.9016000175476074 diff=0.09839998245239256 tol=1.0E-8 tick=8 tp=86
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 ticks=8 difference=1.2305273689129663
+[09-01-2025] [19:39:19] shadowkiller failed Jump (Type B) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.42 tp=86 vY=0.0
+[09-01-2025] [19:39:19] shadowkiller failed Flight *(Type F)* [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=12 tp=90
+[09-01-2025] [19:39:19] shadowkiller failed Speed (Type C) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.5182510071530828 max=0.4125000054016709 diff=0.10575100175141189 ticks=13 deltaY=0.0
+[09-01-2025] [19:39:19] shadowkiller failed Flight (Type B) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=14 delay=67 tp=92 vel=94
+[09-01-2025] [19:39:19] shadowkiller failed Flight *(Type F)* [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=1.0 ldY=0.0 pre=-0.0784000015258789 diff=1.078400001525879 tol=1.0E-8 tick=15 tp=93
+[09-01-2025] [19:39:20] shadowkiller failed Jump (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=1.0 limit=0.52 tp=95 vY=0.0
+[09-01-2025] [19:39:20] shadowkiller failed Flight (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.9016000175476074 ticks=22 delay=22 tp=100 vel=102
+[09-01-2025] [19:39:20] shadowkiller failed Flight *(Type F)* [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=1.0 pre=0.9016000175476074 diff=0.9016000175476074 tol=1.0E-8 tick=22 tp=100
+[09-01-2025] [19:39:20] shadowkiller failed Speed (Type D) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000225901573 max=0.29750000443309543 diff=0.6825000181570618 ticks=18 deltaY=0.0 tp=100
+[09-01-2025] [19:39:20] shadowkiller failed Speed *(Type E)* [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.9800000225901573 diff=0.9540000239163606 min=1.0E-4
+[09-01-2025] [19:39:20] shadowkiller failed Speed (Type C) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000171822163 max=0.36250000540167093 diff=0.6175000117805454 ticks=23 deltaY=0.0
+[09-01-2025] [19:39:20] shadowkiller failed Speed (Type D) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000171822163 max=0.29750000443309543 diff=0.6825000127491209 ticks=19 deltaY=0.0 tp=101
+[09-01-2025] [19:39:20] shadowkiller failed Speed (Type D) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.9800000188087984 max=0.29750000443309543 diff=0.682500014375703 ticks=20 deltaY=0.0 tp=102
+[09-01-2025] [19:39:20] shadowkiller failed Speed *(Type E)* [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.9800000188087984 diff=0.06219997879766159 min=1.0E-4
+[09-01-2025] [19:39:20] shadowkiller failed Flight *(Type F)* [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=25 tp=103
+[09-01-2025] [19:39:20] shadowkiller failed Flight (Type B) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=26 delay=77 tp=104 vel=106
+[09-01-2025] [20:00:23] shadowkiller failed Aim (Type I) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=17 deltaPitch=1.2287998 deltaYaw=6.143799
+[09-01-2025] [20:39:38] shadowkiller failed Aim (Type I) [VL: 1] [Ping: 39] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=33 deltaPitch=1.2287998 deltaYaw=1.2287598
+[09-02-2025] [10:56:47] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 44] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=7.3726807 deltaPitch=2.4576015
+[09-02-2025] [10:56:49] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 43] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] deltaYaw=15.355469 deltaPitch=12.173907
+[09-02-2025] [10:56:51] shadowkiller failed Aim (Type K) [VL: 3] [Ping: 43] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.22058105 deltaPitch=2.1884613
+[09-02-2025] [11:26:39] shadowkiller failed Fast Break (Type A) [VL: 1] [Ping: 114] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=OBSIDIAN diff=-5338.0 tool=DIAMOND_PICKAXE
+[09-02-2025] [11:26:45] shadowkiller failed Fast Break (Type A) [VL: 2] [Ping: 114] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=OBSIDIAN diff=-1791.0 tool=DIAMOND_PICKAXE
+[09-02-2025] [11:26:55] shadowkiller failed Fast Break (Type A) [VL: 3] [Ping: 96] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=OBSIDIAN diff=-4485.0 tool=DIAMOND_PICKAXE
+[09-02-2025] [11:27:03] shadowkiller failed Fast Break (Type A) [VL: 4] [Ping: 96] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=OBSIDIAN diff=-1773.0 tool=DIAMOND_PICKAXE
+[09-02-2025] [11:27:13] shadowkiller failed Fast Break (Type A) [VL: 5] [Ping: 81] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block=OBSIDIAN diff=-1719.0 tool=DIAMOND_PICKAXE
+[09-02-2025] [11:28:48] shadowkiller failed Aim (Type I) [VL: 1] [Ping: 46] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=60 deltaPitch=7.302696 deltaYaw=2.2424316
+[09-02-2025] [11:28:48] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 46] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=7.3728027 deltaPitch=3.0720024
+[09-02-2025] [11:28:49] shadowkiller failed Aim (Type I) [VL: 2] [Ping: 46] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=47 deltaPitch=14.920684 deltaYaw=3.8747559
+[09-02-2025] [11:28:51] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 46] [TPS: 19.91] [Version: 1.20.5] [Client: Fabric] deltaYaw=6.397949 deltaPitch=8.372384
+[09-02-2025] [11:35:13] mamad123MM failed Timer (Type D) [VL: 8] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=95 delay=1
+[09-02-2025] [11:35:13] mamad123MM failed Timer (Type D) [VL: 10] [Ping: 54] [TPS: 20] [Version: 1.20.5] [Client: Fabric] balance=91 delay=1
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 2] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=31
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 3] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=35
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 4] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=39
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 4] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=43
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 5] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=47
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 6] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=51
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 7] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=55
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 8] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=59
+[09-02-2025] [12:09:37] shadowkiller failed Bad Packets (Type 8) [VL: 9] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=63
+[09-02-2025] [12:09:38] shadowkiller failed Bad Packets (Type 8) [VL: 10] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Fabric] digs=67
+[09-02-2025] [13:39:58] kasra007 failed Wall Climb (Type A) [VL: 1] [Ping: 53] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=0.1647732818260721 ticks=11
+[09-02-2025] [13:40:03] kasra007 failed Wall Climb (Type A) [VL: 2] [Ping: 53] [TPS: 19.99] [Version: 1.20.5] [Client: Optifine] deltaY=0.24813599859093927 ticks=8
+[09-02-2025] [13:47:52] ma8an failed Timer (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=169.37669376693768% delay=13
+[09-02-2025] [13:47:52] ma8an failed Timer (Type D) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=78 delay=3
+[09-02-2025] [13:47:53] ma8an failed Timer (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=141.24293785310735% delay=51
+[09-02-2025] [13:47:55] ma8an failed Timer (Type D) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=82 delay=3
+[09-02-2025] [13:47:55] ma8an failed Timer (Type A) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=120.598166907863% delay=5
+[09-02-2025] [13:47:55] ma8an failed Timer (Type D) [VL: 12] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=121 delay=4
+[09-02-2025] [13:47:56] ma8an failed Timer (Type A) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=136.16557734204792% delay=50
+[09-02-2025] [13:48:07] ma8an failed Timer (Type D) [VL: 14] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=77 delay=1
+[09-02-2025] [13:48:07] ma8an failed Timer (Type D) [VL: 16] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=112 delay=2
+[09-02-2025] [13:48:07] ma8an failed Timer (Type D) [VL: 18] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=80 delay=2
+[09-02-2025] [13:48:07] ma8an failed Timer (Type D) [VL: 20] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=116 delay=0
+[09-02-2025] [13:48:07] ma8an failed Timer (Type A) [VL: 12] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=118.42728564661297% delay=1
+[09-02-2025] [13:48:13] ma8an failed Jump (Type A) [VL: 1] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 ticks=5 difference=0.9169221821935309
+[09-02-2025] [13:48:13] ma8an failed Jump (Type A) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 ticks=6 difference=1.0784000015258783
+[09-02-2025] [13:48:13] ma8an failed Jump (Type A) [VL: 3] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 ticks=7 difference=1.1552320045165985
+[09-02-2025] [13:48:13] ma8an failed Jump (Type B) [VL: 1] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 limit=0.42 tp=39 vY=0.0
+[09-02-2025] [13:48:13] ma8an failed Jump (Type A) [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 ticks=8 difference=1.2305273689129663
+[09-02-2025] [13:48:13] ma8an failed Flight *(Type F)* [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] dY=1.0 ldY=1.0 pre=0.9016000175476074 diff=0.09839998245239256 tol=1.0E-8 tick=9 tp=41
+[09-02-2025] [13:48:13] ma8an failed Jump (Type B) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 limit=0.42 tp=41 vY=0.0
+[09-02-2025] [13:48:13] ma8an failed Motion (Type A) [VL: 1] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0
+[09-02-2025] [13:48:13] ma8an failed Jump (Type B) [VL: 3] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 limit=0.42 tp=43 vY=0.0
+[09-02-2025] [13:48:13] ma8an failed Flight *(Type F)* [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] dY=1.0 ldY=1.0 pre=0.9016000175476074 diff=0.09839998245239256 tol=1.0E-8 tick=12 tp=44
+[09-02-2025] [13:48:13] ma8an failed Motion (Type A) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0
+[09-02-2025] [13:48:13] ma8an failed Flight (Type B) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 difference=0.09839998245239256 ticks=13 delay=43 tp=45 vel=589
+[09-02-2025] [13:48:13] ma8an failed Jump (Type B) [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 limit=0.42 tp=45 vY=0.0
+[09-02-2025] [13:48:13] ma8an failed Flight *(Type F)* [VL: 6] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] dY=1.0 ldY=1.0 pre=0.9016000175476074 diff=0.09839998245239256 tol=1.0E-8 tick=15 tp=47
+[09-02-2025] [13:48:13] ma8an failed Jump (Type B) [VL: 5] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0 limit=0.42 tp=47 vY=0.0
+[09-02-2025] [13:48:13] ma8an failed Motion (Type A) [VL: 3] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=1.0
+[09-02-2025] [13:48:14] ma8an failed Flight (Type B) [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=17 delay=40 tp=49 vel=593
+[09-02-2025] [13:48:14] ma8an failed Speed (Type C) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=0.9799672368007433 max=0.36250000540167093 diff=0.6174672313990723 ticks=17 deltaY=0.0
+[09-02-2025] [13:48:14] ma8an failed Speed (Type D) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=0.9799672368007433 max=0.29750000443309543 diff=0.6824672323676478 ticks=25 deltaY=0.0 tp=49
+[09-02-2025] [13:48:14] ma8an failed Flight (Type A) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=11 delay=40 tp=50 vel=594
+[09-02-2025] [13:48:14] ma8an failed Flight *(Type F)* [VL: 8] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=18 tp=50
+[09-02-2025] [13:48:14] ma8an failed Speed (Type D) [VL: 3] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=0.9799672368007433 max=0.29750000443309543 diff=0.6824672323676478 ticks=26 deltaY=0.0 tp=50
+[09-02-2025] [13:48:14] ma8an failed Speed (Type C) [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=0.9799672368007433 max=0.36250000540167093 diff=0.6174672313990723 ticks=19 deltaY=0.0
+[09-02-2025] [13:48:14] ma8an failed Speed (Type D) [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=0.9799672368007433 max=0.29750000443309543 diff=0.6824672323676478 ticks=27 deltaY=0.0 tp=51
+[09-02-2025] [13:48:14] ma8an failed Strafe (Type A) [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] difference=0.041843865854925597 deltaXZ=0.9799672368007433
+[09-02-2025] [13:48:14] ma8an failed Flight (Type A) [VL: 4] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=13 delay=39 tp=52 vel=596
+[09-02-2025] [13:48:14] ma8an failed Speed (Type D) [VL: 5] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] speed=0.9799672368007433 max=0.29750000443309543 diff=0.6824672323676478 ticks=28 deltaY=0.0 tp=52
+[09-02-2025] [13:48:14] ma8an failed Speed *(Type E)* [VL: 2] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] dXZ=0.9799672368007433 diff=0.06219702693760665 min=1.0E-4
+[09-02-2025] [13:48:14] ma8an failed Improbable (Type B) [VL: 1] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] movementViolations=32
+[09-02-2025] [19:07:55] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=1.9626617 deltaPitch=3.8073654
+[09-02-2025] [19:08:13] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 90] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=1.0767517 deltaPitch=4.15703
+[09-02-2025] [19:08:19] shadowkiller failed Aim (Type K) [VL: 3] [Ping: 90] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=10.5407715 deltaPitch=1.2268181
+[09-02-2025] [19:08:20] shadowkiller failed Aim (Type K) [VL: 4] [Ping: 90] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] deltaYaw=1.8432312 deltaPitch=0.6143999
+[09-02-2025] [19:08:29] shadowkiller failed Aim (Type K) [VL: 5] [Ping: 76] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.6143799 deltaPitch=3.0720024
+[09-02-2025] [19:08:34] shadowkiller failed Aim (Type K) [VL: 6] [Ping: 76] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=1.1934814 deltaPitch=1.0637589
+[09-02-2025] [19:08:48] shadowkiller failed Aim (Type K) [VL: 7] [Ping: 86] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.6143799 deltaPitch=0.61440086
+[09-02-2025] [19:08:50] shadowkiller failed Aim (Type K) [VL: 8] [Ping: 86] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=11.565704 deltaPitch=8.737511
+[09-02-2025] [19:08:51] shadowkiller failed Aim (Type I) [VL: 1] [Ping: 86] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=16 deltaPitch=12.820432 deltaYaw=2.4869995
+[09-02-2025] [19:51:11] shadowkiller failed Aim (Type K) [VL: 1] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaYaw=0.6144028 deltaPitch=0.61439896
+[09-02-2025] [19:51:13] shadowkiller failed Aim (Type K) [VL: 2] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] deltaYaw=9.216 deltaPitch=3.0720005
+[09-03-2025] [04:14:09] coolhossein failed Speed (Type B) [VL: 2] [Ping: 1031] [TPS: 20] [Version: 1.20.5] [Client: Unresolved] speed=2.235091340512493 max=1.1915324144114323 diff=1.0435589261010607 ticks=0 deltaY=0.27512500000000273
+[09-03-2025] [04:14:09] coolhossein failed Speed (Type D) [VL: 2] [Ping: 1031] [TPS: 20] [Version: 1.20.5] [Client: Unresolved] speed=2.235091340512493 max=1.1915324144114323 diff=1.0435589261010607 ticks=0 deltaY=0.27512500000000273 tp=14758
+[09-03-2025] [15:04:54] kasra007 failed Air Place (Type A) [VL: 1] [Ping: 142] [TPS: 20] [Version: 1.20.5] [Client: Optifine] block= DIRT
+[09-03-2025] [15:05:29] kasra007 failed Air Place (Type A) [VL: 2] [Ping: 103] [TPS: 20] [Version: 1.20.5] [Client: Optifine] block= DIRT
+[09-03-2025] [15:36:17] itz_miror failed Flight (Type B) [VL: 2] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] deltaY=0.08039305657170814 difference=0.027484396474823383 ticks=13 delay=70 tp=115 vel=338
+[09-03-2025] [15:36:18] itz_miror failed Flight (Type B) [VL: 4] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] deltaY=0.16041894609216456 difference=0.22180134507173344 ticks=17 delay=2 tp=119 vel=342
+[09-03-2025] [15:36:18] itz_miror failed Strafe (Type A) [VL: 2] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] difference=0.049384616039994375 deltaXZ=0.3436144978712772
+[09-03-2025] [15:36:18] itz_miror failed Speed *(Type E)* [VL: 2] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] dXZ=0.4104050943004629 diff=0.07171589355215519 min=1.0E-4
+[09-03-2025] [15:36:18] itz_miror failed Speed (Type A) [VL: 2] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] difference=0.07182857847715823 ticks=20 deltaXZ=0.47129722505388144
+[09-03-2025] [15:36:18] itz_miror failed Strafe (Type A) [VL: 4] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] difference=0.04938461603999682 deltaXZ=0.47129722505388144
+[09-03-2025] [15:36:18] itz_miror failed Flight (Type B) [VL: 6] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] deltaY=0.3471903083835173 difference=0.1035128096832324 ticks=21 delay=64 tp=123 vel=346
+[09-03-2025] [15:36:18] itz_miror failed Speed *(Type E)* [VL: 3] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] dXZ=0.5267541032367018 diff=0.07187361740361142 min=1.0E-4
+[09-03-2025] [15:36:18] itz_miror failed Strafe (Type A) [VL: 6] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] difference=0.04938461658806956 deltaXZ=0.5772314970248218
+[09-03-2025] [15:36:18] itz_miror failed Flight *(Type F)* [VL: 2] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] dY=0.15000000596046448 ldY=0.0 pre=0.0 diff=0.15000000596046448 tol=0.01000001 tick=25 tp=1
+[09-03-2025] [15:36:18] itz_miror failed Flight (Type B) [VL: 8] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] deltaY=0.32640001296996957 difference=0.11667999743938032 ticks=28 delay=49 tp=4 vel=353
+[09-03-2025] [15:36:18] itz_miror failed Flight *(Type F)* [VL: 4] [Ping: 15] [TPS: 19.78] [Version: 1.20.5] [Client: Fabric] dY=0.32640001296996957 ldY=0.2940000116825132 pre=0.20972001553058925 diff=0.11667999743938032 tol=1.0E-8 tick=28 tp=4
+[09-03-2025] [15:36:18] itz_miror failed Flight *(Type F)* [VL: 6] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.24000000953674316 ldY=0.15000000596046448 pre=0.06860000717639934 diff=0.1714000023603438 tol=1.0E-8 tick=32 tp=2
+[09-03-2025] [15:36:18] itz_miror failed Flight (Type B) [VL: 10] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.32640001296996957 difference=0.11667999743938032 ticks=34 delay=72 tp=4 vel=359
+[09-03-2025] [15:36:18] itz_miror failed Flight *(Type F)* [VL: 8] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.15000000596046448 ldY=0.0 pre=0.0 diff=0.15000000596046448 tol=0.01000001 tick=36 tp=1
+[09-03-2025] [15:36:19] itz_miror failed Flight *(Type F)* [VL: 10] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.09000000357627869 ldY=0.15000000596046448 pre=0.06860000717639934 diff=0.021399996399879342 tol=1.0E-8 tick=40 tp=2
+[09-03-2025] [15:36:19] itz_miror failed Flight *(Type F)* [VL: 12] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.01944000077247665 ldY=0.03240000128745635 pre=-0.04664799964619071 diff=0.06608800041866736 tol=1.0E-8 tick=43 tp=5
+[09-03-2025] [15:36:19] itz_miror failed Flight *(Type F)* [VL: 14] [Ping: 15] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.004199040166852797 ldY=0.006998400278092731 pre=-0.07154156911986415 diff=0.07574060928671694 tol=1.0E-8 tick=46 tp=8
+[09-03-2025] [15:36:23] itz_miror failed Bad Packets (Type A) [VL: 1] [Ping: 26] [TPS: 20] [Version: 1.20.5] [Client: Fabric] flying=true
+[09-03-2025] [15:36:23] itz_miror failed Speed *(Type E)* [VL: 4] [Ping: 26] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.38885944998338673 diff=0.06900305889075281 min=1.0E-4
+[09-03-2025] [15:36:23] itz_miror failed Speed (Type A) [VL: 4] [Ping: 26] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.07023201349451719 ticks=6 deltaXZ=0.4500941231776441
+[09-03-2025] [15:36:23] itz_miror failed Speed *(Type E)* [VL: 5] [Ping: 26] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.5064656127603451 diff=0.07087995019070414 min=1.0E-4
+[09-03-2025] [15:36:23] itz_miror failed Strafe (Type A) [VL: 8] [Ping: 26] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.04938461732357474 deltaXZ=0.5064656127603451
+[09-03-2025] [15:37:03] itz_miror failed Speed *(Type E)* [VL: 2] [Ping: 0] [TPS: 19.3] [Version: 1.20.5] [Client: Fabric] dXZ=0.3512643398818227 diff=0.022870668853820997 min=1.0E-4
+[09-03-2025] [15:37:03] itz_miror failed Flight (Type B) [VL: 2] [Ping: 0] [TPS: 19.3] [Version: 1.20.5] [Client: Fabric] deltaY=0.0747858789865461 difference=0.031035609123682674 ticks=13 delay=39 tp=131 vel=150
+[09-03-2025] [15:37:03] itz_miror failed Speed (Type A) [VL: 2] [Ping: 0] [TPS: 19.3] [Version: 1.20.5] [Client: Fabric] difference=0.02287066752765249 ticks=13 deltaXZ=0.36852122603238513
+[09-03-2025] [15:37:03] itz_miror failed Speed *(Type E)* [VL: 3] [Ping: 0] [TPS: 19.3] [Version: 1.20.5] [Client: Fabric] dXZ=0.3842249928819683 diff=0.02287066885384742 min=1.0E-4
+[09-03-2025] [15:37:03] itz_miror failed Speed *(Type E)* [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.41151971120461894 diff=0.02287066885381983 min=1.0E-4
+[09-03-2025] [15:37:03] itz_miror failed Flight (Type B) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.18609225692615894 difference=0.03945843377640659 ticks=17 delay=40 tp=135 vel=154
+[09-03-2025] [15:37:03] itz_miror failed Speed (Type A) [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.02287066752762479 ticks=17 deltaXZ=0.42335361551636197
+[09-03-2025] [15:37:03] itz_miror failed Speed *(Type E)* [VL: 5] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.4341370089921825 diff=0.02288520909560604 min=1.0E-4
+[09-03-2025] [15:37:03] itz_miror failed Speed *(Type E)* [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.4529443082519684 diff=0.022927961019054477 min=1.0E-4
+[09-03-2025] [15:37:03] itz_miror failed Flight (Type B) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.02411755649762881 difference=0.0631255483106949 ticks=21 delay=49 tp=139 vel=158
+[09-03-2025] [15:37:03] itz_miror failed Speed (Type A) [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.02294250192565861 ticks=21 deltaXZ=0.4611218343138871
+[09-03-2025] [15:37:03] itz_miror failed Speed *(Type E)* [VL: 7] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.4685747933587858 diff=0.02295391336595054 min=1.0E-4
+[09-03-2025] [15:37:03] itz_miror failed Flight *(Type F)* [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.008682320339147509 ldY=0.014470533898574445 pre=-0.06421887802927242 diff=0.07290119836841993 tol=1.0E-8 tick=23 tp=141
+[09-03-2025] [15:37:04] itz_miror failed Speed *(Type E)* [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.48155311682051966 diff=0.022970055423717772 min=1.0E-4
+[09-03-2025] [15:37:04] itz_miror failed Flight (Type B) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.003125635322092535 difference=0.076420432389197 ticks=25 delay=46 tp=143 vel=162
+[09-03-2025] [15:37:04] itz_miror failed Speed (Type A) [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] difference=0.022975740054092864 ticks=25 deltaXZ=0.48718908898999885
+[09-03-2025] [15:37:04] itz_miror failed Flight *(Type F)* [VL: 4] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.003125635322092535 pre=-0.07533687885061147 diff=0.07533687885061147 tol=1.0E-8 tick=26 tp=144
+[09-03-2025] [15:37:04] itz_miror failed Speed *(Type E)* [VL: 9] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.479018049304726 diff=0.009675966872988051 min=1.0E-4
+[09-03-2025] [15:37:04] itz_miror failed Speed (Type C) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] speed=0.47166917265088976 max=0.4625000054016709 diff=0.009169167249218846 ticks=28 deltaY=0.0
+[09-03-2025] [15:37:04] itz_miror failed Speed *(Type E)* [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dXZ=0.47166917265088976 diff=0.014273588523093406 min=1.0E-4
+[09-03-2025] [15:37:04] itz_miror failed Flight (Type B) [VL: 10] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.15000000596046448 difference=0.22840000748634337 ticks=31 delay=22 tp=2 vel=168
+[09-03-2025] [15:37:04] itz_miror failed Flight *(Type F)* [VL: 6] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.15000000596046448 ldY=0.0 pre=-0.0784000015258789 diff=0.22840000748634337 tol=1.0E-8 tick=31 tp=2
+[09-03-2025] [15:37:04] itz_miror failed Flight *(Type F)* [VL: 8] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=36 tp=2
+[09-03-2025] [15:37:14] itz_miror failed Aim (Type I) [VL: 1] [Ping: 20] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] rotation=20 deltaPitch=2.7765236 deltaYaw=0.8905182
+[09-03-2025] [15:37:17] itz_miror failed Aim (Type I) [VL: 2] [Ping: 20] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=50 deltaPitch=0.8381958 deltaYaw=7.7010193
+[09-03-2025] [15:37:18] itz_miror failed Aim (Type I) [VL: 3] [Ping: 20] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=63 deltaPitch=6.675209 deltaYaw=12.464706
+[09-03-2025] [15:37:19] itz_miror failed Aim (Type I) [VL: 4] [Ping: 20] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=81 deltaPitch=1.5815945 deltaYaw=1.4457245
+[09-03-2025] [15:37:20] itz_miror failed Aim (Type I) [VL: 5] [Ping: 20] [TPS: 20] [Version: 1.20.5] [Client: Fabric] rotation=81 deltaPitch=0.9953575 deltaYaw=4.9244385
+[09-03-2025] [18:43:44] hosseinansari failed Jesus (Type B) [VL: 2] [Ping: 10] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=-0.014760000269411933 deltaXZ=0.12883855166154373
+[09-04-2025] [03:02:02] Texr failed Timer (Type D) [VL: 10] [Ping: 754] [TPS: 20] [Version: 1.20.5] [Client: Optifine] balance=62 delay=1
+[09-04-2025] [03:02:02] Texr failed Timer (Type D) [VL: 12] [Ping: 754] [TPS: 20] [Version: 1.20.5] [Client: Optifine] balance=95 delay=0
+[09-04-2025] [21:20:55] coolhossein failed Jesus (Type C) [VL: 2] [Ping: 53] [TPS: 20] [Version: 1.20.5] [Client: Unresolved] deltaY=0.0
+[09-04-2025] [21:20:55] coolhossein failed Jesus (Type A) [VL: 2] [Ping: 53] [TPS: 20] [Version: 1.20.5] [Client: Unresolved] 
+[09-04-2025] [21:20:55] coolhossein failed Jesus (Type B) [VL: 2] [Ping: 53] [TPS: 20] [Version: 1.20.5] [Client: Unresolved] deltaY=0.0 deltaXZ=0.234073484021731
+[09-04-2025] [21:37:27] hosseinansari failed Speed (Type B) [VL: 2] [Ping: 453] [TPS: 20] [Version: 1.20.5] [Client: Forge] speed=3.021817266621727 max=0.3475000044330954 diff=2.6743172621886315 ticks=601 deltaY=0.0
+[09-04-2025] [21:37:27] hosseinansari failed Speed (Type D) [VL: 2] [Ping: 453] [TPS: 20] [Version: 1.20.5] [Client: Forge] speed=3.021817266621727 max=0.3475000044330954 diff=2.6743172621886315 ticks=1032 deltaY=0.0 tp=601
+[09-04-2025] [22:11:40] Texr failed Invalid (Type C) [VL: 1] [Ping: 33] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=4.537037445848
+[09-04-2025] [22:11:40] Texr failed Invalid (Type C) [VL: 2] [Ping: 33] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=4.367896781942363
+[09-04-2025] [22:11:40] Texr failed Invalid (Type C) [VL: 3] [Ping: 33] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=4.202138928088743
+[09-04-2025] [22:11:40] Texr failed Invalid (Type C) [VL: 4] [Ping: 33] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=4.039696228150433
+[09-04-2025] [22:12:24] Texr failed Invalid (Type C) [VL: 5] [Ping: 428] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=4.537037445848114
+[09-04-2025] [22:12:24] Texr failed Invalid (Type C) [VL: 6] [Ping: 428] [TPS: 19.84] [Version: 1.20.5] [Client: Optifine] deltaY=4.367896781942363
+[09-04-2025] [22:12:24] Texr failed Invalid (Type C) [VL: 7] [Ping: 428] [TPS: 19.84] [Version: 1.20.5] [Client: Optifine] deltaY=4.20213892808863
+[09-04-2025] [22:12:24] Texr failed Invalid (Type C) [VL: 8] [Ping: 428] [TPS: 19.84] [Version: 1.20.5] [Client: Optifine] deltaY=4.039696228150433
+[09-05-2025] [12:34:28] kasra007 failed Flight *(Type F)* [VL: 2] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.05945369060198402 ldY=-0.06806711223819661 pre=-0.14510577281758874 diff=0.08565208221560472 tol=1.0E-8 tick=23 tp=22
+[09-05-2025] [12:34:28] kasra007 failed Flight *(Type F)* [VL: 4] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.042640291103971606 ldY=-0.04705036317886169 pre=-0.12450935833857783 diff=0.08186906723460623 tol=1.0E-8 tick=26 tp=25
+[09-05-2025] [12:34:28] kasra007 failed Flight *(Type F)* [VL: 6] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.0340318301761684 ldY=-0.03628978717944875 pre=-0.11396399365391144 diff=0.07993216347774304 tol=1.0E-8 tick=29 tp=28
+[09-05-2025] [12:34:28] kasra007 failed Flight *(Type F)* [VL: 8] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.029624297984092607 ldY=-0.030780372021453672 pre=-0.10856476669399251 diff=0.0789404687098999 tol=1.0E-8 tick=32 tp=31
+[09-05-2025] [12:34:28] kasra007 failed Flight *(Type F)* [VL: 10] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.02736764140087189 ldY=-0.027959551334461707 pre=-0.1058003623669375 diff=0.07843272096606561 tol=1.0E-8 tick=35 tp=34
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 12] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.02621223317861876 ldY=-0.026515291078162306 pre=-0.104384987288217 diff=0.07817275410959824 tol=1.0E-8 tick=38 tp=37
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 14] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.025620664142373073 ldY=-0.025775829793879268 pre=-0.10366031521551552 diff=0.07803965107314245 tol=1.0E-8 tick=41 tp=40
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 16] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.025317780782280863 ldY=-0.02539722559939861 pre=-0.10328928309770317 diff=0.07797150231542231 tol=1.0E-8 tick=44 tp=43
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 18] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.025162704494974264 ldY=-0.0252033802431626 pre=-0.10309931464489458 diff=0.07793661014992032 tol=1.0E-8 tick=47 tp=46
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 20] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.025083305432325176 ldY=-0.02510413141632739 pre=-0.10300205079270305 diff=0.07791874536037788 tol=1.0E-8 tick=50 tp=49
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 22] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=-0.02504265311043241 ldY=-0.02505331601471994 pre=-0.10295225169815853 diff=0.07790959858772611 tol=1.0E-8 tick=53 tp=52
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 26] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.04508926325571849 ldY=0.027976075992825145 pre=-0.050983446519308966 diff=0.09607270977502747 tol=1.0E-8 tick=56 tp=55
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 26] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.0749134937719802 ldY=0.06763595640751419 pre=-0.012116762956461516 diff=0.08703025672844171 tol=1.0E-8 tick=59 tp=58
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 32] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.08759651702266069 ldY=0.08450167856401691 pre=0.004411645078599278 diff=0.08318487194406142 tol=1.0E-8 tick=62 tp=61
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 32] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09299008714980062 ldY=0.09167397915811648 pre=0.011440499797617631 diff=0.08154958735218298 tol=1.0E-8 tick=65 tp=64
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 34] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09528375153417556 ldY=0.0947240647301939 pre=0.01442958371642927 diff=0.08085416781774629 tol=1.0E-8 tick=68 tp=67
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 34] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.0962591530185648 ldY=0.09602114115287463 pre=0.015700718635396155 diff=0.08055843438316865 tol=1.0E-8 tick=71 tp=70
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 36] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09653157965025372 ldY=0.09657273461034066 pre=0.01624128023423367 diff=0.08029029941602005 tol=1.0E-8 tick=74 tp=73
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 38] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09559167531605794 ldY=0.09647735782456124 pre=0.01614781098235067 diff=0.07944386433370727 tol=1.0E-8 tick=77 tp=76
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 40] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09303714883454006 ldY=0.09366048970858998 pre=0.013387280174971341 diff=0.07964986865956872 tol=1.0E-8 tick=80 tp=79
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 42] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09195081338853583 ldY=0.09221589472213054 pre=0.011971577060687631 diff=0.0799792363278482 tol=1.0E-8 tick=83 tp=82
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 44] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09434440195717997 ldY=0.09232961217365698 pre=0.01208302016535253 diff=0.08226138179182743 tol=1.0E-8 tick=86 tp=85
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 46] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09845532351761221 ldY=0.09760848231886143 pre=0.01725631300833935 diff=0.08119901050927286 tol=1.0E-8 tick=89 tp=88
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 48] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09706186586141285 ldY=0.0978541850190382 pre=0.017497101659198985 diff=0.07956476420221387 tol=1.0E-8 tick=92 tp=91
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 52] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09568104130568855 ldY=0.09601798217973823 pre=0.015697622841662224 diff=0.07998341846402633 tol=1.0E-8 tick=95 tp=94
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 54] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09440798482744839 ldY=0.09509410675037344 pre=0.01479222490326321 diff=0.07961575992418518 tol=1.0E-8 tick=98 tp=97
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 56] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09496149386311004 ldY=0.09429553059952411 pre=0.014009620260199238 diff=0.0809518736029108 tol=1.0E-8 tick=101 tp=100
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 58] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09736010056926858 ldY=0.0971001702719434 pre=0.016758167192664392 diff=0.08060193337660419 tol=1.0E-8 tick=104 tp=103
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 60] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.09175646354474054 ldY=0.09487793883500473 pre=0.014580380342078795 diff=0.07717608320266174 tol=1.0E-8 tick=107 tp=106
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 64] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.08119837605146074 ldY=0.08440596134708755 pre=0.004317842204182846 diff=0.0768805338472779 tol=1.0E-8 tick=110 tp=109
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 66] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.07246648233142139 ldY=0.07580815260259044 pre=-0.004108010529414515 diff=0.07657449286083591 tol=1.0E-8 tick=113 tp=112
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 68] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.06599427344941233 ldY=0.06780079924024562 pre=-0.01195521697724058 diff=0.07794949042665292 tol=1.0E-8 tick=116 tp=115
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 70] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.06284592704312075 ldY=0.06361416844320189 pre=-0.01605811523819708 diff=0.07890404228131784 tol=1.0E-8 tick=119 tp=118
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 70] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.06077627682491027 ldY=0.06167776505141376 pre=-0.017955790599083418 diff=0.07873206742399369 tol=1.0E-8 tick=122 tp=121
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 72] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.14255613789411825 ldY=0.12286492381456782 pre=0.04200762615586 diff=0.10054851173825825 tol=1.0E-8 tick=125 tp=124
+[09-05-2025] [12:34:29] kasra007 failed Flight *(Type F)* [VL: 72] [Ping: 88] [TPS: 19.75] [Version: 1.20.5] [Client: Optifine] dY=0.3309271837770922 ldY=0.16734260758814656 pre=0.08559575710231167 diff=0.24533142667478053 tol=1.0E-8 tick=128 tp=127
+[09-05-2025] [12:50:01] _AMG_1391_ failed Timer (Type D) [VL: 10] [Ping: 1005] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=97 delay=1
+[09-05-2025] [12:50:01] _AMG_1391_ failed Timer (Type D) [VL: 12] [Ping: 1005] [TPS: 20] [Version: 1.20.5] [Client: Feather Fabric] balance=96 delay=1
+[09-05-2025] [13:06:56] Foroughi failed Step (Type A) [VL: 1] [Ping: 70] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=0.8378585789729982
+[09-05-2025] [13:06:56] Foroughi failed Step (Type A) [VL: 2] [Ping: 70] [TPS: 19.5] [Version: 1.20.5] [Client: Optifine] deltaY=1.0
+[09-05-2025] [13:06:58] Foroughi failed Step (Type A) [VL: 3] [Ping: 70] [TPS: 20] [Version: 1.20.5] [Client: Optifine] deltaY=0.7684762024129839
+[09-05-2025] [13:08:35] Hog_Matin failed Bad Packets (Type M) [VL: 1] [Ping: 51] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=62
+[09-05-2025] [13:08:38] Hog_Matin failed Bad Packets (Type M) [VL: 2] [Ping: 56] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [13:09:34] Hog_Matin failed Bad Packets (Type M) [VL: 3] [Ping: 53] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=47
+[09-05-2025] [13:09:37] Hog_Matin failed Bad Packets (Type M) [VL: 4] [Ping: 50] [TPS: 19.98] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [13:09:40] Hog_Matin failed Bad Packets (Type M) [VL: 5] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=41
+[09-05-2025] [13:09:46] Hog_Matin failed Bad Packets (Type M) [VL: 6] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [13:13:40] Hog_Matin failed Bad Packets (Type M) [VL: 1] [Ping: 58] [TPS: 19.98] [Version: 1.20.5] [Client: Fabric] delay=44
+[09-05-2025] [13:13:58] Hog_Matin failed Bad Packets (Type M) [VL: 2] [Ping: 55] [TPS: 19.73] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [13:17:29] Hog_Matin failed Bad Packets (Type M) [VL: 3] [Ping: 100] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [13:34:40] Hog_Matin failed Bad Packets (Type M) [VL: 1] [Ping: 52] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=71
+[09-05-2025] [14:50:06] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [14:50:07] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [14:50:07] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=50
+[09-05-2025] [14:50:08] RichPlant failed Bad Packets (Type R) [VL: 1] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=47
+[09-05-2025] [14:50:08] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=46
+[09-05-2025] [14:50:10] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=59
+[09-05-2025] [14:50:13] RichPlant failed Bad Packets (Type R) [VL: 2] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=50
+[09-05-2025] [14:50:13] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [14:50:14] RichPlant failed Bad Packets (Type R) [VL: 3] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=84
+[09-05-2025] [14:50:15] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [14:50:15] RichPlant failed Bad Packets (Type R) [VL: 4] [Ping: 50] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [14:50:19] RichPlant failed Bad Packets (Type M) [VL: 8] [Ping: 50] [TPS: 19.79] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [14:50:24] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_PLANKS
+[09-05-2025] [14:50:25] RichPlant failed Bad Packets (Type M) [VL: 9] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=46
+[09-05-2025] [15:06:34] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 87] [TPS: 19.98] [Version: 1.20.5] [Client: Fabric] delay=44
+[09-05-2025] [15:06:36] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 87] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [15:07:37] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 59] [TPS: 19.48] [Version: 1.20.5] [Client: Fabric] delay=46
+[09-05-2025] [15:19:23] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 70] [TPS: 19.6] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [15:21:27] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 122] [TPS: 19.94] [Version: 1.20.5] [Client: Fabric] delay=56
+[09-05-2025] [15:22:32] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 121] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=54
+[09-05-2025] [15:23:45] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 110] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= DARK_OAK_LOG
+[09-05-2025] [15:24:17] RichPlant failed Air Place (Type A) [VL: 2] [Ping: 110] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= DARK_OAK_PLANKS
+[09-05-2025] [15:24:19] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 110] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [15:24:41] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 214] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= DARK_OAK_PLANKS
+[09-05-2025] [15:25:50] RichPlant failed Air Place (Type A) [VL: 2] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= STONE_BRICKS
+[09-05-2025] [15:25:51] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=95
+[09-05-2025] [15:25:51] RichPlant failed Scaffold (Type B) [VL: 1] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=241 face=self
+[09-05-2025] [15:25:53] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [15:25:55] RichPlant failed Air Place (Type A) [VL: 3] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= STONE_BRICKS
+[09-05-2025] [15:26:02] RichPlant failed Air Place (Type A) [VL: 4] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= STONE_BRICKS
+[09-05-2025] [15:26:03] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=44
+[09-05-2025] [15:26:05] RichPlant failed Air Place (Type A) [VL: 5] [Ping: 105] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= DARK_OAK_LOG
+[09-05-2025] [15:26:09] RichPlant failed Air Place (Type A) [VL: 6] [Ping: 105] [TPS: 19.76] [Version: 1.20.5] [Client: Fabric] block= STONE_BRICKS
+[09-05-2025] [15:26:10] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 91] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=42
+[09-05-2025] [15:26:11] RichPlant failed Air Place (Type A) [VL: 7] [Ping: 91] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= DARK_OAK_LOG
+[09-05-2025] [15:26:41] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 84] [TPS: 19.47] [Version: 1.20.5] [Client: Fabric] delay=43
+[09-05-2025] [15:27:00] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 89] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=71
+[09-05-2025] [15:27:01] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 89] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [15:27:48] RichPlant failed Bad Packets (Type M) [VL: 8] [Ping: 63] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [15:29:48] RichPlant failed Bad Packets (Type M) [VL: 9] [Ping: 93] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=81
+[09-05-2025] [15:29:50] RichPlant failed Bad Packets (Type M) [VL: 10] [Ping: 93] [TPS: 19.16] [Version: 1.20.5] [Client: Fabric] delay=46
+[09-05-2025] [15:31:30] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 147] [TPS: 19.03] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_STAIRS
+[09-05-2025] [15:34:51] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=45
+[09-05-2025] [15:41:21] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 75] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [15:41:22] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 75] [TPS: 19.89] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [15:41:26] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 75] [TPS: 19.88] [Version: 1.20.5] [Client: Fabric] delay=77
+[09-05-2025] [15:41:31] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 80] [TPS: 19.54] [Version: 1.20.5] [Client: Fabric] delay=48
+[09-05-2025] [15:41:35] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 80] [TPS: 19.94] [Version: 1.20.5] [Client: Fabric] delay=59
+[09-05-2025] [15:41:40] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 80] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=59
+[09-05-2025] [15:41:45] RichPlant failed Bad Packets (Type M) [VL: 8] [Ping: 70] [TPS: 19.85] [Version: 1.20.5] [Client: Fabric] delay=46
+[09-05-2025] [15:41:56] RichPlant failed Bad Packets (Type M) [VL: 9] [Ping: 70] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=57
+[09-05-2025] [15:41:57] RichPlant failed Bad Packets (Type M) [VL: 10] [Ping: 70] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=64
+[09-05-2025] [15:42:23] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 11] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [16:06:01] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 53] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_TRAPDOOR
+[09-05-2025] [16:07:12] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 43] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=54
+[09-05-2025] [16:07:52] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 40] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_TRAPDOOR
+[09-05-2025] [17:25:48] hosseinansari failed Jump (Type B) [VL: 1] [Ping: 35] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=0.8243760152969344 limit=0.7900158297185633 tp=4231 vY=-0.661875
+[09-05-2025] [18:50:07] hosseinansari failed Jump (Type B) [VL: 1] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=0.8243760152969344 limit=0.4669577235272684 tp=39178 vY=-0.878
+[09-05-2025] [18:50:07] hosseinansari failed Jump (Type B) [VL: 2] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=0.6364987513930771 limit=0.4947981713930324 tp=39180 vY=-0.878
+[09-05-2025] [18:50:11] hosseinansari failed Jump (Type B) [VL: 3] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=0.8243760152969344 limit=0.41999998688697815 tp=39268 vY=-1.38825
+[09-05-2025] [18:50:11] hosseinansari failed Jump (Type B) [VL: 4] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=0.6364987513930771 limit=0.41999998688697815 tp=39270 vY=-1.38825
+[09-05-2025] [18:50:12] hosseinansari failed Jump (Type B) [VL: 5] [Ping: 48] [TPS: 20] [Version: 1.20.5] [Client: Forge] deltaY=0.45606142011619966 limit=0.41999998688697815 tp=39272 vY=-1.38825
+[09-05-2025] [20:31:50] hosseinansari failed Jesus (Type A) [VL: 2] [Ping: 11] [TPS: 20] [Version: 1.20.5] [Client: Forge] 
+[09-05-2025] [23:22:00] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 270] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_TRAPDOOR
+[09-05-2025] [23:23:24] RichPlant failed Air Place (Type A) [VL: 2] [Ping: 132] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_TRAPDOOR
+[09-05-2025] [23:23:30] RichPlant failed Air Place (Type A) [VL: 3] [Ping: 132] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_TRAPDOOR
+[09-05-2025] [23:23:34] RichPlant failed Air Place (Type A) [VL: 4] [Ping: 132] [TPS: 20] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_TRAPDOOR
+[09-05-2025] [23:24:59] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 295] [TPS: 19.97] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [23:25:03] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=48
+[09-05-2025] [23:25:04] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [23:28:37] RichPlant failed Scaffold (Type B) [VL: 1] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=246 face=self
+[09-05-2025] [23:28:37] RichPlant failed Scaffold (Type G) [VL: 1] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] angle=1.570693 delay=246 acceleration=2.269626242501488E-8
+[09-05-2025] [23:28:37] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [23:28:37] RichPlant failed Scaffold (Type G) [VL: 2] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] angle=1.5707147 delay=206 acceleration=9.843972859080452E-11
+[09-05-2025] [23:28:38] RichPlant failed Scaffold (Type B) [VL: 2] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=251 face=self
+[09-05-2025] [23:28:38] RichPlant failed Scaffold (Type G) [VL: 3] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] angle=1.5707614 delay=250 acceleration=1.5237683337332442E-9
+[09-05-2025] [23:28:38] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [23:28:39] RichPlant failed Scaffold (Type B) [VL: 3] [Ping: 266] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=257 face=self
+[09-05-2025] [23:29:19] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 173] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [23:29:19] RichPlant failed Scaffold (Type B) [VL: 4] [Ping: 173] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=257 face=self
+[09-05-2025] [23:29:19] RichPlant failed Scaffold (Type G) [VL: 4] [Ping: 173] [TPS: 20] [Version: 1.20.5] [Client: Fabric] angle=1.5707737 delay=257 acceleration=1.0188682111889058E-7
+[09-05-2025] [23:29:21] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 142] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=71
+[09-05-2025] [23:30:34] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 85] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=66
+[09-05-2025] [23:31:52] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 118] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=44
+[09-05-2025] [23:31:53] RichPlant failed Scaffold (Type G) [VL: 5] [Ping: 118] [TPS: 20] [Version: 1.20.5] [Client: Fabric] angle=3.515758E-4 delay=260 acceleration=8.036040017034285E-7
+[09-05-2025] [23:31:54] RichPlant failed Scaffold (Type B) [VL: 5] [Ping: 118] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=264 face=self
+[09-05-2025] [23:31:54] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 118] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [23:31:54] RichPlant failed Scaffold (Type G) [VL: 6] [Ping: 118] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] angle=4.304225E-5 delay=192 acceleration=2.004953261747211E-8
+[09-05-2025] [23:31:54] RichPlant failed Scaffold (Type B) [VL: 6] [Ping: 118] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] delay=243 face=self
+[09-05-2025] [23:33:19] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 610] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [23:33:44] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 360] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [23:33:47] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 360] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [23:33:54] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 360] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=65
+[09-05-2025] [23:33:58] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 360] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=44
+[09-05-2025] [23:34:01] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 288] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [23:34:05] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 288] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=56
+[09-05-2025] [23:34:14] RichPlant failed Bad Packets (Type M) [VL: 8] [Ping: 288] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=48
+[09-05-2025] [23:34:17] RichPlant failed Bad Packets (Type M) [VL: 9] [Ping: 228] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=50
+[09-05-2025] [23:34:56] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 146] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=50
+[09-05-2025] [23:34:57] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 146] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=55
+[09-05-2025] [23:35:23] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 167] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [23:35:50] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 170] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=50
+[09-05-2025] [23:36:06] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 221] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=64
+[09-05-2025] [23:36:08] RichPlant failed Air Place (Type A) [VL: 1] [Ping: 221] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] block= SPRUCE_PLANKS
+[09-05-2025] [23:36:30] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 189] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=61
+[09-05-2025] [23:36:37] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 189] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=65
+[09-05-2025] [23:36:44] RichPlant failed Bad Packets (Type M) [VL: 8] [Ping: 189] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=49
+[09-05-2025] [23:37:00] RichPlant failed Bad Packets (Type M) [VL: 9] [Ping: 157] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [23:37:09] RichPlant failed Bad Packets (Type M) [VL: 10] [Ping: 157] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=57
+[09-05-2025] [23:37:30] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=52
+[09-05-2025] [23:38:51] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 371] [TPS: 19.95] [Version: 1.20.5] [Client: Fabric] delay=50
+[09-05-2025] [23:39:03] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 371] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=53
+[09-05-2025] [23:39:04] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 288] [TPS: 19.99] [Version: 1.20.5] [Client: Fabric] delay=59
+[09-05-2025] [23:39:12] RichPlant failed Bad Packets (Type M) [VL: 5] [Ping: 288] [TPS: 19.95] [Version: 1.20.5] [Client: Fabric] delay=44
+[09-05-2025] [23:39:20] RichPlant failed Bad Packets (Type M) [VL: 6] [Ping: 225] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=51
+[09-05-2025] [23:42:10] RichPlant failed Bad Packets (Type M) [VL: 7] [Ping: 102] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=60
+[09-06-2025] [00:12:28] RichPlant failed Bad Packets (Type M) [VL: 1] [Ping: 159] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=46
+[09-06-2025] [00:12:31] RichPlant failed Bad Packets (Type M) [VL: 2] [Ping: 159] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=66
+[09-06-2025] [00:12:41] RichPlant failed Bad Packets (Type M) [VL: 3] [Ping: 296] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=41
+[09-06-2025] [00:13:00] RichPlant failed Bad Packets (Type M) [VL: 4] [Ping: 237] [TPS: 20] [Version: 1.20.5] [Client: Fabric] delay=48
+[09-06-2025] [05:57:23] Khalvach failed Flight *(Type F)* [VL: 2] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=12 tp=1984
+[09-06-2025] [05:57:23] Khalvach failed Flight (Type B) [VL: 2] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=14 delay=1 tp=1986 vel=467
+[09-06-2025] [05:57:23] Khalvach failed Flight *(Type F)* [VL: 4] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=15 tp=1987
+[09-06-2025] [05:57:23] Khalvach failed Flight (Type B) [VL: 4] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=18 delay=1 tp=1990 vel=471
+[09-06-2025] [05:57:23] Khalvach failed Flight *(Type F)* [VL: 6] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=18 tp=1990
+[09-06-2025] [05:57:24] Khalvach failed Flight *(Type F)* [VL: 8] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.20000000298023224 ldY=0.0 pre=0.0 diff=0.20000000298023224 tol=0.01000001 tick=29 tp=1
+[09-06-2025] [05:57:24] Khalvach failed Flight (Type B) [VL: 6] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.20000000298023224 difference=0.08239999777078623 ticks=31 delay=99 tp=3 vel=484
+[09-06-2025] [05:57:24] Khalvach failed Flight *(Type F)* [VL: 10] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.20000000298023224 ldY=0.20000000298023224 pre=0.11760000520944601 diff=0.08239999777078623 tol=1.0E-8 tick=32 tp=4
+[09-06-2025] [05:57:24] Khalvach failed Motion (Type A) [VL: 1] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.20000000298023224
+[09-06-2025] [05:57:25] Khalvach failed Flight (Type B) [VL: 8] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.20000000298023224 difference=0.08239999777078623 ticks=35 delay=99 tp=7 vel=488
+[09-06-2025] [05:57:25] Khalvach failed Flight *(Type F)* [VL: 12] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.20000000298023224 ldY=0.20000000298023224 pre=0.11760000520944601 diff=0.08239999777078623 tol=1.0E-8 tick=35 tp=7
+[09-06-2025] [05:57:25] Khalvach failed Motion (Type A) [VL: 2] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.20000000298023224
+[09-06-2025] [05:57:25] Khalvach failed Flight *(Type F)* [VL: 14] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.20000000298023224 ldY=0.20000000298023224 pre=0.11760000520944601 diff=0.08239999777078623 tol=1.0E-8 tick=38 tp=10
+[09-06-2025] [05:57:25] Khalvach failed Flight (Type B) [VL: 10] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.20000000298023224 difference=0.08239999777078623 ticks=39 delay=84 tp=11 vel=492
+[09-06-2025] [05:57:25] Khalvach failed Motion (Type A) [VL: 3] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.20000000298023224
+[09-06-2025] [05:57:25] Khalvach failed Flight *(Type F)* [VL: 16] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] dY=0.20000000298023224 ldY=0.20000000298023224 pre=0.11760000520944601 diff=0.08239999777078623 tol=1.0E-8 tick=41 tp=13
+[09-06-2025] [05:57:25] Khalvach failed Flight (Type B) [VL: 12] [Ping: 295] [TPS: 20] [Version: 1.20.5] [Client: Fabric] deltaY=0.0 difference=0.0784000015258789 ticks=45 delay=96 tp=3 vel=498
+[09-06-2025] [08:35:19] sjsj failed Scaffold (Type J) [VL: 1] [Ping: 31] [TPS: 20] [Version: 1.20.5] [Client: Fabric] acceleration=4.722347550469297E-4 deltaPitch=24.75
+[09-06-2025] [08:39:15] sjsj failed Scaffold (Type J) [VL: 1] [Ping: 190] [TPS: 20] [Version: 1.20.5] [Client: Fabric] acceleration=2.786100311274464E-4 deltaPitch=22.950005

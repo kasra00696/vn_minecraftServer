@@ -177,8 +177,8 @@ launchpad:
   launch_power_y: 1.0
 
   # Top and bottom block required to make a launchpad
-  top_block: STONE_PRESSURE_PLATE
-  bottom_block: REDSTONE_BLOCK
+  top_block: light_gray_carpet
+  bottom_block: stone
 
   # Actions executed upon use of a launchpad
   actions:
@@ -283,13 +283,13 @@ join_leave_messages:
 join_events:
   - "[MESSAGE] &8&m+---------------***---------------+"
   - "[MESSAGE] &r"
-  - "[MESSAGE] &r    &7Welcome, &b&n%player%&r &7to the server"
+  - "[MESSAGE] &r    &7be server venux khosh amadid"
   - "[MESSAGE] &r"
-  - "[MESSAGE] &r  &2&lWEBSITE &fwww.examplemc.net"
-  - "[MESSAGE] &r  &3&lSTORE &fstore.examplemc.net"
-  - "[MESSAGE] &r  &9&lDISCORD &fdiscord.examplemc.net"
+  - "[MESSAGE] &r  &2&lWEBSITE &fvenuxserver.com"
+  - "[MESSAGE] &r  &3&lSTORE &fComing soon"
+  - "[MESSAGE] &r  &9&lDISCORD &fhttps://discord.gg/jQmd7gRYjj"
   - "[MESSAGE] &r"
-  - "[MESSAGE] &r            &7&oPowered By DeluxeHub"
+  - "[MESSAGE] &r            &7&oPowered By venux server"
   - "[MESSAGE] &8&m+---------------***---------------+"
   - "[TITLE] &b&lWELCOME;&f%player%;1;2;1"
   - "[SOUND] ENTITY_PLAYER_LEVELUP"

@@ -1,0 +1,153 @@
+panels:
+  template:
+    perm: default
+    rows: '6'
+    title: '&3&lgang menu'
+    empty: AIR
+    item:
+      '10':
+        material: arrow
+        name: '&cleave'
+        lore:
+          - Raftran az gang
+        commands:
+          - G leave
+      '12':
+        material: ender_eye
+        name: '&cgang top'
+        lore:
+          - didan Gang Top
+        commands:
+          - g top
+      '14':
+        material: piston
+        name: '&clvl up'
+        lore:
+          - lvl up kardan gang
+        commands:
+          - g levelup
+      '16':
+        material: bow
+        name: '&cFriendly fire'
+        lore:
+          - roshan va khomosh kardan friendly fire
+        commands:
+          - g friendlyfire
+      '22':
+        material: netherite_sword
+        name: '&ejoin fight'
+        lore:
+          - join dadan be gang fight
+        commands:
+          - fight join
+      '28':
+        material: barrier
+        name: '&cdisband gang'
+        lore:
+          - Pak kardan gang
+        commands:
+          - g disband
+      '30':
+        material: ender_pearl
+        name: '&cgang list '
+        lore:
+          - didan Gang haie server
+        commands:
+          - g list
+      '32':
+        material: coal
+        name: '&cleave fight'
+        lore:
+          - Biron omadan az gang fight
+        commands:
+          - fight leave
+      '34':
+        material: item_frame
+        name: '&chome list'
+        commands:
+          - g listhomes
+        lore:
+          - didan home haye gang
+      '49':
+        material: barrier
+        commands:
+          - cpc
+        name: '&cClose Menu'
+    open-with-item:
+      name: leave
+  gangmenu:
+    perm: default
+    rows: '6'
+    title: '&3&lgang menu'
+    empty: AIR
+    item:
+      '10':
+        material: firework_rocket
+        name: '&cleave'
+        lore:
+          - Raftran az gang
+        commands:
+          - G leave
+      '12':
+        material: ender_eye
+        name: '&cgang top'
+        lore:
+          - didan Gang Top
+        commands:
+          - g top
+      '14':
+        material: piston
+        name: '&clvl up'
+        lore:
+          - lvl up kardan gang
+        commands:
+          - g levelup
+      '16':
+        material: bow
+        name: '&cFriendly fire'
+        lore:
+          - roshan va khomosh kardan friendly fire
+        commands:
+          - g friendlyfire
+      '22':
+        material: netherite_sword
+        name: '&ejoin fight'
+        lore:
+          - join dadan be gang fight
+        commands:
+          - fight join
+      '28':
+        material: barrier
+        name: '&cdisband gang'
+        lore:
+          - Pak kardan gang
+        commands:
+          - g disband
+      '30':
+        material: ender_pearl
+        name: '&cgang list '
+        lore:
+          - didan Gang haie server
+        commands:
+          - g list
+      '32':
+        material: coal
+        name: '&cleave fight'
+        lore:
+          - Biron omadan az gang fight
+        commands:
+          - fight leave
+      '34':
+        material: item_frame
+        name: '&chome list'
+        commands:
+          - g listhomes
+        lore:
+          - didan home haye gang
+      '49':
+        material: barrier
+        commands:
+          - cpc
+        name: '&cClose Menu'
+    open-with-item:
+      name: leave

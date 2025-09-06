@@ -30,11 +30,11 @@ DataSource:
     # If you are using MariaDB, use MariaDbSslMode instead.
     mySQLAllowPublicKeyRetrieval: true
     # Username to connect to the MySQL database
-    mySQLUsername: authme
+    mySQLUsername: root
     # Password to connect to the MySQL database
-    mySQLPassword: '12345'
+    mySQLPassword: ''
     # Database Name, use with converters or as SQLITE database name
-    mySQLDatabase: authme
+    mySQLDatabase: venux
     # Table of the database
     mySQLTablename: authme
     # Column of IDs to sort data
@@ -572,7 +572,7 @@ Security:
         customCommand: ''
     recoveryCode:
         # Number of characters a recovery code should have (0 to disable)
-        length: 8
+        length: 4
         # How many hours is a recovery code valid for?
         validForHours: 6
         # Max number of tries to enter recovery code

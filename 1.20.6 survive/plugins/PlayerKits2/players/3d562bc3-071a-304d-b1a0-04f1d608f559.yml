@@ -1,0 +1,14 @@
+name: MJ_SENPUI
+kits:
+  food:
+    cooldown: 1756723547857
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756723551302
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757281783291
+    one_time: false
+    bought: false

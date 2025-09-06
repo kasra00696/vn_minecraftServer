@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1757014361531
+  lastheal: 1757016439995
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757017467537
+  login: 1757016191947
+money: '18152.5'
+last-account-name: Texr
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -192.68946485011725
+  y: 89.5468543036431
+  z: -175.6968181850096
+  yaw: -94.486328125
+  pitch: 32.70012664794922
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -148.57928756782002
+  y: 79.36317126073152
+  z: -211.67636995527548
+  yaw: -64.47412109375
+  pitch: 31.49994659423828

@@ -1,0 +1,14 @@
+name: Khalvach
+kits:
+  food:
+    cooldown: 1757126312745
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1757126318608
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757684335656
+    one_time: false
+    bought: false

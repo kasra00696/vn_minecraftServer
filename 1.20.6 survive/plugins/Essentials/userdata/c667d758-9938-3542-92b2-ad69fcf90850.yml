@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756631636769
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756632011807
+  login: 1756631940047
+money: '10000'
+last-account-name: aikiroa
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -848.5144801155947
+  y: 66.162141421027
+  z: -187.76051497204637
+  yaw: -150.87130737304688
+  pitch: 21.428686141967773
+logoutlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.220649810369085
+  y: 29.0
+  z: 68.93163794342891
+  yaw: 173.45526123046875
+  pitch: 14.437440872192383

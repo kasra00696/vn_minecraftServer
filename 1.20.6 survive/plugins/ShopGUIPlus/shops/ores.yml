@@ -1,0 +1,162 @@
+  ores:
+    name: "&3&lOres (page %page%)"
+    size: 45
+    buttons:
+      goBack:
+        slot: 40
+      previousPage:
+        slot: 39
+      nextPage:
+        slot: 41
+    fillItem:
+        material: light_blue_stained_glass_pane
+        name: ""   
+    items:
+      1:
+        type: item
+        item:
+          material: COAL
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 5
+        slot: 10
+      2:
+        type: item
+        item:
+          material: LAPIS_LAZULI
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 7
+        slot: 11
+      3:
+        type: item
+        item:
+          material: redstone
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 4
+        slot: 12
+      4:
+        type: item
+        item:
+          material: iron_ingot
+          quantity: 1
+        buyPrice: 300
+        sellPrice: 5
+        slot: 13
+      5:
+        type: item
+        item:
+          material: gold_ingot
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 6
+        slot: 14
+      6:
+        type: item
+        item:
+          material: diamond
+          quantity: 1
+        buyPrice: 900
+        sellPrice: 10
+        slot: 15
+      7:
+        type: item
+        item:
+          material: emerald
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 10
+        slot: 16 
+      9:
+        type: item
+        item:
+          material: quartz  
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 3
+        slot: 24   
+      10:
+        type: item
+        item:
+          material: coal_block
+          quantity: 1
+        buyPrice: 900
+        sellPrice:  45
+        slot: 28  
+      11:
+        type: item
+        item:
+          material: lapis_block
+          quantity: 1
+        buyPrice: 180
+        sellPrice: 63
+        slot: 29
+      12:
+        type: item
+        item:
+          material: redstone_block
+          quantity: 1
+        buyPrice: 225
+        sellPrice: 36
+        slot: 30   
+      13:
+        type: item
+        item:
+          material: iron_block
+          quantity: 1
+        buyPrice: 2700
+        sellPrice: 45
+        slot: 31    
+      14:
+        type: item
+        item:
+          material: gold_block  
+          quantity: 1
+        buyPrice: 4500
+        sellPrice: 54
+        slot: 32
+      15:
+        type: item
+        item:
+          material: diamond_block  
+          quantity: 1
+        buyPrice: 8100
+        sellPrice: 90
+        slot: 33
+      16:
+        type: item
+        item:
+          material: emerald_block 
+          quantity: 1
+        buyPrice: 9000
+        sellPrice: 90
+        slot: 34
+      18:
+        type: item
+        item:
+          material: quartz_block 
+          quantity: 1
+        buyPrice: 80
+        sellPrice: 27
+        slot: 20
+      #19:
+      #  type: special
+      #  special: balance
+      #  slot: 53
+      20:
+        type: item
+        item:
+          material: netherite_block 
+          quantity: 1
+        buyPrice: 9000
+        sellPrice: 135
+        slot: 21
+      21:
+        type: item
+        item:
+          material: netherite_ingot
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 15
+        slot: 23

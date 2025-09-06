@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756487423850
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756729010066
+  login: 1756728842113
+money: '0'
+last-account-name: AminRaven
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 581.1030246782184
+  y: 63.0
+  z: -945.4361208769278
+  yaw: -12.2777099609375
+  pitch: 18.749988555908203
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -249.9126459898215
+  y: 79.0
+  z: 1248.4260513608851
+  yaw: -179.70071411132812
+  pitch: 33.29990768432617

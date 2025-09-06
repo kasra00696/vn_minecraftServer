@@ -1,0 +1,14 @@
+name: Mester_Arya
+kits:
+  food:
+    cooldown: 1757086845006
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756492335982
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1757086843198
+    one_time: false
+    bought: false

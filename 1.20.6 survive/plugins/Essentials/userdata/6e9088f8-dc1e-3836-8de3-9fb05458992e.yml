@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756651221731
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756651288843
+  login: 1756650981238
+money: '9960.0'
+last-account-name: AA9_Arad
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.837090297989421
+  y: 29.0
+  z: 54.57090517744029
+  yaw: 27.171905517578125
+  pitch: 0.7500020265579224
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -282.6987875772493
+  y: 73.0
+  z: 846.4386028875671
+  yaw: 123.77194213867188
+  pitch: 24.000009536743164

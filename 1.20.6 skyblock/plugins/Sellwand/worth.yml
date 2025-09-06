@@ -1,0 +1,20 @@
+# Worth file
+
+# You can set your hook in this list (If your shop plugin are not in the list below
+# Please contact me to add it). Please note change only take effect on server restart:
+# "Custom" (List below), "ShopGUIPlus", "zShop", "CMI" (Worth file of CMI), "Essentials", "QuantumShop", "EconomyShopGUI", "EpicShop", "QuickShop", "EcoShop".
+Hook: Custom
+
+# Set symbol of your currency
+Symbol: $
+
+# Set the format of the price. Example: "%s%2$s" will show like $1.00 and "%2$s%s" will show like 1.00$
+Format: "%s%2$s"
+
+# Should we ignore Lore on item ? (Only work if you use Hook: Custom)
+Ignore lore: false
+
+Worth:
+  STONE: 1
+  COBBLESTONE: 1
+  OAK_LOG: 1

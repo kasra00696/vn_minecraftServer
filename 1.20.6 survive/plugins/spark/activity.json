@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "mahdimzl",
+      "uniqueId": "079a87d0-1e16-33a9-a3d9-9c130fd0ea23"
+    },
+    "time": 1757074509827,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "plugins\\spark\\profile-2025-09-05_15.45.09.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "kasraILOLI",
+      "uniqueId": "7c07f034-b1d8-3876-9ec2-259f2b850ea0"
+    },
+    "time": 1757074307919,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/E50kS9eXY6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "mahdimzl",
+      "uniqueId": "079a87d0-1e16-33a9-a3d9-9c130fd0ea23"
+    },
+    "time": 1757063927265,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/etqZR6UiU7"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "mahdimzl",
+      "uniqueId": "079a87d0-1e16-33a9-a3d9-9c130fd0ea23"
+    },
+    "time": 1756842057675,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2kamdV7jh8"
+    }
+  }
+]

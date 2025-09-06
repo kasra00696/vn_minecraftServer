@@ -1,10 +1,10 @@
 spawn:
   world: ''
-  x: ''
-  y: ''
-  z: ''
-  yaw: ''
-  pitch: ''
+  x: '0'
+  y: '1'
+  z: '0'
+  yaw: '180'
+  pitch: '0'
 firstspawn:
   world: ''
   x: ''

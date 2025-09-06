@@ -1,0 +1,10 @@
+name: Omrrah
+kits:
+  starter:
+    cooldown: 1756652444365
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756652452855
+    one_time: false
+    bought: false

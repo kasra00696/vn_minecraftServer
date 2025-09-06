@@ -1,0 +1,23 @@
+preset: FOOD_FABRICATOR_2
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  v: 3839
+  type: PLAYER_HEAD
+  amount: 24
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '{"text":"","extra":[{"text":"Organic Fertilizer","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"Content: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"Beetroot","italic":false,"color":"blue"}]}'
+    PublicBukkitValues: |-
+      {
+          "slimefun:slimefun_item": "FERTILIZER_BEETROOT"
+      }
+    skull-owner:
+      ==: PlayerProfile
+      uniqueId: 4a0ad746-1075-3628-a4ed-dbfdc259785d
+      name: CS-CoreLib
+      properties:
+      - name: textures
+        value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQzOWUzZjVhY2JlZTliZTRjNDI1OTI4OWQ2ZDlmMzVjNjM1ZmZhNjYxMTE0Njg3YjNlYTZkZGE4Yzc5In19fQ==

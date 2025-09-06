@@ -1,0 +1,99 @@
+rankshop:
+    name: "&2&lRank shop (page %page%)"
+    economy: VAULT
+    size: 45
+    buttons:
+      goBack:
+        slot: 40   
+      previousPage:
+        slot: 39
+      nextPage:
+        slot: 41
+    fillItem:
+        material: light_blue_stained_glass_pane
+        name: ""
+    items:
+       1:
+        type: item      
+        item:
+          material: netherite_sword      
+          quantity: 1
+          name: "&e&lKing"
+          lore:
+            - "&b/kit : &ayes"
+            - "&b/heal: &ayes"
+            - "&b/fiy: &ayes"
+            - "&b/fix: &ayes"
+            - "&b/afk: &ayes"
+            - "&b/nick: &ayes"
+            - "&b/feed: &ayes"
+            - "&b/kittycannon: &ayes"
+            - "&b/nv: &ayes"
+            - "&b/fix all: &ayes"
+            - "&b/craft: &ayes"
+            - "&bminion: &e30"
+            - "&c&l100Toman"
+          enchantments:
+            - power:3
+          flags:
+            - HIDE_ATTRIBUTES
+            - HIDE_ENCHANTS
+        buyPrice: -1
+        sellPrice: -1
+        slot: 13   
+       2:
+        type: item      
+        item:
+          material: diamond_sword   
+          quantity: 1
+          name: "&d&lWizard"
+          lore:
+            - "&b/kit : &ayes"
+            - "&b/heal: &ayes"
+            - "&b/fiy: &ayes"
+            - "&b/fix: &ayes"
+            - "&b/afk: &ayes"
+            - "&b/nick: &ayes"
+            - "&b/feed: &ayes"
+            - "&b/kittycannon: &ayes"
+            - "&b/nv: &4no"
+            - "&b/fix all: &4no"
+            - "&b/craft: &4no"
+            - "&bminion: &e20"
+            - "&c&l50Toman"
+          enchantments:
+            - power:2
+          flags:
+            - HIDE_ATTRIBUTES
+            - HIDE_ENCHANTS
+        buyPrice: -1
+        sellPrice: -1
+        slot: 21
+       3:
+        type: item      
+        item:
+          material: iron_sword      
+          quantity: 1
+          name: "&b&lAssassin"
+          lore:
+            - "&b/kit : &ayes"
+            - "&b/heal: &ayes"
+            - "&b/fiy: &ayes"
+            - "&b/fix: &ayes"
+            - "&b/afk: &ayes"
+            - "&b/nick: &4no"
+            - "&b/feed: &4no"
+            - "&b/kittycannon: &4no"
+            - "&b/nv: &4no"
+            - "&b/fix all: &4no"
+            - "&b/craft: &4no"
+            - "&bminion: &e10"
+            - "&c&l25Toman"
+          enchantments:
+            - power:2
+          flags:
+            - HIDE_ATTRIBUTES
+            - HIDE_ENCHANTS                                 
+        buyPrice: -1
+        sellPrice: -1
+        slot: 23

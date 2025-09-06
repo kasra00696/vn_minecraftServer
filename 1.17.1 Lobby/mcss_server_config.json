@@ -1,0 +1,26 @@
+{
+  "guid": "8a7ede77-1174-41db-be72-3162244125e6",
+  "serverTypeGuid": "f738fb40-223e-4010-bd07-af4caabdf3dd",
+  "name": "Lobby",
+  "description": "",
+  "creationDate": "2025-08-10T01:14:01.7823938+03:30",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "Elevated",
+  "startupMethode": "JavaStartupLine",
+  "allocatedMemory": 2048,
+  "allocatedMemorySuffix": "GB",
+  "startupLine": "java -Xms256M -Xmx[RAM]M -jar paper-1.17.1-411.jar",
+  "startupBatFilename": "",
+  "serverFileChecksum": "6cc1ee2f94253ce10b5374ed85fffc735a97d8f1b64db293683dfa24dd3cc05f",
+  "serverFileVersion": "1.17.1",
+  "javaPathOverride": "C:\\Program Files\\Java\\jdk-17.0.2\\bin\\java.exe",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}

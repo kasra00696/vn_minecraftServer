@@ -1,0 +1,14 @@
+name: maziar_MXR
+kits:
+  starter:
+    cooldown: 1756736724037
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756635589697
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756635697142
+    one_time: false
+    bought: false

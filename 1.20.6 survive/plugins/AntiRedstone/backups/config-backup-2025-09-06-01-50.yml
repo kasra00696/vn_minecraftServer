@@ -1,0 +1,92 @@
+# Cài đặt cơ bản
+enabled: true
+log-redstone-activity: false  # Tắt log hoạt động redstone để giảm spam
+notify-admins: true
+
+# Cài đặt ngôn ngữ (Language Settings)
+language:
+  default-language: "en"       # Ngôn ngữ mặc định (en = English, vi = Tiếng Việt)
+  auto-detect-locale: false    # Tự động phát hiện ngôn ngữ từ client locale
+  fallback-to-english: true    # Fallback về English nếu không tìm thấy translation
+  reload-on-change: true       # Reload language files khi thay đổi
+  available-languages:         # Danh sách ngôn ngữ có sẵn
+    - "en"                     # English (Default)
+    - "vi"                     # Tiếng Việt
+  per-player-language: true    # Cho phép mỗi player chọn ngôn ngữ riêng
+  save-player-preference: true # Lưu lựa chọn ngôn ngữ của player
+
+# Cài đặt chặn đặt redstone (mới)
+redstone-placement:
+  block-placement: false      # Bật/tắt chặn đặt redstone
+  allow-in-creative: true     # Cho phép đặt redstone trong chế độ creative
+  warn-player: true           # Cảnh báo người chơi khi cố gắng đặt redstone
+  warn-message: "&cKhông được phép đặt redstone khi bật chế độ Anti-Redstone!"
+  remove-placed-redstone: false  # Xóa redstone đã đặt
+  replacement-block: "AIR"    # Khối thay thế (nếu remove-placed-redstone=true)
+  show-particles: true        # Hiệu ứng particle khi chặn
+  play-sound: true            # Âm thanh cảnh báo
+
+# Cài đặt logging chuyên nghiệp
+logging:
+  console-level: WARNING        # Chỉ hiển thị WARNING và ERROR trong console
+  file-logging: true           # Ghi log chi tiết vào file
+  detailed-logging: false      # Tắt log chi tiết để tránh spam
+  log-violations: true         # Ghi log vi phạm
+  log-optimizations: false     # Tắt log tối ưu hóa thường xuyên
+  quiet-mode: true             # Chế độ im lặng - giảm thiểu thông báo
+
+# Cài đặt giới hạn bật tắt redstone
+redstone-toggle:
+  enabled: true           # Bật/tắt tính năng giới hạn số lần bật tắt
+  max-toggles: 5         # Số lần bật tắt tối đa trước khi bị chặn
+  time-window-ms: 1000    # Khoảng thời gian (2 giây) để đếm số lần bật tắt
+
+# Các cài đặt khác
+protected-worlds:
+  - world
+  - world_nether
+  - world_the_end
+
+effects:
+  show-effects: true
+  particle-type: FLAME
+  sound-effect: true
+
+# Cài đặt cảnh báo và xử phạt
+violation:
+  warn-message: "&cRedstone usage is not allowed when Anti-Redstone is enabled!"
+  kick-enabled: true
+  kick-threshold: 3
+  kick-message: "Anti-Redstone rule violation"
+
+# Cài đặt tương thích phiên bản
+compatibility:
+  enable-legacy-support: true
+
+# Cài đặt phân tích và tối ưu hóa mạch redstone (mới)
+redstone-analyzer:
+  enabled: true               # Bật/tắt tính năng phân tích mạch
+  max-circuit-size: 100       # Kích thước tối đa của mạch để phân tích
+  analyze-performance: true   # Phân tích hiệu suất
+  max-depth: 16               # Độ sâu quét tối đa
+  auto-analyze: true          # Tự động phân tích khi phát hiện lag
+  detailed-logging: false     # Ghi log chi tiết (có thể gây lag)
+
+# Cài đặt tối ưu hóa mạch redstone (mới)
+redstone-optimizer:
+  enabled: true                       # Bật/tắt tính năng tối ưu hóa
+  replace-with-non-functional: false  # Thay thế bằng khối không hoạt động
+  use-cooldown-period: true           # Sử dụng thời gian hồi
+  max-redstone-per-circuit: 50        # Số lượng redstone tối đa mỗi mạch
+  optimization-cooldown: 300          # Thời gian hồi tối ưu (giây)
+  auto-optimize: true                 # Tự động tối ưu mạch khi cần
+  preserve-main-components: true      # Bảo tồn các thành phần chính
+
+# Cài đặt thông báo và cảnh báo nâng cao (mới)
+redstone-notifications:
+  notify-on-analysis: false         # Tắt thông báo khi phân tích mạch
+  notify-on-optimization: true      # Thông báo khi tối ưu mạch
+  show-optimization-stats: false    # Tắt hiển thị thống kê tối ưu thường xuyên
+  alert-threshold: 75               # Ngưỡng cảnh báo (% độ phức tạp)
+  admin-only-notifications: true    # Chỉ thông báo cho admin
+  summary-interval: 300             # Gửi báo cáo tổng hợp mỗi 5 phút (giây)

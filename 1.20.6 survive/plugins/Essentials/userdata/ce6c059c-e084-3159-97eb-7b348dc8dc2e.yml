@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756900361328
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756900405396
+  login: 1756900157052
+money: '10000'
+last-account-name: JUMANJL
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -571.372762135029
+  y: 79.0
+  z: -347.56386099440226
+  yaw: -130.2972869873047
+  pitch: -31.79999542236328
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 88.28066304157409
+  y: 73.25220334025373
+  z: 415.34889738096706
+  yaw: 136.1756134033203
+  pitch: 90.0

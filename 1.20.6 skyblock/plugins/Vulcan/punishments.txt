@@ -1,0 +1,112 @@
+--------------[ usernotbigdidy was punished for Motion (Type E) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:50:08
+
+Location:
+ - World: world
+ - X: -89.64401543439884
+ - Y: 46.5
+ - Z: 53.214235577674565
+
+Information:
+ - UUID: 07d1949d-8cdc-3388-97b7-794180d95d67
+ - Keep Alive Ping: 0
+ - Transaction Ping: 807
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 2.6 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 0
+ - Movement Violations: 4
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 38
+ - Since Riptide Ticks: 250
+ - Flying Delay: 5
+ - Since Velocity Ticks: 52
+ - Since Firework Ticks: 250
+ - Ticks Existed: 52
+ - Since Vehicle Ticks: 150
+ - Since Liquid Ticks: 150
+ - Queued Transactions: 0
+ - Joined: 4 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Motion (Type E) [VL: 3] (Impossible movement values.)
+ - Speed (Type E) [VL: 1] (Invalid friction.)
+ - Strafe (Type A) [VL: 1] (Moving incorrectly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ usernotbigdidy was punished for Motion (Type E) ]--------------
+
+Date & Time:
+ - Date: 09-03-2025
+ - Time: 14:50:23
+
+Location:
+ - World: world
+ - X: -68.70054629829426
+ - Y: 40.39918462330866
+ - Z: 58.043744201478695
+
+Information:
+ - UUID: 07d1949d-8cdc-3388-97b7-794180d95d67
+ - Keep Alive Ping: 0
+ - Transaction Ping: 52
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.20.5
+ - Last Damage: 2.4 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 0
+ - Movement Violations: 7
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 47
+ - Since Riptide Ticks: 244
+ - Flying Delay: 48
+ - Since Velocity Ticks: 48
+ - Since Firework Ticks: 244
+ - Ticks Existed: 48
+ - Since Vehicle Ticks: 144
+ - Since Liquid Ticks: 144
+ - Queued Transactions: 0
+ - Joined: 6 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type A) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 1] (Invalid Y-Axis movement.)
+ - Flight (Type F) [VL: 2] (Invalid Y-Axis movement.)
+ - Motion (Type E) [VL: 3] (Impossible movement values.)
+ - Speed (Type E) [VL: 1] (Invalid friction.)
+ - Strafe (Type A) [VL: 1] (Moving incorrectly in the air.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

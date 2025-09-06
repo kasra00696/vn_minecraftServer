@@ -1,0 +1,136 @@
+cooldown: 561600
+display:
+  default:
+    id: IRON_SWORD
+    name: '&c&lIron &cKit'
+    amount: 1
+    lore:
+    - '&7Cooldown: &c6.5 days'
+    - ''
+    - '&aLeft Click to claim!'
+    - '&bRight Click to preview!'
+    item_flags:
+    - HIDE_ATTRIBUTES
+  cooldown:
+    id: IRON_AXE
+    name: '&c&lIron &cKit'
+    amount: 1
+    lore:
+    - '&fThis kit includes:'
+    - '&8- &7x1 Iron Axe'
+    - '&8- &7x1 Iron Pickaxe'
+    - '&8- &7x1 Iron Sword'
+    - ' '
+    - '&cYou need to wait &7%time%'
+    - '&cto claim this kit again.'
+    item_flags:
+    - HIDE_ATTRIBUTES
+one_time: false
+auto_armor: false
+permission_required: true
+clear_inventory: false
+save_original_items: false
+allow_placeholders_on_original_items: false
+items:
+  '1':
+    id: DIAMOND_HELMET
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - PROTECTION_ENVIRONMENTAL;4
+    - THORNS;3
+    - DURABILITY;3
+    preview_slot: 0
+  '2':
+    id: DIAMOND_CHESTPLATE
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - PROTECTION_ENVIRONMENTAL;4
+    - THORNS;3
+    - DURABILITY;3
+    preview_slot: 1
+  '3':
+    id: DIAMOND_LEGGINGS
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - PROTECTION_ENVIRONMENTAL;4
+    - THORNS;3
+    - DURABILITY;3
+    preview_slot: 2
+  '4':
+    id: DIAMOND_BOOTS
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - PROTECTION_ENVIRONMENTAL;4
+    - SOUL_SPEED;3
+    - THORNS;3
+    - DURABILITY;3
+    preview_slot: 3
+  '5':
+    id: DIAMOND_SWORD
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - DAMAGE_ALL;5
+    - DURABILITY;3
+    preview_slot: 4
+  '6':
+    id: DIAMOND_PICKAXE
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - DIG_SPEED;5
+    - LOOT_BONUS_BLOCKS;5
+    - DURABILITY;3
+    preview_slot: 5
+  '7':
+    id: DIAMOND_AXE
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - DIG_SPEED;5
+    - DURABILITY;3
+    preview_slot: 6
+  '8':
+    id: DIAMOND_SHOVEL
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - DIG_SPEED;5
+    - DURABILITY;3
+    preview_slot: 7
+  '9':
+    id: BOW
+    name: '&d&lIron'
+    amount: 1
+    enchants:
+    - ARROW_FIRE;1
+    - ARROW_INFINITE;1
+    - ARROW_DAMAGE;5
+    - ARROW_KNOCKBACK;2
+    - DURABILITY;3
+    preview_slot: 8
+  '10':
+    id: GOLDEN_APPLE
+    name: '&d&lIron'
+    amount: 32
+    preview_slot: 9
+  '11':
+    id: ENCHANTED_GOLDEN_APPLE
+    name: '&d&lIron'
+    amount: 32
+    preview_slot: 10
+actions:
+  claim:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

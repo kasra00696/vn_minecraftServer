@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757106462319
+  login: 1757104509573
+money: '4543.0'
+last-account-name: RichPlant
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -26.00209383257838
+  y: 56.0
+  z: 917.136704714917
+  yaw: 130.00779724121094
+  pitch: 17.099994659423828
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -11.380488745620022
+  y: 56.5
+  z: 913.063653697677
+  yaw: 63.8486328125
+  pitch: 10.950003623962402

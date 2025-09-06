@@ -1,0 +1,58 @@
+[2025-09-05 22:19:16] === AntiRedstone Log Started ===
+[2025-09-05 22:30:09] === AntiRedstone Log Started ===
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by SYSTEM at wild [238, 63, 357]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:00] [INFO] AntiRedstone Summary (last 5 minutes): 1 violations, 0 optimizations, 0 analyses
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by mahdimzl at Location{world=CraftWorld{name=wild},x=238.38046743471787,y=62.568749090566826,z=355.6116021827732,pitch=52.63292,yaw=-6.2219806}: Violation count: 1/3
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by SYSTEM at wild [237, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by mahdimzl at Location{world=CraftWorld{name=wild},x=238.38046743471787,y=62.568749090566826,z=355.6116021827732,pitch=52.63292,yaw=-6.2219806}: Violation count: 2/3
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by SYSTEM at wild [237, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by mahdimzl at Location{world=CraftWorld{name=wild},x=238.38046743471787,y=62.568749090566826,z=355.6116021827732,pitch=52.63292,yaw=-6.2219806}: Violation count: 3/3
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by SYSTEM at wild [239, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by hosseinansari at Location{world=CraftWorld{name=wild},x=243.06479096481954,y=64.0,z=356.692808335489,pitch=21.000044,yaw=-79.4476}: Violation count: 1/3
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by SYSTEM at wild [239, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:00] [VIOLATION] Redstone violation by hosseinansari at Location{world=CraftWorld{name=wild},x=243.06479096481954,y=64.0,z=356.692808335489,pitch=21.000044,yaw=-79.4476}: Violation count: 2/3
+[2025-09-05 22:59:27] [VIOLATION] Redstone violation by SYSTEM at wild [234, 63, 357]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:27] [VIOLATION] Redstone violation by mahdimzl at Location{world=CraftWorld{name=wild},x=234.53586400798304,y=62.89244511988357,z=355.30000001192093,pitch=51.98122,yaw=1.3825212}: Violation count: 4/3
+[2025-09-05 22:59:27] [VIOLATION] Redstone violation by SYSTEM at wild [233, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:27] [VIOLATION] Redstone violation by SYSTEM at wild [233, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:27] [VIOLATION] Redstone violation by SYSTEM at wild [235, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 22:59:27] [VIOLATION] Redstone violation by SYSTEM at wild [235, 63, 358]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [157, 90, 452]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [INFO] AntiRedstone Summary (last 5 minutes): 16 violations, 0 optimizations, 0 analyses
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by Killo_oMaster at Location{world=CraftWorld{name=wild},x=157.87374205128376,y=89.99027346014135,z=454.30000001192093,pitch=54.300037,yaw=155.56125}: Violation count: 1/3
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [168, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [168, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [170, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [170, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [169, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [169, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [171, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [171, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [164, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [164, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [166, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [166, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [165, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [165, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [167, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [167, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [160, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by Killo_oMaster at Location{world=CraftWorld{name=wild},x=157.87374205128376,y=89.99027346014135,z=454.30000001192093,pitch=54.300037,yaw=155.56125}: Violation count: 2/3
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [160, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by Killo_oMaster at Location{world=CraftWorld{name=wild},x=157.87374205128376,y=89.99027346014135,z=454.30000001192093,pitch=54.300037,yaw=155.56125}: Violation count: 3/3
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [162, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [162, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [161, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [161, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [163, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [163, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [156, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [156, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [158, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [158, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [157, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [157, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [155, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [155, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [159, 91, 451]: Exceeded 5 toggles in 1.0s
+[2025-09-05 23:34:44] [VIOLATION] Redstone violation by SYSTEM at wild [159, 91, 451]: Exceeded 5 toggles in 1.0s

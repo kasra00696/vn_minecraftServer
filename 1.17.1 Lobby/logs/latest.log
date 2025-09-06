@@ -1,25 +1,346 @@
-[05:54:30] [Server thread/INFO]: Stopping server
-[05:54:30] [Server thread/INFO]: [ZNPCsPlus] Disabling ZNPCsPlus v2.0.0
-[05:54:30] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.1
-[05:54:30] [Server thread/INFO]: [ajParkour] Disabling ajParkour v2.12.10
-[05:54:30] [Server thread/INFO]: [ajParkour] Removing all active players from parkour because the plugin is disabling.
-[05:54:30] [Server thread/INFO]: ajParkour v2.12.10 by ajgeiss0702 has been disabled!
-[05:54:30] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
-[05:54:30] [Server thread/INFO]: [TAB] Disabled in 13ms
-[05:54:30] [Server thread/INFO]: [ajQueue] Disabling ajQueue v2.7.0
-[05:54:30] [Server thread/INFO]: [GadgetsMenu] Disabling GadgetsMenu v4.19.0
-[05:54:30] [Server thread/INFO]: [GadgetsMenu] SQLite database connection has been closed.
-[05:54:30] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
-[05:54:30] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[05:54:30] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[05:54:30] [Server thread/INFO]: [BowHub] Disabling BowHub v6.0
-[05:54:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
-[05:54:31] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[05:54:31] [Server thread/INFO]: Saving players
-[05:54:31] [Server thread/INFO]: Saving worlds
-[05:54:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:54:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:54:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[05:54:31] [Server thread/INFO]: Flushing Chunk IO
-[05:54:31] [Server thread/INFO]: Closing Thread Pool
-[05:54:31] [Server thread/INFO]: Closing Server
+[00:03:32] [User Authenticator #61/INFO]: UUID of player Mehdi_ping is f208c629-549d-3cea-a2e4-71b6062c59f6
+[00:03:32] [Server thread/INFO]: + Mehdi_ping Connected
+[00:03:32] [Server thread/INFO]: Mehdi_ping[/127.0.0.1:64531] logged in with entity id 225 at ([world]8.5, 19.0, 8.5)
+[00:05:22] [Server thread/INFO]: Mehdi_ping lost connection: Disconnected
+[00:05:22] [Server thread/INFO]: - Mehdi_ping Disconnected
+[00:08:59] [User Authenticator #62/INFO]: UUID of player Mehdi_ping is f208c629-549d-3cea-a2e4-71b6062c59f6
+[00:08:59] [Server thread/INFO]: + Mehdi_ping Connected
+[00:08:59] [Server thread/INFO]: Mehdi_ping[/127.0.0.1:65346] logged in with entity id 251 at ([world]12.827137449835273, 18.0, 35.45617145436656)
+[00:16:06] [User Authenticator #63/INFO]: UUID of player aermin456 is c4712864-0ba0-3873-9f48-a5f6dfe8d8c4
+[00:16:07] [Server thread/INFO]: + aermin456 Connected
+[00:16:07] [Server thread/INFO]: aermin456[/127.0.0.1:50049] logged in with entity id 252 at ([world]13.345800985709838, 18.0, 35.207705370449695)
+[00:16:28] [User Authenticator #63/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[00:16:28] [Server thread/INFO]: + Killo_oMaster Connected
+[00:16:28] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:50095] logged in with entity id 253 at ([world]13.791640773136589, 18.5, 36.312109943393516)
+[00:16:35] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[00:16:35] [Server thread/INFO]: - Killo_oMaster Disconnected
+[00:17:00] [User Authenticator #63/INFO]: UUID of player RichPlant is 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+[00:17:00] [Server thread/INFO]: + RichPlant Connected
+[00:17:00] [Server thread/INFO]: RichPlant[/127.0.0.1:50176] logged in with entity id 254 at ([world]8.245988826038145, 18.0, 10.230164957928174)
+[00:17:03] [Server thread/INFO]: RichPlant issued server command: /joinq survive
+[00:17:04] [Server thread/INFO]: RichPlant lost connection: Disconnected
+[00:17:04] [Server thread/INFO]: - RichPlant Disconnected
+[00:23:43] [Server thread/INFO]: aermin456 lost connection: Disconnected
+[00:23:43] [Server thread/INFO]: - aermin456 Disconnected
+[00:31:55] [User Authenticator #64/INFO]: UUID of player RichPlant is 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+[00:31:55] [Server thread/INFO]: + RichPlant Connected
+[00:31:55] [Server thread/INFO]: RichPlant[/127.0.0.1:52470] logged in with entity id 268 at ([world]9.162586213718594, 18.0, 10.64505566413628)
+[00:31:58] [Server thread/INFO]: RichPlant issued server command: /joinq survive
+[00:31:58] [Server thread/INFO]: RichPlant lost connection: Disconnected
+[00:31:58] [Server thread/INFO]: - RichPlant Disconnected
+[00:34:44] [User Authenticator #65/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[00:34:44] [Server thread/INFO]: + Killo_oMaster Connected
+[00:34:44] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:52906] logged in with entity id 269 at ([world]14.024490916558518, 18.5, 36.98034681357977)
+[00:35:04] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[00:35:05] [Server thread/INFO]: - Killo_oMaster Disconnected
+[00:35:06] [User Authenticator #65/INFO]: UUID of player iran1234 is ec089d27-be1e-36db-9eb1-b36678ee3b32
+[00:35:06] [Paper Async Task Handler Thread - 65/INFO]: [Essentials] Created a User for iran1234 (ec089d27-be1e-36db-9eb1-b36678ee3b32) for non Bukkit type: org.bukkit.craftbukkit.v1_17_R1.entity.CraftPlayer
+[00:35:06] [Server thread/INFO]: + iran1234 Connected
+[00:35:06] [Server thread/INFO]: iran1234[/127.0.0.1:52968] logged in with entity id 270 at ([world]8.5, 19.0, 8.5)
+[00:35:40] [Server thread/INFO]: iran1234 lost connection: Disconnected
+[00:35:40] [Server thread/INFO]: - iran1234 Disconnected
+[00:36:36] [User Authenticator #66/INFO]: UUID of player aermin456 is c4712864-0ba0-3873-9f48-a5f6dfe8d8c4
+[00:36:36] [Server thread/INFO]: + aermin456 Connected
+[00:36:36] [Server thread/INFO]: aermin456[/127.0.0.1:53192] logged in with entity id 272 at ([world]13.108538786832375, 18.0, 36.28157759436782)
+[00:36:47] [Server thread/INFO]: aermin456 lost connection: Disconnected
+[00:36:47] [Server thread/INFO]: - aermin456 Disconnected
+[00:37:09] [User Authenticator #66/INFO]: UUID of player RichPlant is 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+[00:37:10] [Server thread/INFO]: + RichPlant Connected
+[00:37:10] [Server thread/INFO]: RichPlant[/127.0.0.1:53282] logged in with entity id 273 at ([world]8.489758855847457, 18.0, 8.49239375428382)
+[00:37:16] [Server thread/INFO]: RichPlant issued server command: /joinq survive
+[00:37:16] [Server thread/INFO]: RichPlant lost connection: Disconnected
+[00:37:16] [Server thread/INFO]: - RichPlant Disconnected
+[00:38:43] [User Authenticator #67/INFO]: UUID of player aermin456 is c4712864-0ba0-3873-9f48-a5f6dfe8d8c4
+[00:38:43] [Server thread/INFO]: + aermin456 Connected
+[00:38:43] [Server thread/INFO]: aermin456[/127.0.0.1:53526] logged in with entity id 274 at ([world]13.90970691128291, 18.5, 36.30549136175239)
+[00:38:43] [User Authenticator #67/INFO]: UUID of player iran1234 is ec089d27-be1e-36db-9eb1-b36678ee3b32
+[00:38:43] [Server thread/INFO]: + iran1234 Connected
+[00:38:43] [Server thread/INFO]: iran1234[/127.0.0.1:53527] logged in with entity id 275 at ([world]12.548443711000967, 18.0, 36.118556192583)
+[00:38:58] [Server thread/INFO]: iran1234 lost connection: Disconnected
+[00:38:58] [Server thread/INFO]: - iran1234 Disconnected
+[01:00:54] [Server thread/INFO]: Mehdi_ping lost connection: Disconnected
+[01:00:54] [Server thread/INFO]: - Mehdi_ping Disconnected
+[01:02:44] [Server thread/INFO]: aermin456 lost connection: Disconnected
+[01:02:44] [Server thread/INFO]: - aermin456 Disconnected
+[01:05:04] [User Authenticator #68/INFO]: UUID of player RichPlant is 3e43c67b-bd73-32ec-923b-3a4d8e8ba696
+[01:05:05] [Server thread/INFO]: + RichPlant Connected
+[01:05:05] [Server thread/INFO]: RichPlant[/127.0.0.1:57514] logged in with entity id 276 at ([world]8.489758855847457, 18.0, 8.49239375428382)
+[01:05:08] [Server thread/INFO]: RichPlant issued server command: /joinq survive
+[01:05:08] [Server thread/INFO]: RichPlant lost connection: Disconnected
+[01:05:08] [Server thread/INFO]: - RichPlant Disconnected
+[01:05:31] [User Authenticator #68/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[01:05:31] [Server thread/INFO]: + kasraILOLI Connected
+[01:05:31] [Server thread/INFO]: kasraILOLI[/127.0.0.1:57579] logged in with entity id 277 at ([world]24.838639160559698, 23.0, 40.22747175034071)
+[01:05:34] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[01:05:34] [Server thread/INFO]: - kasraILOLI Disconnected
+[01:27:15] [User Authenticator #69/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[01:27:15] [Server thread/INFO]: + kasraILOLI Connected
+[01:27:15] [Server thread/INFO]: kasraILOLI[/127.0.0.1:60839] logged in with entity id 278 at ([world]15.200865227474107, 18.0, 34.07474270896126)
+[01:27:25] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[01:27:25] [Server thread/INFO]: - kasraILOLI Disconnected
+[01:29:55] [User Authenticator #70/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[01:29:55] [Server thread/INFO]: + kasraILOLI Connected
+[01:29:55] [Server thread/INFO]: kasraILOLI[/127.0.0.1:61259] logged in with entity id 279 at ([world]14.287334752488144, 18.5, 36.03957060742054)
+[01:30:04] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:30:04] [Server thread/INFO]: [TAB] Disabled in 9ms
+[01:30:04] [Server thread/INFO]: [TAB] Enabled in 66ms
+[01:31:21] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:31:21] [Server thread/INFO]: [TAB] Disabled in 2ms
+[01:31:21] [Server thread/INFO]: [TAB] Enabled in 46ms
+[01:31:36] [User Authenticator #71/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[01:31:36] [Server thread/INFO]: + Killo_oMaster Connected
+[01:31:36] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:61511] logged in with entity id 280 at ([world]12.23429867380598, 18.0, 36.1723481825506)
+[01:31:49] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[01:31:49] [Server thread/INFO]: - Killo_oMaster Disconnected
+[01:31:57] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:31:57] [Server thread/INFO]: [TAB] Disabled in 3ms
+[01:31:57] [Server thread/INFO]: [TAB] Enabled in 38ms
+[01:32:22] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:32:22] [Server thread/INFO]: [TAB] Disabled in 3ms
+[01:32:22] [Server thread/INFO]: [TAB] Enabled in 32ms
+[01:33:41] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:33:41] [Server thread/INFO]: [TAB] Disabled in 2ms
+[01:33:41] [Server thread/INFO]: [TAB] Enabled in 28ms
+[01:36:06] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:36:06] [Server thread/INFO]: [TAB] Disabled in 3ms
+[01:36:06] [Server thread/INFO]: [TAB] Enabled in 33ms
+[01:36:15] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:36:15] [Server thread/INFO]: [TAB] Disabled in 2ms
+[01:36:15] [Server thread/INFO]: [TAB] Enabled in 28ms
+[01:38:50] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:38:50] [Server thread/INFO]: [TAB] Disabled in 3ms
+[01:38:50] [Server thread/INFO]: [TAB] Enabled in 25ms
+[01:39:19] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:39:19] [Server thread/INFO]: [TAB] Disabled in 2ms
+[01:39:19] [Server thread/INFO]: [TAB] Enabled in 26ms
+[01:39:43] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:39:43] [Server thread/INFO]: [TAB] Disabled in 2ms
+[01:39:43] [Server thread/INFO]: [TAB] Enabled in 26ms
+[01:39:48] [Server thread/INFO]: kasraILOLI issued server command: /tab reload
+[01:39:48] [Server thread/INFO]: [TAB] Disabled in 0ms
+[01:39:48] [Server thread/INFO]: [TAB] Enabled in 23ms
+[01:39:52] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[01:39:52] [Server thread/INFO]: - kasraILOLI Disconnected
+[02:16:39] [User Authenticator #72/INFO]: UUID of player coolhossein is f4ea9dec-76a0-3d31-9777-2ed0d476748e
+[02:16:40] [Server thread/INFO]: + coolhossein Connected
+[02:16:40] [Server thread/INFO]: coolhossein[/127.0.0.1:51946] logged in with entity id 281 at ([world]8.489758855847457, 18.0, 8.49239375428382)
+[02:16:51] [Server thread/INFO]: coolhossein issued server command: /joinq survive
+[02:17:07] [Server thread/INFO]: coolhossein lost connection: Disconnected
+[02:17:07] [Server thread/INFO]: - coolhossein Disconnected
+[02:38:13] [User Authenticator #73/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[02:38:14] [Server thread/INFO]: + Killo_oMaster Connected
+[02:38:14] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:55160] logged in with entity id 282 at ([world]13.894861900042256, 18.0, 34.62668217856572)
+[02:38:31] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[02:38:31] [Server thread/INFO]: - Killo_oMaster Disconnected
+[02:41:42] [User Authenticator #74/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[02:41:42] [Server thread/INFO]: + kasraILOLI Connected
+[02:41:42] [Server thread/INFO]: kasraILOLI[/127.0.0.1:55692] logged in with entity id 283 at ([world]14.974186711279309, 18.035840625044557, 37.92987311692779)
+[02:41:50] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[02:41:50] [Server thread/INFO]: - kasraILOLI Disconnected
+[03:15:40] [User Authenticator #75/INFO]: UUID of player Killo_oMaster is 2c2712a7-4501-379f-8fb2-d57623daf64d
+[03:15:40] [User Authenticator #75/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[03:15:40] [Server thread/INFO]: + Killo_oMaster Connected
+[03:15:40] [Server thread/INFO]: Killo_oMaster[/127.0.0.1:60743] logged in with entity id 284 at ([world]14.982749083178376, 18.0, 35.49533434821374)
+[03:15:40] [Server thread/INFO]: + kasraILOLI Connected
+[03:15:40] [Server thread/INFO]: kasraILOLI[/127.0.0.1:60744] logged in with entity id 285 at ([world]14.530578176567811, 18.0, 37.76630010596075)
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:38] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:18:45] [Server thread/INFO]: Killo_oMaster issued server command: /joinq survive
+[03:18:49] [Server thread/INFO]: kasraILOLI issued server command: /npc holo add &5&lParkour
+[03:18:54] [Server thread/INFO]: kasraILOLI issued server command: /npc holo add parkour &5&lParkour
+[03:19:00] [Server thread/INFO]: kasraILOLI issued server command: /npc holo delete parkour 0
+[03:20:11] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:20:11] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:20:11] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:20:11] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:20:16] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[03:20:16] [Server thread/INFO]: - kasraILOLI Disconnected
+[03:20:30] [Server thread/INFO]: Killo_oMaster lost connection: Disconnected
+[03:20:30] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:20:30] [Server thread/INFO]: GadgetsMenu » You've successfully added 2 mystery dust to Killo_oMaster.
+[03:20:30] [Server thread/INFO]: - Killo_oMaster Disconnected
+[04:27:38] [User Authenticator #76/INFO]: UUID of player MmdScor is 176d8f96-b927-3299-913c-8e35526f1ff9
+[04:27:38] [Server thread/INFO]: + MmdScor Connected
+[04:27:38] [Server thread/INFO]: MmdScor[/127.0.0.1:55169] logged in with entity id 287 at ([world]10.56443359441047, 18.19366615334313, 21.106181907725215)
+[04:27:41] [Server thread/INFO]: MmdScor issued server command: /joinq survive
+[04:27:42] [Server thread/INFO]: MmdScor lost connection: Disconnected
+[04:27:42] [Server thread/INFO]: - MmdScor Disconnected
+[06:06:04] [User Authenticator #77/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:06:04] [Server thread/INFO]: + Khalvach Connected
+[06:06:04] [Server thread/INFO]: Khalvach[/127.0.0.1:53381] logged in with entity id 288 at ([world]8.5, 19.0, 8.5)
+[06:06:17] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[06:06:17] [Server thread/INFO]: - Khalvach Disconnected
+[06:26:35] [User Authenticator #78/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:26:35] [Server thread/INFO]: + Khalvach Connected
+[06:26:35] [Server thread/INFO]: Khalvach[/127.0.0.1:56422] logged in with entity id 290 at ([world]13.57301699230042, 18.0, 35.45604590389759)
+[06:30:48] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[06:30:48] [Server thread/INFO]: - Khalvach Disconnected
+[06:33:12] [User Authenticator #79/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:33:12] [Server thread/INFO]: + Khalvach Connected
+[06:33:12] [Server thread/INFO]: Khalvach[/127.0.0.1:57393] logged in with entity id 291 at ([world]9.126073867215817, 18.0, 35.8580906107075)
+[06:33:54] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[06:33:54] [Server thread/INFO]: - Khalvach Disconnected
+[06:57:25] [User Authenticator #80/INFO]: UUID of player Khalvach is 39a4d797-5a8c-38b3-91a1-29a69541dd50
+[06:57:25] [Server thread/INFO]: + Khalvach Connected
+[06:57:25] [Server thread/INFO]: Khalvach[/127.0.0.1:61006] logged in with entity id 292 at ([world]13.240509942492599, 18.0, 36.1867476581627)
+[06:57:41] [Server thread/INFO]: Khalvach lost connection: Disconnected
+[06:57:41] [Server thread/INFO]: - Khalvach Disconnected
+[08:59:25] [User Authenticator #81/INFO]: UUID of player sjsj is 829d2862-7ca9-3d6c-8139-1e94154a4787
+[08:59:25] [Server thread/INFO]: + sjsj Connected
+[08:59:25] [Server thread/INFO]: sjsj[/127.0.0.1:62719] logged in with entity id 293 at ([world]4.04067916362431, 18.0, 36.60548074116456)
+[08:59:30] [Server thread/INFO]: sjsj lost connection: Disconnected
+[08:59:30] [Server thread/INFO]: - sjsj Disconnected
+[09:18:36] [User Authenticator #82/INFO]: UUID of player GTT is a6a3a192-3a5c-3e3e-8511-fd1facf12370
+[09:18:36] [Server thread/INFO]: + GTT Connected
+[09:18:36] [Server thread/INFO]: GTT[/127.0.0.1:49168] logged in with entity id 294 at ([world]11.84959837591349, 18.0, 37.48950544817189)
+[09:18:41] [Server thread/INFO]: GTT lost connection: Disconnected
+[09:18:41] [Server thread/INFO]: - GTT Disconnected
+[09:54:16] [User Authenticator #83/INFO]: UUID of player sjsj is 829d2862-7ca9-3d6c-8139-1e94154a4787
+[09:54:16] [Server thread/INFO]: + sjsj Connected
+[09:54:16] [Server thread/INFO]: sjsj[/127.0.0.1:54487] logged in with entity id 295 at ([world]12.633217784213791, 18.0, 35.78765633280736)
+[09:54:22] [Server thread/INFO]: sjsj lost connection: Disconnected
+[09:54:22] [Server thread/INFO]: - sjsj Disconnected
+[10:05:53] [User Authenticator #84/INFO]: UUID of player sjsj is 829d2862-7ca9-3d6c-8139-1e94154a4787
+[10:05:53] [Server thread/INFO]: + sjsj Connected
+[10:05:53] [Server thread/INFO]: sjsj[/127.0.0.1:56202] logged in with entity id 296 at ([world]13.883202522910606, 18.04289683901331, 35.31679833748323)
+[10:05:56] [Server thread/INFO]: sjsj lost connection: Disconnected
+[10:05:56] [Server thread/INFO]: - sjsj Disconnected
+[12:35:56] [User Authenticator #85/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[12:35:56] [Server thread/INFO]: + kasraILOLI Connected
+[12:35:56] [Server thread/INFO]: kasraILOLI[/127.0.0.1:62092] logged in with entity id 297 at ([world]7.932455620026042, 17.0, -2.21856672234935)
+[12:36:00] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[12:36:00] [Server thread/INFO]: - kasraILOLI Disconnected
+[12:40:35] [User Authenticator #86/INFO]: UUID of player mahdimzl is 079a87d0-1e16-33a9-a3d9-9c130fd0ea23
+[12:40:35] [Server thread/INFO]: + mahdimzl Connected
+[12:40:35] [Server thread/INFO]: mahdimzl[/127.0.0.1:62800] logged in with entity id 298 at ([world]13.570882549227601, 18.0, 34.48826413844161)
+[12:41:39] [Server thread/INFO]: mahdimzl lost connection: Disconnected
+[12:41:39] [Server thread/INFO]: - mahdimzl Disconnected
+[12:54:42] [User Authenticator #87/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[12:54:42] [User Authenticator #87/INFO]: UUID of player mahdimzl is 079a87d0-1e16-33a9-a3d9-9c130fd0ea23
+[12:54:42] [Server thread/INFO]: + kasraILOLI Connected
+[12:54:42] [Server thread/INFO]: kasraILOLI[/127.0.0.1:65115] logged in with entity id 299 at ([world]15.662750932495355, 18.0, 37.98370014588006)
+[12:54:42] [Server thread/INFO]: + mahdimzl Connected
+[12:54:42] [Server thread/INFO]: mahdimzl[/127.0.0.1:65116] logged in with entity id 300 at ([world]14.442248778911313, 18.5, 35.94970822344684)
+[12:58:39] [User Authenticator #88/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[12:58:39] [Server thread/INFO]: + Seppro_24 Connected
+[12:58:39] [Server thread/INFO]: Seppro_24[/127.0.0.1:49381] logged in with entity id 301 at ([world]8.5, 19.0, 8.5)
+[12:58:47] [Async Chat Thread - #1/INFO]: <mahdimzl> hi
+[12:58:57] [Async Chat Thread - #1/INFO]: <kasraILOLI> hi
+[12:58:57] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[12:58:57] [Server thread/INFO]: - kasraILOLI Disconnected
+[12:59:00] [Async Chat Thread - #1/INFO]: <Seppro_24> .
+[12:59:03] [Async Chat Thread - #1/INFO]: <Seppro_24> bah bah
+[12:59:09] [Server thread/INFO]: mahdimzl lost connection: Disconnected
+[12:59:09] [Server thread/INFO]: - mahdimzl Disconnected
+[12:59:09] [Async Chat Thread - #1/INFO]: <Seppro_24> che server gashangi
+[12:59:14] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[12:59:14] [Server thread/INFO]: - Seppro_24 Disconnected
+[12:59:58] [User Authenticator #89/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[12:59:58] [Server thread/INFO]: + kasraILOLI Connected
+[12:59:58] [Server thread/INFO]: kasraILOLI[/127.0.0.1:49604] logged in with entity id 303 at ([world]-5.283599301780561, 12.459647080526244, -104.87737704075488)
+[13:00:01] [User Authenticator #89/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:00:01] [Server thread/INFO]: + Seppro_24 Connected
+[13:00:01] [Server thread/INFO]: Seppro_24[/127.0.0.1:49614] logged in with entity id 304 at ([world]13.030928266957147, 18.0, 34.504958819894206)
+[13:00:01] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[13:00:01] [Server thread/INFO]: - kasraILOLI Disconnected
+[13:00:10] [Server thread/INFO]: Seppro_24 issued server command: /tpa
+[13:00:10] [Server thread/INFO]: [Essentials] Seppro_24 was denied access to command.
+[13:00:15] [User Authenticator #89/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[13:00:15] [Server thread/INFO]: + kasraILOLI Connected
+[13:00:15] [Server thread/INFO]: kasraILOLI[/127.0.0.1:49658] logged in with entity id 305 at ([world]15.726009044653672, 18.0, 35.58360139405384)
+[13:00:18] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[13:00:18] [Server thread/INFO]: - kasraILOLI Disconnected
+[13:00:24] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:00:24] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:00:38] [User Authenticator #89/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[13:00:38] [Server thread/INFO]: + kasraILOLI Connected
+[13:00:38] [Server thread/INFO]: kasraILOLI[/127.0.0.1:49725] logged in with entity id 306 at ([world]13.61232338281741, 18.0, 34.53520209350525)
+[13:01:24] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[13:01:24] [Server thread/INFO]: - kasraILOLI Disconnected
+[13:02:58] [User Authenticator #90/INFO]: UUID of player kasraILOLI is 7c07f034-b1d8-3876-9ec2-259f2b850ea0
+[13:02:58] [Server thread/INFO]: + kasraILOLI Connected
+[13:02:58] [Server thread/INFO]: kasraILOLI[/127.0.0.1:50128] logged in with entity id 307 at ([world]17.38478152376345, 20.0, 45.32568716913495)
+[13:03:02] [Server thread/INFO]: kasraILOLI lost connection: Disconnected
+[13:03:02] [Server thread/INFO]: - kasraILOLI Disconnected
+[13:14:03] [User Authenticator #91/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:14:03] [Server thread/INFO]: + Seppro_24 Connected
+[13:14:03] [Server thread/INFO]: Seppro_24[/127.0.0.1:51825] logged in with entity id 308 at ([world]12.994042279174941, 18.0, 36.1426749678418)
+[13:14:29] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:14:29] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:15:02] [User Authenticator #91/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:15:02] [Server thread/INFO]: + Seppro_24 Connected
+[13:15:02] [Server thread/INFO]: Seppro_24[/127.0.0.1:51972] logged in with entity id 310 at ([world]12.832472471152723, 18.0, 34.94904207692881)
+[13:15:39] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:15:39] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:16:27] [User Authenticator #92/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:16:27] [Server thread/INFO]: + Seppro_24 Connected
+[13:16:27] [Server thread/INFO]: Seppro_24[/127.0.0.1:52182] logged in with entity id 311 at ([world]13.630041034541843, 18.0, 35.21800095495606)
+[13:16:44] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:16:44] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:20:16] [User Authenticator #93/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:20:16] [Server thread/INFO]: + Seppro_24 Connected
+[13:20:16] [Server thread/INFO]: Seppro_24[/127.0.0.1:52755] logged in with entity id 313 at ([world]12.117375090170105, 18.0, 29.206554921305525)
+[13:20:27] [Server thread/INFO]: Seppro_24 issued server command: /joinq survive
+[13:20:27] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:20:27] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:30:25] [User Authenticator #94/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:30:25] [Server thread/INFO]: + Seppro_24 Connected
+[13:30:25] [Server thread/INFO]: Seppro_24[/127.0.0.1:54326] logged in with entity id 314 at ([world]16.5168578463775, 18.0, 40.2363869029289)
+[13:30:39] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:30:39] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:32:52] [User Authenticator #95/INFO]: UUID of player kiyan998 is adeb4d5a-74c4-31cf-9beb-e21ba1c1f900
+[13:32:52] [Server thread/INFO]: + kiyan998 Connected
+[13:32:52] [Server thread/INFO]: kiyan998[/127.0.0.1:54714] logged in with entity id 316 at ([world]14.174905617215765, 18.5, 36.16817434579923)
+[13:33:06] [Server thread/INFO]: kiyan998 lost connection: Disconnected
+[13:33:06] [Server thread/INFO]: - kiyan998 Disconnected
+[13:44:24] [User Authenticator #96/INFO]: UUID of player Seppro_24 is 15c2d3c3-3fce-3f5d-bf76-8b2399821dd5
+[13:44:25] [Server thread/INFO]: + Seppro_24 Connected
+[13:44:25] [Server thread/INFO]: Seppro_24[/127.0.0.1:56456] logged in with entity id 317 at ([world]13.895089229470655, 18.87208890136312, 35.65667919196706)
+[13:45:41] [Server thread/INFO]: Seppro_24 lost connection: Disconnected
+[13:45:41] [Server thread/INFO]: - Seppro_24 Disconnected
+[13:50:05] [Craft Scheduler Thread - 1468 - GadgetsMenu/INFO]: [GadgetsMenu] Checking for updates...
+[13:50:06] [Craft Scheduler Thread - 1468 - GadgetsMenu/INFO]: [GadgetsMenu] No update was found, you are running the latest version.
+[14:19:41] [Server thread/INFO]: Stopping the server
+[14:19:41] [Server thread/INFO]: Stopping server
+[14:19:41] [Server thread/INFO]: [GadgetsMenu] Disabling GadgetsMenu v4.19.0
+[14:19:41] [Server thread/INFO]: [GadgetsMenu] SQLite database connection has been closed.
+[14:19:41] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[14:19:41] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[14:19:41] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[14:19:41] [Server thread/INFO]: [TAB] Disabled in 10ms
+[14:19:41] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+19-7bc91f1
+[14:19:41] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[14:19:41] [Server thread/INFO]: [ZNPCsPlus] Disabling ZNPCsPlus v2.0.0
+[14:19:41] [Server thread/INFO]: [DeluxeHub] Disabling DeluxeHub v3.5.1
+[14:19:41] [Server thread/INFO]: [ajParkour] Disabling ajParkour v2.12.10
+[14:19:41] [Server thread/INFO]: [ajParkour] Removing all active players from parkour because the plugin is disabling.
+[14:19:41] [Server thread/INFO]: ajParkour v2.12.10 by ajgeiss0702 has been disabled!
+[14:19:41] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.20+6667-f0f1e66
+[14:19:41] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:19:41] [Server thread/INFO]: [ajQueue] Disabling ajQueue v2.7.0
+[14:19:41] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[14:19:41] [Server thread/INFO]: [BowHub] Disabling BowHub v6.0
+[14:19:41] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[14:19:41] [Server thread/INFO]: [HubThat] Disabling HubThat v10.1.184
+[14:19:41] [Server thread/INFO]: [HubThat] Plugin HubThat Successfully Unloaded!
+[14:19:41] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.10
+[14:19:41] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:19:41] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:19:41] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:19:41] [Server thread/INFO]: Saving players
+[14:19:41] [Server thread/INFO]: Saving worlds
+[14:19:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:19:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:19:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:19:42] [Server thread/INFO]: Flushing Chunk IO
+[14:19:42] [Server thread/INFO]: Closing Thread Pool
+[14:19:42] [Server thread/INFO]: Closing Server

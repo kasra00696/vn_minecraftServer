@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757130998555
+  login: 1757125661218
+money: '10000'
+last-account-name: Khalvach
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 1390.7010750554452
+  y: 24.0
+  z: -518.3000000119209
+  yaw: 115.205078125
+  pitch: 50.99998092651367
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -1562.774492198837
+  y: 64.0
+  z: 1873.4928412116228
+  yaw: -101.5252685546875
+  pitch: -7.949942111968994

@@ -1,0 +1,18 @@
+name: kasra007
+kits:
+  food:
+    cooldown: 1756654933285
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756810488235
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1757071404912
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757280656618
+    one_time: false
+    bought: false

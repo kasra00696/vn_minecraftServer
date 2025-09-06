@@ -1,0 +1,258 @@
+Gold:
+    name: "&e&lGold shop (page %page%)"
+    economy: VAULT
+    size: 54
+    buttons:
+      goBack:
+        slot: 8   
+      previousPage:
+        slot: 0
+      nextPage:
+        slot: 2
+    fillItem:
+        material: light_blue_stained_glass_pane
+        name: ""
+    items:
+       1:
+        type: item      
+        item:
+          material: diamond_helmet      
+          quantity: 1
+          name: "&e&lGold"
+          enchantments:
+            - aquaaffinity:3
+            - fireprotect:6
+            - protection:6
+            - projectileprotection:6
+            - respiration:5
+            - thorns:5
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 13   
+       2:
+        type: item      
+        item:
+          material: diamond_chestplate
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - fireprotect:6
+            - protection:6
+            - projectileprotection:6
+            - thorns:5
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES            
+        buyPrice: -1
+        sellPrice: -1
+        slot: 22 
+       3:
+        type: item      
+        item:
+          material: diamond_leggings
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - fireprotect:6
+            - protection:6
+            - projectileprotection:6
+            - thorns:5
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 31 
+       4:
+        type: item      
+        item:
+          material: diamond_boots
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - depthstrider:5   
+            - fireprotect:6
+            - frostwalker:4
+            - protection:6
+            - projectileprotection:6
+            - thorns:5
+            - unbreaking:5
+            - soulspeed:3
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 40 
+       5:
+        type: item      
+        item:
+          material: diamond_sword
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - baneofarthropods:7
+            - fireaspect:4
+            - knockback:4
+            - looting:5
+            - sharpness:7
+            - smite:7
+            - sweepingedge:5
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 12 
+       6:
+        type: item      
+        item:
+          material: diamond_shovel
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - efficiency:7
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 14 
+       7:
+        type: item      
+        item:
+          material: diamond_pickaxe
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - efficiency:7
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 23 
+       8:
+        type: item      
+        item:
+          material: diamond_axe
+          quantity: 1
+          name: "&e&lGold"       
+          enchantments:
+            - efficiency:7
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 21 
+       9:
+        type: item      
+        item:
+          material: enchanted_golden_apple  
+          quantity: 48
+          name: "&e&lGold"      
+        buyPrice: -1
+        sellPrice: -1
+        slot: 29          
+       10:
+        type: item      
+        item:
+          material: golden_apple  
+          quantity: 48
+          name: "&e&lGold"      
+        buyPrice: -1                 
+        sellPrice: -1
+        slot: 33      
+       11:
+        type: item      
+        item:
+          material: bow
+          quantity: 1
+          name: "&e&lGold"       
+          enchantments:
+            - flame:1
+            - infinity:1     
+            - power:7
+            - punch:4   
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 32 
+       12:
+        type: item      
+        item:
+          material: diamond_pickaxe
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - mending:1
+            - silktouch:1
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 24 
+       13:
+        type: item      
+        item:
+          material: crossbow
+          quantity: 1
+          name: "&e&lGold"       
+          enchantments:
+            - multishot:3
+            - piercing:6
+            - power:7
+            - quickcharge:5
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 30       
+       14:
+        type: item      
+        item:
+          material: shield
+          quantity: 1
+          name: "&e&lGold"       
+          enchantments:
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 20
+       15:
+        type: item      
+        item:
+          material: elytra
+          quantity: 1
+          name: "&e&lGold"       
+          enchantments:
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 19
+       16:
+        type: item      
+        item:
+          material: trident
+          quantity: 1
+          name: "&e&lGold"         
+          enchantments:
+            - impaling:7
+            - loyalty:5
+            - unbreaking:5
+          flags:
+            - HIDE_ATTRIBUTES
+        buyPrice: -1
+        sellPrice: -1
+        slot: 25

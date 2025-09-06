@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756733461175
+  login: 1756733305643
+money: '10000'
+last-account-name: ItzHajPrime
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -68.16943947035493
+  y: 92.0
+  z: -280.06858714621416
+  yaw: -117.91901397705078
+  pitch: 25.993621826171875
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 148.06956565535538
+  y: 67.0
+  z: 492.73116586012617
+  yaw: -159.16514587402344
+  pitch: 54.98142623901367

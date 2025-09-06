@@ -63,7 +63,7 @@ kick-time: 60
 # Should we notify people with the permission ajparkour.update that an update is available?
 # They will then be able to download it using /ajParkour update
 #  Default: true
-notify-update: true
+notify-update: false
 
 # Should the score we tell the player to beat be per-area or global?
 # For example, if this is true and the player got 30 on another area but only 10 on this one, they will be told to beat their record of 10.

@@ -1,0 +1,14 @@
+name: shadow_miner_
+kits:
+  claim:
+    cooldown: 1756718588910
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756722746719
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756722745623
+    one_time: false
+    bought: false

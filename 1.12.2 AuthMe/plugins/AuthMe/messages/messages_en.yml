@@ -5,44 +5,44 @@
 
 # Registration
 registration:
-  disabled: '&cIn-game registration is disabled!'
-  name_taken: '&cYou already have registered this username!'
-  register_request: '&3Please, register to the server with the command: /register <password> <ConfirmPassword>'
-  command_usage: '&cUsage: /register <password> <ConfirmPassword>'
+  disabled: '&b&lVENUX&8 |&7 In-game registration is disabled!'
+  name_taken: '&b&lVENUX&8 |&7 Shoma Ghablan sabtnam Kardid!'
+  register_request: '&3Lotfan baraie sabtnam az in command estfade konid: /register <password> <ConfirmPassword>'
+  command_usage: '&b&lVENUX&8 |&7 Usage: /register <password> <ConfirmPassword>'
   reg_only: '&4Only registered users can join the server! Please visit https://example.com to register yourself!'
   success: '&2Successfully registered!'
   kicked_admin_registered: 'An admin just registered you; please log in again.'
 
 # Password errors on registration
 password:
-  match_error: '&cPasswords didn''t match, check them again!'
-  name_in_password: '&cYou can''t use your name as password, please choose another one...'
-  unsafe_password: '&cThe chosen password isn''t safe, please choose another one...'
-  forbidden_characters: '&4Your password contains illegal characters. Allowed chars: %valid_chars'
-  wrong_length: '&cYour password is too short or too long! Please try with another one!'
-  pwned_password: '&cYour chosen password is not secure. It was used %pwned_count times already! Please use a strong password...'
+  match_error: '&b&lVENUX&8 |&7 Passwords Shoma eki nist lotfan dobare emtehan konid!'
+  name_in_password: '&b&lVENUX&8 |&7 Password Shoma nemitavand ba username shoma eki bashad...'
+  unsafe_password: '&b&lVENUX&8 |&7 Password ke entkhab kardid Safe nist...'
+  forbidden_characters: '&4Password shoma az characters haie ghaire gable estefade tashkil shode ast lotfan az in character ha estfade konid: %valid_chars'
+  wrong_length: '&b&lVENUX&8 |&7 password shoma khaili kochid ya bozorg hast lotfan password behtari entkhab konid!'
+  pwned_password: '&b&lVENUX&8 |&7 Password shoma safe nist %pwned_count , az password behtari estefade konid...'
 
 # Login
 login:
-  command_usage: '&cUsage: /login <password>'
-  wrong_password: '&cWrong password!'
-  success: '&2Successful login!'
-  login_request: '&cPlease, login with the command: /login <password>'
-  timeout_error: '&4Login timeout exceeded, you have been kicked from the server, please try again!'
+  command_usage: '&b&lVENUX&8 |&7 Usage: /login <password>'
+  wrong_password: '&b&lVENUX&8 |&7 password eshtebah ast!'
+  success: '&2login movafaghit amiz bod!'
+  login_request: '&b&lVENUX&8 |&7 Lotfan az in command estefade konid : /login <password>'
+  timeout_error: '&4Zamane shoma barie login kardan be etmam resid!'
 
 # Errors
 error:
-  denied_command: '&cIn order to use this command you must be authenticated!'
-  denied_chat: '&cIn order to chat you must be authenticated!'
-  unregistered_user: '&cThis user isn''t registered!'
-  not_logged_in: '&cYou''re not logged in!'
+  denied_command: '&b&lVENUX&8 |&7 In order to use this command you must be authenticated!'
+  denied_chat: '&b&lVENUX&8 |&7 In order to chat you must be authenticated!'
+  unregistered_user: '&b&lVENUX&8 |&7 This user isn''t registered!'
+  not_logged_in: '&b&lVENUX&8 |&7 You''re not logged in!'
   no_permission: '&4You don''t have the permission to perform this action!'
   unexpected_error: '&4An unexpected error occurred, please contact an administrator!'
-  max_registration: '&cYou have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!'
-  logged_in: '&cYou''re already logged in!'
+  max_registration: '&b&lVENUX&8 |&7 You have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!'
+  logged_in: '&b&lVENUX&8 |&7 You''re already logged in!'
   kick_for_vip: '&3A VIP player has joined the server when it was full!'
-  kick_unresolved_hostname: '&cAn error occurred: unresolved player hostname!'
-  tempban_max_logins: '&cYou have been temporarily banned for failing to log in too many times.'
+  kick_unresolved_hostname: '&b&lVENUX&8 |&7 An error occurred: unresolved player hostname!'
+  tempban_max_logins: '&b&lVENUX&8 |&7 You have been temporarily banned for failing to log in too many times.'
 
 # AntiBot
 antibot:
@@ -52,23 +52,23 @@ antibot:
 
 # Unregister
 unregister:
-  success: '&cSuccessfully unregistered!'
-  command_usage: '&cUsage: /unregister <password>'
+  success: '&b&lVENUX&8 |&7 unregister movafaghit amiz bood!'
+  command_usage: '&b&lVENUX&8 |&7 Usage: /unregister <password>'
 
 # Other messages
 misc:
-  account_not_activated: '&cYour account isn''t activated yet, please check your emails!'
-  not_activated: '&cAccount not activated, please register and activate it before trying again.'
+  account_not_activated: '&b&lVENUX&8 |&7 Your account isn''t activated yet, please check your emails!'
+  not_activated: '&b&lVENUX&8 |&7 Account not activated, please register and activate it before trying again.'
   password_changed: '&2Password changed successfully!'
   logout: '&2Logged out successfully!'
   reload: '&2Configuration and database have been reloaded correctly!'
-  usage_change_password: '&cUsage: /changepassword <oldPassword> <newPassword>'
+  usage_change_password: '&b&lVENUX&8 |&7 Usage: /changepassword <oldPassword> <newPassword>'
   accounts_owned_self: 'You own %count accounts:'
   accounts_owned_other: 'The player %name has %count accounts:'
 
 # Session messages
 session:
-  invalid_session: '&cYour IP has been changed and your session data has expired!'
+  invalid_session: '&b&lVENUX&8 |&7 Your IP has been changed and your session data has expired!'
   valid_session: '&2Logged-in due to Session Reconnection.'
 
 # Error messages when joining
@@ -86,28 +86,28 @@ on_join_validation:
 # Email
 email:
   add_email_request: '&3Please add your email to your account with the command: /email add <yourEmail> <confirmEmail>'
-  usage_email_add: '&cUsage: /email add <email> <confirmEmail>'
-  usage_email_change: '&cUsage: /email change <oldEmail> <newEmail>'
-  new_email_invalid: '&cInvalid new email, try again!'
-  old_email_invalid: '&cInvalid old email, try again!'
-  invalid: '&cInvalid email address, try again!'
+  usage_email_add: '&b&lVENUX&8 |&7 Usage: /email add <email> <confirmEmail>'
+  usage_email_change: '&b&lVENUX&8 |&7 Usage: /email change <oldEmail> <newEmail>'
+  new_email_invalid: '&b&lVENUX&8 |&7 Invalid new email, try again!'
+  old_email_invalid: '&b&lVENUX&8 |&7 Invalid old email, try again!'
+  invalid: '&b&lVENUX&8 |&7 Invalid email address, try again!'
   added: '&2Email address successfully added to your account!'
-  add_not_allowed: '&cAdding email was not allowed.'
-  request_confirmation: '&cPlease confirm your email address!'
+  add_not_allowed: '&b&lVENUX&8 |&7 Adding email was not allowed.'
+  request_confirmation: '&b&lVENUX&8 |&7 Please confirm your email address!'
   changed: '&2Email address changed correctly!'
-  change_not_allowed: '&cChanging email was not allowed.'
+  change_not_allowed: '&b&lVENUX&8 |&7 Changing email was not allowed.'
   email_show: '&2Your current email address is: &f%email'
   no_email_for_account: '&2You currently don''t have email address associated with this account.'
   already_used: '&4The email address is already being used'
   incomplete_settings: 'Error: not all required settings are set for sending emails. Please contact an admin.'
   send_failure: 'The email could not be sent. Please contact an administrator.'
   change_password_expired: 'You cannot change your password using this command anymore.'
-  email_cooldown_error: '&cAn email was already sent recently. You must wait %time before you can send a new one.'
+  email_cooldown_error: '&b&lVENUX&8 |&7 An email was already sent recently. You must wait %time before you can send a new one.'
 
 # Password recovery by email
 recovery:
   forgot_password_hint: '&3Forgot your password? Please use the command: /email recovery <yourEmail>'
-  command_usage: '&cUsage: /email recovery <Email>'
+  command_usage: '&b&lVENUX&8 |&7 Usage: /email recovery <Email>'
   email_sent: '&2Recovery email sent successfully! Please check your email inbox!'
   code:
     code_sent: 'A recovery code to reset your password has been sent to your email.'
@@ -119,7 +119,7 @@ recovery:
 # Captcha
 captcha:
   usage_captcha: '&3To log in you have to solve a captcha code, please use the command: /captcha %captcha_code'
-  wrong_captcha: '&cWrong captcha, please type "/captcha %captcha_code" into the chat!'
+  wrong_captcha: '&b&lVENUX&8 |&7 Wrong captcha, please type "/captcha %captcha_code" into the chat!'
   valid_captcha: '&2Captcha code solved correctly!'
   captcha_for_registration: 'To register you have to solve a captcha first, please use the command: /captcha %captcha_code'
   register_captcha_valid: '&2Valid captcha! You may now register with /register'
@@ -127,8 +127,8 @@ captcha:
 # Verification code
 verification:
   code_required: '&3This command is sensitive and requires an email verification! Check your inbox and follow the email''s instructions.'
-  command_usage: '&cUsage: /verification <code>'
-  incorrect_code: '&cIncorrect code, please type "/verification <code>" into the chat, using the code you received by email'
+  command_usage: '&b&lVENUX&8 |&7 Usage: /verification <code>'
+  incorrect_code: '&b&lVENUX&8 |&7 Incorrect code, please type "/verification <code>" into the chat, using the code you received by email'
   success: '&2Your identity has been verified! You can now execute all commands within the current session!'
   already_verified: '&2You can already execute every sensitive command within the current session!'
   code_expired: '&3Your code has expired! Execute another sensitive command to get a new code!'
@@ -170,4 +170,4 @@ login_location_fix:
 
 # 3rd party features: Double Login Fix
 double_login_fix:
-  fix_message: '&cYou have been disconnected due to doubled login.'
+  fix_message: '&b&lVENUX&8 |&7 You have been disconnected due to doubled login.'

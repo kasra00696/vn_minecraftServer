@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756800242125
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757064838191
+  login: 1757063033866
+money: '3385.0'
+last-account-name: mamad123MM
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 1059.3903307810817
+  y: 74.0
+  z: 94.03949019836479
+  yaw: -85.16789245605469
+  pitch: 58.60222625732422
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -487.69999998807907
+  y: -39.0
+  z: 1100.0270734747094
+  yaw: 108.22991943359375
+  pitch: 16.624425888061523

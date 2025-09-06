@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756719514848
+  login: 1756719478737
+money: '10000'
+last-account-name: AKIAN
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.447021327432655
+  y: 30.0
+  z: 53.55715989967192
+  yaw: 178.85040283203125
+  pitch: 17.73101234436035
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -895.9627894827813
+  y: 68.0
+  z: -186.76755583754183
+  yaw: 159.37960815429688
+  pitch: 14.080497741699219

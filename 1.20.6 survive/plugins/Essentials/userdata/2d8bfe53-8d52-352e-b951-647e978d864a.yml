@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756632007108
+  login: 1756631556769
+money: '10000'
+last-account-name: Svliwan
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 7.130818884028234
+  y: 29.5
+  z: 53.10158833778686
+  yaw: -120.42835235595703
+  pitch: 4.200036525726318
+logoutlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: -9.162738016438112
+  y: 29.0
+  z: 48.24457199757151
+  yaw: -38.078399658203125
+  pitch: 17.699981689453125

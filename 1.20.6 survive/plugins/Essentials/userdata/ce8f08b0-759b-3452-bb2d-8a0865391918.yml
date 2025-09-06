@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756724059851
+  login: 1756723832692
+money: '10000'
+last-account-name: whitedragon2040
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.730922184213917
+  y: 29.0
+  z: 54.751177253414724
+  yaw: 177.92166137695312
+  pitch: -5.099966526031494
+logoutlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 21.887845592166485
+  y: 29.0
+  z: -27.825741886133763
+  yaw: 96.92191314697266
+  pitch: 9.300029754638672

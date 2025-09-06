@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756654772224
+  login: 1756654543470
+money: '10000'
+last-account-name: hunter1393H
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.344518082905271
+  y: 30.0
+  z: 52.92970338788282
+  yaw: -105.27850341796875
+  pitch: 77.55001068115234
+logoutlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 8.459640968487035
+  y: 30.0
+  z: 52.96763818918201
+  yaw: -178.4784393310547
+  pitch: 28.500030517578125

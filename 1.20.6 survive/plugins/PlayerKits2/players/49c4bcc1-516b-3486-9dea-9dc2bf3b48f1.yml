@@ -1,0 +1,18 @@
+name: AminRaven
+kits:
+  starter:
+    cooldown: 1756491435139
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756491435647
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756491437043
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757290452747
+    one_time: false
+    bought: false

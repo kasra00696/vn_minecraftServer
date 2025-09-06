@@ -1,0 +1,150 @@
+  spawners:
+    name: "&5&lSpawners (page %page%)"
+    size: 45
+    buttons:
+      goBack:
+        slot: 40
+      previousPage:
+        slot: 39
+      nextPage:
+        slot: 41
+    fillItem:
+        material: light_blue_stained_glass_pane
+        name: ""  
+    items:
+       1:
+        type: item
+        item:
+          material: SPAWNER
+          mob: CHICKEN
+          quantity: 1
+        buyPrice: 50000
+        sellPrice: -1
+        slot: 10
+       2:
+        type: item
+        item:
+          material: SPAWNER
+          mob: PIG
+          quantity: 1
+        buyPrice: 65000
+        sellPrice: -1
+        slot: 11 
+       3:
+        type: item
+        item:
+          material: SPAWNER
+          mob: SHEEP
+          quantity: 1
+        buyPrice: 60000
+        sellPrice: -1
+        slot: 12   
+       4:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: COW
+          quantity: 1
+          damage: 1
+        buyPrice: 70000
+        sellPrice: -1
+        slot: 13  
+       5:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SKELETON
+          quantity: 1
+          damage: 1
+        buyPrice: 85000
+        sellPrice: -1
+        slot: 14
+       6:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SLIME
+          quantity: 1
+          damage: 1
+        buyPrice: 190000
+        sellPrice: -1
+        slot: 15      
+       7:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: ZOMBIE
+          quantity: 1
+          damage: 1
+        buyPrice: 70000
+        sellPrice: -1
+        slot: 16   
+       8:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: BLAZE
+          quantity: 1
+          damage: 1
+        buyPrice: 250000
+        sellPrice: -1
+        slot: 19   
+       9:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: CREEPER
+          quantity: 1
+          damage: 1
+        buyPrice: 90000
+        sellPrice: -1
+        slot: 20   
+       10:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: ENDERMAN
+          quantity: 1
+        buyPrice: 150000
+        sellPrice: -1
+        slot: 21     
+       11:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: IRON_GOLEM
+          quantity: 1
+          damage: 1
+        buyPrice: 2000000
+        sellPrice: -1
+        slot: 22        
+       12:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: SPIDER
+          quantity: 1
+          damage: 1
+        buyPrice: 95000
+        sellPrice: -1
+        slot: 23   
+       13:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: VINDICATOR
+          quantity: 1
+          damage: 1
+        buyPrice: 350000
+        sellPrice: -1
+        slot: 24
+       14:
+        type: item
+        item: 
+          material: SPAWNER
+          mob: PANDA
+          quantity: 1
+          damage: 1
+        buyPrice: 75000
+        sellPrice: -1
+        slot: 25

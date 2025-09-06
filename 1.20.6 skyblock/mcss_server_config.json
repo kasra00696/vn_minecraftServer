@@ -1,0 +1,26 @@
+{
+  "guid": "2dcedcb8-eb64-4aa8-b7f2-d741a3fe3487",
+  "serverTypeGuid": "984ed3d3-636d-4535-82b2-7c1048782c64",
+  "name": "skyblock",
+  "description": "",
+  "creationDate": "2025-08-18T14:50:36.644292+03:30",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "None",
+  "startupMethode": "JavaStartupLine",
+  "allocatedMemory": 5120,
+  "allocatedMemorySuffix": "GB",
+  "startupLine": "java -Xms256M -Xmx[RAM]M -jar [SERVERTYPE.NAME].jar",
+  "startupBatFilename": "",
+  "serverFileChecksum": "7d5410a978360a46faa76a288b1eab353135d8db16e40329a154402ec1b12d91",
+  "serverFileVersion": "1.20.6",
+  "javaPathOverride": "",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}

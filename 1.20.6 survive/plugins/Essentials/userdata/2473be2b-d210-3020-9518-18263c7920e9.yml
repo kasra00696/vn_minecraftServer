@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756648902329
+  login: 1756648829068
+money: '10000'
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 9.197536245588028
+  y: 29.0
+  z: 54.667924418294014
+  yaw: 107.94930267333984
+  pitch: 8.957569122314453
+last-account-name: Omrrah
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 293.99893924231816
+  y: 83.49520087700593
+  z: 773.6437153940822
+  yaw: 131.15675354003906
+  pitch: 9.996673583984375

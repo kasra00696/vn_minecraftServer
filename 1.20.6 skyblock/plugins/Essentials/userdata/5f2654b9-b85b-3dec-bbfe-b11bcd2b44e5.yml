@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756920115410
+  login: 1756919644632
+money: '10000'
+last-account-name: r_NeoN
+lastlocation:
+  world: e9e8d6d8-0dd7-4d43-92ba-e9aa5ceff257
+  world-name: world
+  x: -111.5
+  y: 71.0
+  z: -127.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 0f4a0a1b-3e0f-4e8d-b421-a6295f5c85cc
+  world-name: SuperiorWorld
+  x: 1203.022535589238
+  y: 100.0
+  z: 598.3312652223841
+  yaw: 18.94122314453125
+  pitch: 27.855146408081055

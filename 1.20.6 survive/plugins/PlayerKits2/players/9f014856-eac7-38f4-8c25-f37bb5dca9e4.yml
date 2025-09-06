@@ -1,0 +1,14 @@
+name: chera123
+kits:
+  food:
+    cooldown: 1756555934345
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756739966781
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756555936130
+    one_time: false
+    bought: false

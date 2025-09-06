@@ -1,0 +1,18 @@
+name: Hog_Matin
+kits:
+  starter:
+    cooldown: 1757067901656
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1757067902799
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1757067903482
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757625921969
+    one_time: false
+    bought: false

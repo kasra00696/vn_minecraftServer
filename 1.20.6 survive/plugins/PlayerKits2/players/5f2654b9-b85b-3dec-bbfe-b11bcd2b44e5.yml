@@ -1,0 +1,14 @@
+name: r_NeoN
+kits:
+  starter:
+    cooldown: 1756643580061
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756643582506
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756643583953
+    one_time: false
+    bought: false

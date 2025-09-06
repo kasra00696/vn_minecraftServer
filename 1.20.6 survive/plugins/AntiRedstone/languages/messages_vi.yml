@@ -1,0 +1,177 @@
+# AntiRedstone Plugin - Vietnamese Language File
+# File ngôn ngữ Tiếng Việt cho plugin AntiRedstone
+# Phiên bản: 1.3.1
+
+# Thông điệp chung của plugin
+plugin:
+  prefix: "&c[AntiRedstone]&r "
+  enabled: "&aAnti-Redstone đã được &lBẬT&r&a!"
+  disabled: "&cAnti-Redstone đã được &lTẮT&r&c!"
+  reloaded: "&aCấu hình plugin đã được tải lại thành công!"
+  author: "&6Plugin được tạo bởi: &e{0}"
+  version: "&6Phiên bản: &e{0}"
+  no-console: "&cLệnh này chỉ có thể được sử dụng bởi người chơi!"
+
+# Thông điệp lệnh
+commands:
+  no-permission: "&cBạn không có quyền sử dụng lệnh này!"
+  invalid-syntax: "&cCú pháp lệnh không hợp lệ! Sử dụng: &e{0}"
+  invalid-world: "&cKhông tìm thấy thế giới '{0}'!"
+  player-not-found: "&cKhông tìm thấy người chơi '{0}'!"
+  world-already-disabled: "&eThế giới '{0}' đã bị vô hiệu hóa Anti-Redstone!"
+  world-already-enabled: "&eThế giới '{0}' đã được kích hoạt Anti-Redstone!"
+  world-disabled: "&aThế giới '{0}' đã bị vô hiệu hóa Anti-Redstone!"
+  world-enabled: "&aThế giới '{0}' đã được kích hoạt Anti-Redstone!"
+  cooldown: "&cVui lòng đợi {0} giây trước khi sử dụng lệnh này lại!"
+
+# Thông điệp chức năng chính
+messages:
+  redstone-blocked: "&cViệc sử dụng redstone không được phép khi Anti-Redstone được bật!"
+  redstone-placement-blocked: "&cBạn không thể đặt các thành phần redstone khi Anti-Redstone được bật!"
+  redstone-interaction-blocked: "&cBạn không thể tương tác với các thành phần redstone khi Anti-Redstone được bật!"
+  redstone-breaking-blocked: "&cBạn không thể phá các thành phần redstone khi Anti-Redstone được bật!"
+  redstone-removed: "&eThành phần redstone tại &6{0}&e đã được tự động xóa!"
+  creative-bypass: "&7Bạn có thể đặt redstone trong chế độ sáng tạo!"
+  world-disabled-message: "&eAnti-Redstone bị vô hiệu hóa trong thế giới này!"
+
+# Thông báo quản trị viên
+admin:
+  redstone-activity: "&6Người chơi &e{0}&6 đã cố gắng sử dụng redstone tại &e{1}&6!"
+  violation-warning: "&cNgười chơi &e{0}&c có &l{1}&r&c vi phạm! (Tối đa: {2})"
+  player-kicked: "&6Người chơi &e{0}&6 đã bị kick vì vi phạm redstone!"
+  player-banned: "&6Người chơi &e{0}&6 đã bị ban vì vi phạm redstone liên tục!"
+  scan-started: "&6Bắt đầu quét và xóa redstone trong thế giới '{0}'..."
+  scan-completed: "&aQuét redstone hoàn tất! Đã xóa &l{0}&r&a thành phần trong &l{1}&r&a giây!"
+  cleanup-started: "&6Bắt đầu dọn dẹp các thành phần redstone hiện có..."
+  cleanup-completed: "&aDọn dẹp hoàn tất! Đã xóa &l{0}&r&a thành phần redstone!"
+
+# Thông điệp cảnh báo
+warnings:
+  first-warning: "&cCảnh báo: Việc sử dụng redstone bị vô hiệu hóa trên máy chủ này!"
+  second-warning: "&c&lCảnh báo lần 2: &r&cViệc tiếp tục sử dụng redstone có thể dẫn đến hình phạt!"
+  final-warning: "&4&l⚠ CẢNH BÁO CUỐI CÙNG ⚠&r &cVi phạm redstone tiếp theo sẽ dẫn đến kick/ban!"
+
+# Thông báo kick và ban
+kick:
+  default-message: "&cVi phạm quy tắc Anti-Redstone"
+  excessive-violations: "&c&lBạn đã bị kick do vi phạm redstone quá nhiều!"
+  redstone-usage: "&c&lBạn đã bị kick vì sử dụng redstone khi bị cấm!"
+  threshold-reached: "&c&lBạn đã đạt đến giới hạn vi phạm tối đa!"
+  
+ban:
+  default-message: "&cBị cấm vì vi phạm Anti-Redstone nhiều lần"
+  excessive-violations: "&c&lBạn đã bị cấm do vi phạm redstone quá nhiều!"
+  redstone-usage: "&c&lBạn đã bị cấm vì sử dụng redstone khi bị cấm!"
+  threshold-reached: "&c&lBạn đã đạt đến giới hạn vi phạm tối đa!"
+
+# Thông điệp trạng thái và thông tin
+status:
+  header: "&6=== Trạng thái Anti-Redstone ==="
+  enabled: "&eTrạng thái: {0}"
+  notify-admins: "&eThông báo quản trị viên: {0}"
+  prevent-breaking: "&eNgăn chặn phá: {0}"
+  remove-existing: "&eXóa redstone hiện có: {0}"
+  ban-violators: "&eBan người vi phạm: {0}"
+  max-violations: "&eSố vi phạm tối đa: &f{0}"
+  max-redstone-per-chunk: "&eRedstone tối đa mỗi chunk: &f{0}"
+  block-placement: "&eChặn đặt redstone: {0}"
+  allow-creative: "&eCho phép đặt trong creative: {0}"
+  current-language: "&eNgôn ngữ: &f{0}"
+
+# Thông điệp cài đặt
+settings:
+  changed: "&aCài đặt &e{0}&a đã được thay đổi thành: &f{1}"
+  invalid-value: "&cGiá trị không hợp lệ cho cài đặt '{0}'. Mong đợi: {1}"
+  list-header: "&6=== Cài đặt Plugin ==="
+  usage: "&eSử dụng: /antiredstone settings <cài-đặt> <giá-trị>"
+
+# Thông điệp thống kê
+stats:
+  header: "&6=== Thống kê Anti-Redstone ==="
+  total-blocked: "&eTổng redstone bị chặn: &f{0}"
+  total-removed: "&eTổng redstone đã xóa: &f{0}"
+  player-violations: "&eVi phạm của bạn: &f{0}"
+  top-violators: "&eNgười vi phạm nhiều nhất:"
+  world-stats: "&eThống kê thế giới:"
+  session-stats: "&eThống kê phiên:"
+  reset-stats: "&aTất cả thống kê đã được đặt lại!"
+
+# Thông điệp GUI
+gui:
+  title: "&c&lCài đặt Anti-Redstone"
+  enabled-item: "&aAnti-Redstone: ĐANG BẬT"
+  disabled-item: "&cAnti-Redstone: ĐANG TẮT"
+  settings-item: "&6Cài đặt Plugin"
+  stats-item: "&bXem Thống kê"
+  language-item: "&dCài đặt Ngôn ngữ"
+  close-item: "&cĐóng Menu"
+  back-item: "&7← Quay lại"
+  next-page: "&aTrang tiếp →"
+  prev-page: "&a← Trang trước"
+
+# Thông điệp hệ thống ngôn ngữ
+language:
+  changed: "&aNgôn ngữ đã được thay đổi thành: &f{0}"
+  invalid: "&cNgôn ngữ không hợp lệ '{0}'. Có sẵn: {1}"
+  list-header: "&6=== Ngôn ngữ có sẵn ==="
+  current: "&eNgôn ngữ hiện tại: &f{0}"
+  reload-success: "&aTất cả file ngôn ngữ đã được tải lại thành công!"
+  file-missing: "&cKhông tìm thấy file ngôn ngữ '{0}'!"
+
+# Thông điệp chào mừng và tham gia
+welcome:
+  message: "&aChào mừng đến với máy chủ, &6{0}&a!"
+  status: "&eAnti-Redstone hiện tại: {0}"
+  help: "&7Gõ &e/antiredstone help&7 để biết thêm thông tin!"
+
+# Thông điệp trợ giúp
+help:
+  header: "&6=== Trợ giúp AntiRedstone ==="
+  commands:
+    main: "&e/antiredstone &7- Hiển thị trạng thái plugin"
+    on: "&e/antiredstone on &7- Bật Anti-Redstone"
+    off: "&e/antiredstone off &7- Tắt Anti-Redstone"
+    world: "&e/antiredstone world <add|remove> <thế-giới> &7- Quản lý ngoại lệ thế giới"
+    settings: "&e/antiredstone settings &7- Xem/thay đổi cài đặt"
+    stats: "&e/antiredstone stats &7- Xem thống kê"
+    gui: "&e/antiredstone gui &7- Mở GUI cài đặt"
+    reload: "&e/antiredstone reload &7- Tải lại cấu hình"
+    language: "&e/antiredstone language <ngôn-ngữ> &7- Thay đổi ngôn ngữ"
+    help: "&e/antiredstone help &7- Hiển thị menu trợ giúp này"
+  footer: "&7Sử dụng &e/antiredstone <lệnh>&7 để biết thêm chi tiết"
+
+# Thông điệp lỗi
+errors:
+  config-load: "&cLỗi khi tải file cấu hình!"
+  config-save: "&cLỗi khi lưu file cấu hình!"
+  permission-denied: "&cTruy cập bị từ chối! Bạn cần quyền: &e{0}"
+  internal-error: "&cĐã xảy ra lỗi nội bộ. Kiểm tra console để biết chi tiết."
+  command-error: "&cLỗi khi thực hiện lệnh. Vui lòng thử lại."
+  world-load-error: "&cLỗi khi tải thế giới '{0}'"
+
+# Thông điệp hiệu suất
+performance:
+  scheduler-info: "&eScheduler: &f{0}"
+  thread-count: "&eThreads hoạt động: &f{0}"
+  memory-usage: "&eSử dụng bộ nhớ: &f{0}MB"
+  task-count: "&eTask hoạt động: &f{0}"
+  optimization-enabled: "&aTối ưu hóa hiệu suất đã được bật!"
+
+# Thông điệp debug (cho development builds)
+debug:
+  redstone-detected: "&7[DEBUG] Phát hiện redstone tại {0}"
+  player-action: "&7[DEBUG] Người chơi {0} thực hiện hành động: {1}"
+  scheduler-task: "&7[DEBUG] Scheduler task: {0}"
+  cache-hit: "&7[DEBUG] Cache hit cho: {0}"
+  cache-miss: "&7[DEBUG] Cache miss cho: {0}"
+
+# Mã màu để tham khảo dễ dàng
+colors:
+  on: "&a&lBẬT"
+  off: "&c&lTẮT"
+  enabled: "&aBẬT"
+  disabled: "&cTẮT"
+  success: "&aThành công"
+  error: "&cLỗi"
+  warning: "&eCảnh báo"
+  info: "&bThông tin" 

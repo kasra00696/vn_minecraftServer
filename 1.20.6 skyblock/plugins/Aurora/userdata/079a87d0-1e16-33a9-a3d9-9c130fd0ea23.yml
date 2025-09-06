@@ -1,0 +1,23 @@
+aurora/quests:
+  rolled:
+    daily:
+      time: 1757071202817
+      quests:
+      - example
+    weekly:
+      time: 1756727442310
+      quests:
+      - example
+  progression:
+    daily:
+      example: {}
+    global:
+      example:
+        unlocked: true
+    weekly:
+      example: {}
+  pool_unlocks: []
+  completed_count: {}
+aurora/stash:
+  items: AAAAAA==
+aurora/meta: {}

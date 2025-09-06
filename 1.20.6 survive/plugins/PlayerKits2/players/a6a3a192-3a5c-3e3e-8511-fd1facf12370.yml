@@ -1,0 +1,14 @@
+name: GTT
+kits:
+  food:
+    cooldown: 1757138089517
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1757138092169
+    one_time: false
+    bought: false
+  copper:
+    cooldown: 1757696797335
+    one_time: false
+    bought: false

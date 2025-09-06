@@ -1,0 +1,18 @@
+name: aboly12345
+kits:
+  copper:
+    cooldown: 1757456633750
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756920243371
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756979074426
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756979077982
+    one_time: false
+    bought: false

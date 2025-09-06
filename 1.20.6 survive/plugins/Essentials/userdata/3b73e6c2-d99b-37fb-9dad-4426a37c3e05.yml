@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756733263912
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756733541118
+  login: 1756733212254
+money: '10000'
+last-account-name: commando1391
+lastlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -379.1090513279666
+  y: 66.0
+  z: 825.4528116846942
+  yaw: 106.62135314941406
+  pitch: 28.847455978393555
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: 397.37255065906925
+  y: 87.0
+  z: 504.30277626658716
+  yaw: 63.21649169921875
+  pitch: 29.265216827392578

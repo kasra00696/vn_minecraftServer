@@ -1,0 +1,7 @@
+[09-03-2025] [14:50:08] usernotbigdidy failed Motion (Type E) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaXZ=0.5000000000000056 modulo=2.886579864025407E-15
+[09-03-2025] [14:50:08] usernotbigdidy failed Motion (Type E) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaXZ=0.5000000000000056 modulo=2.886579864025407E-15
+[09-03-2025] [14:50:08] usernotbigdidy failed Motion (Type E) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaXZ=0.5000000000000056 modulo=2.886579864025407E-15
+[09-03-2025] [14:50:23] usernotbigdidy failed Motion (Type E) [VL: 1] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaXZ=0.4999999999999989 modulo=1.1379786002407855E-15
+[09-03-2025] [14:50:23] usernotbigdidy failed Motion (Type E) [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaXZ=0.4999999999999989 modulo=1.1379786002407855E-15
+[09-03-2025] [14:50:23] usernotbigdidy failed Flight *(Type F)* [VL: 2] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] dY=0.0 ldY=0.0 pre=-0.0784000015258789 diff=0.0784000015258789 tol=1.0E-8 tick=48 tp=47
+[09-03-2025] [14:50:23] usernotbigdidy failed Motion (Type E) [VL: 3] [Ping: 0] [TPS: 20] [Version: 1.20.5] [Client: Vanilla] deltaXZ=0.4999999999999989 modulo=1.1379786002407855E-15

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756650371972
+  login: 1756650301158
+money: '10000'
+last-account-name: tired_for_life
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 9.151761862662031
+  y: 30.0
+  z: 53.320515442578326
+  yaw: 153.38238525390625
+  pitch: 17.421363830566406
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -748.7617691119817
+  y: 63.0
+  z: 34.19595676466405
+  yaw: -23.510377883911133
+  pitch: 35.300384521484375

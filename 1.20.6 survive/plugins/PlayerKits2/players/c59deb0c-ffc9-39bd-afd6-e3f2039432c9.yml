@@ -1,0 +1,14 @@
+name: AKIAN
+kits:
+  claim:
+    cooldown: 1756632182743
+    one_time: false
+    bought: false
+  food:
+    cooldown: 1756632183511
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756632183791
+    one_time: false
+    bought: false

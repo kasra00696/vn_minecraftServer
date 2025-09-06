@@ -1,0 +1,14 @@
+name: ZeroMango
+kits:
+  food:
+    cooldown: 1756543844029
+    one_time: false
+    bought: false
+  claim:
+    cooldown: 1756543936270
+    one_time: false
+    bought: false
+  starter:
+    cooldown: 1756543937147
+    one_time: false
+    bought: false

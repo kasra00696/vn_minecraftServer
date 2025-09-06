@@ -27,7 +27,7 @@
 
 # A color code between 0-9 or a-f. Set to 'none' to disable.
 # In 1.16+, you can use hex color codes here as well (for example, #613e1d is brown).
-ops-name-color: '4'
+ops-name-color: 'none'
 
 # The character(s) to prefix all nicknames, so that you know they are not true usernames.
 # Players with 'essentials.nick.hideprefix' will not be prefixed with the character(s).
@@ -56,7 +56,7 @@ ignore-colors-in-max-nick-length: false
 hide-displayname-in-vanish: true
 
 # Disable this if you have any other plugin that modifies the display name of a player.
-change-displayname: true
+change-displayname: false
 
 # This option will cause Essentials to show players' display names instead of usernames when tab completing Essentials commands.
 # If your tab completions include prefixes and suffixes, set this option to false.
@@ -66,11 +66,11 @@ change-tab-complete-name: false
 # This setting is ignored if EssentialsChat.jar is used, and defaults to true.
 # The value of 'change-displayname' above must be true.
 # Do not edit this setting unless you know what you are doing!
-#add-prefix-suffix: false
+add-prefix-suffix: true
 
 # When this option is enabled, the (tab) player list will be updated with the display name.
 # The value of 'change-displayname' above must be true.
-#change-playerlist: true
+change-playerlist: true
 
 # When this option is enabled, player prefixes will be shown in the (tab) player list.
 # This feature only works for Minecraft version 1.8 and higher.
@@ -105,11 +105,11 @@ is-water-safe: false
 teleport-passenger-dismount: true
 
 # The delay, in seconds, required between /home, /tp, etc.
-teleport-cooldown: 0
+teleport-cooldown: 3
 
 # The delay, in seconds, before a player actually teleports.
 # If the player moves or gets attacked in this timeframe, the teleport is cancelled.
-teleport-delay: 0
+teleport-delay: 3
 
 # The delay, in seconds, during which a player can't be attacked by other players after being teleported by a command.
 # This also prevents the player from attacking others.
@@ -588,7 +588,7 @@ hide-join-quit-messages-above: -1
 # Add worlds to this list if you want to automatically disable god mode there.
 no-god-in-worlds:
   - world_end
-  #- world_nether
+  - world_nether
 
 # Set to true to enable per-world permissions for teleporting between worlds with Essentials commands.
 # This applies to /world, /back, /tp[a|o|here|all] but not warps.
@@ -613,7 +613,7 @@ repair-enchanted: true
 
 # Allow "unsafe" enchantments in kits and item spawning.
 # WARNING: Mixing and over-leveling some enchantments can cause issues with clients, servers, and plugins.
-unsafe-enchantments: false
+unsafe-enchantments: true
 
 # The maximum distance in blocks from the player that the /tree and /bigtree commands can spawn trees.
 tree-command-range-limit: 300
@@ -812,7 +812,7 @@ confirm-home-overwrite: false
 # You can control the values of items that are sold to the server by using the /setworth command and 'worth.yml'.
 
 # Defines the balance new players start with.
-starting-balance: 0
+starting-balance: 10000
 
 # Defines the cost to use the given commands PER USE.
 # Some commands like /repair have sub-costs. Check the wiki for more information.
@@ -952,7 +952,7 @@ chat:
   # Note: The {DISPLAYNAME} placeholder includes {PREFIX} and {SUFFIX} by default.
   # Using these together may result in double prefixes/suffixes in chat.
 
-  format: '<{DISPLAYNAME}> {MESSAGE}'
+  format: '{PREFIX} &8| &7{USERNAME}: &f{MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {NICKNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
@@ -1018,12 +1018,12 @@ protect:
     flint-fire: false
     lightning-fire-spread: true
     portal-creation: false
-    tnt-explosion: false
-    tnt-playerdamage: false
-    tnt-itemdamage: false
-    tnt-minecart-explosion: false
-    tnt-minecart-playerdamage: false
-    tnt-minecart-itemdamage: false
+    tnt-explosion: true
+    tnt-playerdamage: true
+    tnt-itemdamage: true
+    tnt-minecart-explosion: true
+    tnt-minecart-playerdamage: true
+    tnt-minecart-itemdamage: true
     fireball-explosion: false
     fireball-fire: false
     fireball-playerdamage: false
@@ -1205,7 +1205,7 @@ newbies:
   # {DISPLAYNAME} will be replaced with the player name.
   # Set to '' to disable.
   #announce-format: ''
-  announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
+  announce-format: '&d{DISPLAYNAME}&d be server kosh omadi!'
 
   # When players spawn for the first time, which spawnpoint should be used?
   # Set to 'none' to use the spawnpoint of the world.
@@ -1215,8 +1215,7 @@ newbies:
   # Should players receive items on their first join?
   # This kit will be given regardless of cost and permissions and won't trigger any kit delay (cooldown).
   # Set to '' to disable.
-  #kit: ''
-  kit: tools
+  kit: ''
 
 # What priority should Essentials use for handling respawns?
 # Set this to 'none' if you want vanilla respawning behavior.

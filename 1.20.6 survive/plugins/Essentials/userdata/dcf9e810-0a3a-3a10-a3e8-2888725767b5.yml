@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756999347101
+  login: 1756999132925
+money: '10000'
+last-account-name: dr_dount
+lastlocation:
+  world: 1d7c5450-3f86-4183-addb-e016859aaf84
+  world-name: world
+  x: 10.946112858401989
+  y: 30.0
+  z: 26.187238944655594
+  yaw: -51.57830810546875
+  pitch: 45.90003204345703
+logoutlocation:
+  world: 5250dcf5-4cdd-4665-9870-bafeac46998e
+  world-name: wild
+  x: -471.970773720899
+  y: 68.0
+  z: 93.80517131287658
+  yaw: 159.92164611816406
+  pitch: 64.05004119873047
